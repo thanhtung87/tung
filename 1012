@@ -707,8 +707,6 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 																					 ㅤ
-#EXTINF:-1 tvg-id="ksport1hd" group-title="THỂ THAO" tvg-logo="https://storage.googleapis.com/youth-media/post-thumbnails/QrdJ7CMzxN3bt6CYkM6O5ZsO5AddK9UUOW23HFVf.png" ,K+ SPORT1
-http://103.75.186.169/b4tv/b4tv/1.m3u8
 
 #EXTINF:0 tvg-id="sctv15hd" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/q1PkQkp/sctv15-hd-BEARTV.png" ,SCTV15 - SSPORT 2
 #EXTVLCOPT:http-user-agent="Bear TV"
