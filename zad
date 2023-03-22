@@ -646,10 +646,10 @@ http://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/CnjjjjV.png" group-title="🌏| Quốc tế",Warner TV
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="blueantent" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.imgur.com/coUNscB.png" group-title="🌏| Quốc tế",Blue Ant Entertainment
+#EXTINF:-1 tvg-id="blueantent" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.imgur.com/coUNscB.png" group-title="🌏| Quốc tế",BLUE ANT Entertainment
 http://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="blueantext" tvg-name="ROCK EXTREME" tvg-logo="https://cms.cignal.tv/Upload/Images/Rock-Extreme.jpg" group-title="🌏| Quốc tế",Blue Ant Extreme
+#EXTINF:-1 tvg-id="blueantext" tvg-name="ROCK EXTREME" tvg-logo="https://cms.cignal.tv/Upload/Images/Rock-Extreme.jpg" group-title="🌏| Quốc tế",ROCK EXTREME
 http://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="woman" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
