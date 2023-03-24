@@ -696,8 +696,13 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTINF:0 group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/Tk66hWb/ebskids.png",EBS Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
-
-
+#EXTINF:0 tvg-id="disneychannel" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/mFHXfdq/disneychannel.webp",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cocc.me/🧞.chㅤ         									
+        										
+#EXTINF:0 tvg-id="disneyjunior" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/V06P7By/disneyjunior.webp",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cocc.me/🧞.juㅤ         										
 
 
 
@@ -745,10 +750,15 @@ https://code.vthanhtivi.pw/getlink/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/p
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/PGG1dkn/ONSPORTSNEWS-BEARTV.png", ON SPORTS NEWS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/987374ca-de49-4612-a159-b71f7880d134/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onaction1.jpg" group-title="THỂ THAO",ON Sports Action - BTV5
 https://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
 
-
+#EXTINF:0 tvg-id="vtvcab23hd" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/r7tFs8D/cccab23.png",ON GOLF
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+#https:///cocc.me/cocab.23|Referer=http://sctvonline.vn/
+https:///dl.dropboxusercontent.com/s/ygrd02uqlw5hcl9//   																						 ㅤ
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="THỂ THAO", FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
@@ -976,7 +986,69 @@ http://147.50.195.35:1935/tv5hdlive/tv5hdlive/chunklist_w1165795165.m3u8
 #EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1200px-Thai_PBS_2015.svg.png", Thai PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-
+#EXTINF:0 tvg-id="mtvhd" group-title="🎸 MTV", tvg-logo="https://i.ibb.co/j66J0rV/ccmtv.png",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https:///dl.dropboxusercontent.com/s/c2wxo4jlaxltscu/																						 ㅤ
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/nMPzSN4/mtvyo.png",MTV Yo!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/FwWvFLm/mtvparty.png",MTV Block Party
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/NNZbv7D/mtvbig.png",MTV Biggest Pop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/YLc9wMM/mtvspankin.png",MTV Spankin' New
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/xDBqbxQ/mtvWMA.png",MTV VMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/HYm4pPp/KMTV.png",MTV Korea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://q.dl.dropboxusercontent.com/s/yfwdnsylcr10cdr/																						 ㅤ
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/fpCcPKJ/cckpop.png",KPop Sexy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunkist.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/BgwxQPr/cc-New-K-id.webp",New K-ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/082f2151-364a-4601-a163-ebe786fdff13/5.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/x7x3cH9/Clubbing-TV.png",Clubbing TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/0rRzrj4/deejay.png",Deejay TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streamcdne1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2816000.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/VMP2hFL/v2beat.jpg",V2 Beat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://abr.de1se01.v2beat.live/playlist.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/Y39Hp46/1mus.png",1 Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://hz1.teleport.cc/HLS/HD.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/7QX16RW/1HDmusic.png",1HD Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/1hd_36_37.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/rFsvN1L/VIVA-cc.png",VIVA Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/QJ4bLnY/vevo.png",VEVO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/84Tjwtt/vevolatino.jpg",VEVO Latino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/fS8QQ05/vevohiphop.jpg",VEVO Hip-hop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/DK1tk8d/vevor-b.jpg",VEVO R&B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&sid=ROKUCHANNEL-91cdfe39-7b3d-4ae7-8b46-00ba9f673adf&advertisingId=channel&deviceLat=0&deviceLon=0&deviceDNT=1&deviceModel=web
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/rp5tD6D/vevocountry.jpg",VEVO Country
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceId=channel&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&sid=ROKUCHANNEL-fb17f921-7808-4478-a052-f4e0d9d13385&advertisingId=channel&deviceLat=0&deviceLon=0&deviceDNT=1&deviceModel=web
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/ZNFbpBS/vevopop.jpg",VEVO Pop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=890&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web
 
 
 #EXTINF:-1 group-title="🎧| MP3" tvg-logo="https://i.ibb.co/JKNzw75/ccpladio.png",F• Pladio
