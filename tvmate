@@ -676,9 +676,6 @@ http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="happykids"  group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy KIDS
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="cbeebies" tvg-name="BBC CBEEBIES" tvg-logo="https://i.imgur.com/ePT0YZ4.png" group-title="THIẾU NHI",BBC CBEEBIES
-http://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/vD7cGzQ/Boomerang-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8, Boomerang
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
