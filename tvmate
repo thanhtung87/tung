@@ -696,15 +696,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTINF:0 group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/Tk66hWb/ebskids.png",EBS Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
-#EXTINF:0 tvg-id="disneychannel" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/mFHXfdq/disneychannel.webp",Disney Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cocc.me/🧞.chㅤ         									
-        										
-#EXTINF:0 tvg-id="disneyjunior" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/V06P7By/disneyjunior.webp",Disney Junior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cocc.me/🧞.juㅤ         										
-
-
+    										
 
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/E3OjM1k.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV Thể Thao
@@ -916,6 +908,12 @@ https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://i.imgur.com/vBwWXZZ.png" group-title="🌏| Quốc tế",CNN
 https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/x7x3cH9/Clubbing-TV.png",Clubbing TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8?cc
+#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/Y39Hp46/1mus.png",1 Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://hz1.teleport.cc/HLS/HD.m3u8?cc
 
 #EXTINF:-1 tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://i.imgur.com/kzP4EEU.png" group-title="🌏| Quốc tế",Arirang
 http://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
@@ -1009,18 +1007,14 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunkist.m3u8?cc
 #EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/BgwxQPr/cc-New-K-id.webp",New K-ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/082f2151-364a-4601-a163-ebe786fdff13/5.m3u8?cc
-#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/x7x3cH9/Clubbing-TV.png",Clubbing TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8?cc
+
 #EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/0rRzrj4/deejay.png",Deejay TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streamcdne1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2816000.m3u8?cc
 #EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/VMP2hFL/v2beat.jpg",V2 Beat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://abr.de1se01.v2beat.live/playlist.m3u8?cc
-#EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/Y39Hp46/1mus.png",1 Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://hz1.teleport.cc/HLS/HD.m3u8?cc
+
 #EXTINF:0 group-title="🎸 MTV" tvg-logo="https://i.ibb.co/7QX16RW/1HDmusic.png",1HD Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sc.id-tv.kz/1hd_36_37.m3u8?cc
