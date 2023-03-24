@@ -899,11 +899,6 @@ http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cctv13" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 TRUNG QUỐC
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2022/11/hkibc-live-vipotv-china.png", HKIBC
-https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w736934132.m3u8
-
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/eSNdW3n.png",Phoenix Infonews HD
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/KxxvR2X.png",CNBC Asia-Pacific
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
