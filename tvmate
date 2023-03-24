@@ -818,7 +818,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 http://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:0  tvg-id="blueantext" group-title="🌏KÊNH PHIM", tvg-logo="https://i.ibb.co/0tpDsJD/RockExt.png",Rock Extreme
+#EXTINF:0  tvg-id="blueantext" group-title="🌏KÊNH PHIM", tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a2/Blue_Ant_Extreme.png/revision/latest?cb=20220324135737&path-prefix=vi",BLUE ANT EXTREME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8?cc
 
