@@ -810,14 +810,7 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🌏KÊNH PHIM" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="inthebox" group-title="🌏KÊNH PHIM" tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",BOX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///b.dl.dropboxusercontent.com/s/yfahd6soi0j4e4o//   																						 ㅤ
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-#EXTINF:0 tvg-id="boxhits" group-title="🌏KÊNH PHIM" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp",BOX Hits   
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///b.dl.dropboxusercontent.com/s/7o8scv57k53gaee//   																						 ㅤ
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="🌏KÊNH PHIM" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
 #EXTVLCOPT:http-user-agent="BearTV"
