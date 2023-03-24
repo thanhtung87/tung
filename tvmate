@@ -726,19 +726,21 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8?cc|Referer=ht
 #https://s.dl.dropboxusercontent.com/s/bphsqg38pbu9fet/./   	
 
 
-#EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/tsBYvZ4/onsports-BEARTV.png" group-title="THỂ THAO" ,ON SPORTS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/HVfRdJF/bongdaviet-BEARTV.png", BÓNG ĐÁ VIỆT
 http://code.vthanhtivi.pw/getlink/onplus/ONVFFTV/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/q1WdMrb/thethaoviet-BEARTV.png", THỂ THAO VIỆT
 http://code.vthanhtivi.pw/getlink/onplus/ONVOLLEYBALL/m30_index.m3u8
 
+
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://i.ibb.co/vd1LBK7/onfootbal-BEARTV.png" group-title="THỂ THAO" ,ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/tsBYvZ4/onsports-BEARTV.png" group-title="THỂ THAO" ,ON SPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/PGG1dkn/ONSPORTSNEWS-BEARTV.png", ON SPORTS NEWS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
