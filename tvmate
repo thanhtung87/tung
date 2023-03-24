@@ -925,10 +925,7 @@ http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 
 
 QUOC TE TONG HOP
-#EXTINF:0  tvg-id="man" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/Yj6BTzZ/Man-cc.webp",Man
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///dl.dropboxusercontent.com/s/ztlu9qvjknkjjs9//   																						 ㅤ
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="woman" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
 https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="drfithd" type="stream" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/n0DZ21g/ccdrfit.webp",Dr. Fit
