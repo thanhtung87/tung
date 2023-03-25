@@ -865,10 +865,7 @@ QUOC TE TONG HOP
 
 #EXTINF:-1 tvg-id="woman" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
 https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="drfithd" type="stream" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/n0DZ21g/ccdrfit.webp",Dr. Fit
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https:///dl.dropboxusercontent.com/s/ans2dqvexlyabu4//   																						 ㅤ |Referer=https://sctvonline.vn/
+																						 ㅤ |Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="tlchd" tvg-name="TLC" tvg-logo="https://i.imgur.com/GTULNgT.png" group-title="🌏| Quốc tế",TLC
 http://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 
