@@ -174,6 +174,4 @@ https://live.tuyenquangtv.vn/hls/radio.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/184.png", Yên Bái
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", Mixbox Live Jpop
-https://code.vthanhtivi.pw/getlink/radio/mixbox/playlist.m3u8
 
