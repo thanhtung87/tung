@@ -574,9 +574,7 @@ https://code.vthanhtivi.pw/getlink/vieon2/2eb37e8d-2abf-4bce-aa44-b3b9a4460469/p
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d65f1df2-54fd-46d8-a958-ae9d6ec2b868/dvr-${start}-${offset}.m3u8", ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/d65f1df2-54fd-46d8-a958-ae9d6ec2b868/playlist.m3u8
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/dvr-${start}-${offset}.m3u8", ON Golf
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="vtc11" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/AyBxScM.png",VTC11
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -655,7 +653,9 @@ http://code.vthanhtivi.pw/getlink/onplus/ONVFFTV/m30_index.m3u8
 http://code.vthanhtivi.pw/getlink/onplus/ONVOLLEYBALL/m30_index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onaction1.jpg" group-title="THỂ THAO",ON Sports Action - BTV5
 https://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
-
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/dvr-${start}-${offset}.m3u8", ON Golf
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="THỂ THAO", FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
