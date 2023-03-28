@@ -511,7 +511,15 @@ https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="http://tvtructuyen.vn/wp-content/uploads/2018/07/large_sctv12.png", SCTV12
 https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png", SCTV13
+https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16
+https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png", SCTV19
+https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/82.png", SCTV20
+https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/NYSr7Kn/VTVCAB1-BEARTV.png",VTVCab1 - Vie GIẢI TRÍ
 https://livevlive.vtvcab.vn/hls/GIAITRI_TV_HD_CL/sc-gaFEAQ/m20_index.m3u8
 
@@ -562,6 +570,15 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil /chunklist_b5000000.m3u8?cc
 #https://drm-livecdn.hplus.com.vn/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8?cc
+
+#EXTINF:-1 tvg-id="sctv15hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15
+https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv17hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17
+https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sctv22hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/tsBYvZ4/onsports-BEARTV.png" group-title="THỂ THAO" ,ON SPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/playlist.m3u8
