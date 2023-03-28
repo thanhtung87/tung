@@ -547,9 +547,7 @@ https://code.vthanhtivi.pw/getlink/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/p
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/dvr-${start}-${offset}.m3u8", ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/playlist.m3u8
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/0327f7ef-4c0f-4e66-a240-819452590d40/dvr-${start}-${offset}.m3u8", ON BiBi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/0327f7ef-4c0f-4e66-a240-819452590d40/playlist.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/6c7701f5-7ea6-4168-a245-3be82065ae58/dvr-${start}-${offset}.m3u8", ON Info TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/6c7701f5-7ea6-4168-a245-3be82065ae58/playlist.m3u8
@@ -587,11 +585,9 @@ https://code.vthanhtivi.pw/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/p
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 HD
 https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8
-#EXTINF:0 tvg-id="vtvcab8hd" type="stream" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/pjtMHJW/cccvcab8.webp",ON BIBI
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referer=http://sctvonline.vn/
-#https:///cocc.me/cocab.08|Referer=http://sctvonline.vn/
-https:///dl.dropboxusercontent.com/s/e5ucgk3xlffmsxm//   																						 ㅤ |Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/0327f7ef-4c0f-4e66-a240-819452590d40/dvr-${start}-${offset}.m3u8", ON BiBi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/0327f7ef-4c0f-4e66-a240-819452590d40/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/7VS4Jcw/ON-Kids-BEARTV.png" ,ON KIDS
 https://vietanhtv.xyz/vipvieon.php?id=vtvcab21
 #EXTINF:-1 tvg-id="babytvhd" tvg-name="Baby TV" tvg-logo="http://www.todaysparent.com/wp-content/uploads/2014/12/blanket-baby-article.jpg" group-title="THIẾU NHI",Baby TV
