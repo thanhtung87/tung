@@ -280,7 +280,7 @@ https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="quangninh1" group-title="🇻🇳| Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/QTV1.png/revision/latest?cb=20210529095744&path-prefix=vi",QTV1 - QUẢNG NINH 1
+#EXTINF:0 tvg-id="quangninh1" group-title="🇻🇳| Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/QTV1.png/revision/latest?cb=20210529095744&path-prefix=vi",QUẢNG NINH 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
 
