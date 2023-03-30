@@ -48,7 +48,7 @@ https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="bentre" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/l8Ae26m.png",THBT - BẾN TRE
+#EXTINF:-1 tvg-id="bentre" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/l8Ae26m.png",BẾN TRE
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 
@@ -60,7 +60,7 @@ https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THTV2_logo_19-06-2022.png/revision/latest/scale-to-width-down/1200?cb=20220624075054&path-prefix=vi",THTV2 - TRÀ VINH 2
+#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THTV2_logo_19-06-2022.png/revision/latest/scale-to-width-down/1200?cb=20220624075054&path-prefix=vi",TRÀ VINH 2
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w404319852.m3u8
 
 #EXTINF:-1 tvg-id="soctrang1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ytimg.com/vi/l6m7BqH1YY0/maxresdefault.jpg",SÓC TRĂNG 1
@@ -175,7 +175,7 @@ https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="daknong" tvg-logo="https://i.imgur.com/XIXZD36.png" group-title="🇻🇳| Địa phương" catchup="append" catchup-days="2" catchup-source="https://16371223541843.vnns.net/daknong_abr/vtc130121/daknong-480p/playlist_dvr_range-${start}-${offset}.m3u8",PTD HD - ĐẮK NÔNG
+#EXTINF:-1 tvg-id="daknong" tvg-logo="https://i.imgur.com/XIXZD36.png" group-title="🇻🇳| Địa phương" catchup="append" catchup-days="2" catchup-source="https://16371223541843.vnns.net/daknong_abr/vtc130121/daknong-480p/playlist_dvr_range-${start}-${offset}.m3u8",ĐẮK NÔNG
 https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="gialai" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/ZEAxzoF.png",GIA LAI
