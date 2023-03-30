@@ -81,7 +81,7 @@ https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 tvg-id="youtv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/fqgMpWb/hanoicab2-BEARTV.png", Hanoicab2 - YouTV
+#EXTINF:-1 tvg-id="youtv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/fqgMpWb/hanoicab2-BEARTV.png", YOU TV - HCATV2
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
