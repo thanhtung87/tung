@@ -746,15 +746,16 @@ https://vips-livecdn.fptplay.net/hda3/bloomberg_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://i.imgur.com/B6jnE9k.png" group-title="🌏| Quốc tế",DW
 http://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/iX9c7AK.png" group-title="🌏| Quốc tế",Channel NewsAsia
-http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
-
+#EXTINF:-1 tvg-id="cctv13" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 TRUNG QUỐC
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2022/10/Hoy-TV-live-vipotv-hong-hong.png", HOY TV
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/RTHK-32-live-vipotv-china.png", RTHK 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/iX9c7AK.png" group-title="🌏| Quốc tế",Channel NewsAsia
+http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/KxxvR2X.png",CNBC Asia-Pacific
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
