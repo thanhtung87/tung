@@ -653,9 +653,6 @@ http://code.vthanhtivi.pw/getlink/onplus/ONVOLLEYBALL/m30_index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onaction1.jpg" group-title="THỂ THAO",ON Sports Action - BTV5
 https://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="THỂ THAO", FIGHT SPORTS
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vDb6ZGV/REDBULL-BEARTV.png" group-title="THỂ THAO",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
