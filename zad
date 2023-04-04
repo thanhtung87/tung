@@ -680,8 +680,6 @@ http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="ngwhd" tvg-name="Nat Geo Wild" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/Nat_Geo_Wild_2006.png/revision/latest/scale-to-width-down/640?cb=20220201150519&path-prefix=vi" group-title="🌏| Quốc tế",Nat Geo Wild
-http://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="ngchd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/O13uMvJ.png",NGC Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -769,6 +767,10 @@ http://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://i.imgur.com/pKUX98A.png" group-title="🌏| Quốc tế",KBS World
 http://livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-1-vipotv.png", EBS 1
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-2-vipotv.png" ,EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World" tvg-logo="https://i.imgur.com/f3f3d79.png" group-title="🌏| Quốc tế",NHK World
@@ -811,5 +813,8 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/n8097VD/RHM-HDTV-BEARTV.png", Rasmey Hang Meas HDTV
 http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
+#EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1200px-Thai_PBS_2015.svg.png", Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
 
 
