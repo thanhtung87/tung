@@ -779,13 +779,9 @@ http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="🌏KÊNH PHIM" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-
+http://live.vthanhtivi.pw/hbo
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🌏KÊNH PHIM" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", CINEMAX
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
-
+http://live.vthanhtivi.pw/cinemax
 
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🌏KÊNH PHIM" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinema World
 #EXTVLCOPT:http-user-agent="BearTV"
