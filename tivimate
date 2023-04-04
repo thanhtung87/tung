@@ -406,16 +406,16 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png" ,VTV5 TÂY NAM BỘ
 https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="VTV" tvg-logo="https://pbs.twimg.com/media/Fa6-tcfacAA0WFd?format=png", VNews
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="VTV" tvg-logo="https://pbs.twimg.com/media/Fa6-tcfacAA0WFd?format=png", V News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="nhandan"  group-title="VTV" tvg-logo="https://i.ibb.co/RhrbpSR/Nhan-Dan-cc.webp",Nhân Dân TV
+#EXTINF:0 tvg-id="nhandan"  group-title="VTV" tvg-logo="https://i.ibb.co/RhrbpSR/Nhan-Dan-cc.webp",NHÂN DÂN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8?cc
 
 
-#EXTINF:-1 tvg-id="quochoi" group-title="VTV" tvg-logo="https://i.imgur.com/ZccZtme.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Quốc Hội TV
+#EXTINF:-1 tvg-id="quochoi" group-title="VTV" tvg-logo="https://i.imgur.com/ZccZtme.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",QUỐC HỘI TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 
@@ -479,7 +479,7 @@ https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/jHJ0Qnp.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC16
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV
+#EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOV TV
 http://103.90.220.236/vovlive/tv1live.m3u8
 
 SCTV
