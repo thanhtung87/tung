@@ -704,8 +704,6 @@ http://redlabmcdn.s.llnwi.net/nv02/bs11hd/tracks-v1a1/mono.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png" group-title="THỂ THAO",Diema Sport
 http://204.12.247.162:8080/premium465/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Diema-sport-3-hd-logo-black.png/revision/latest/scale-to-width-down/1200?cb=20210701075906" group-title="THỂ THAO",Diema Sport 3
-http://204.12.247.162:8080/premium467/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="THỂ THAO",Sky Sport MotoGP
 http://204.12.247.162:8080/premium59/mono.m3u8
