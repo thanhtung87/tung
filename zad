@@ -244,11 +244,11 @@ https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="nghean" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FLvFSLS.png",NGHỆ AN
+#EXTINF:-1 tvg-id="nghean" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/FLvFSLS.png",NGHỆ AN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ninhbinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/pL4NqYO.png",NINH BÌNH
+#EXTINF:-1 tvg-id="ninhbinh" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/pL4NqYO.png",NINH BÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist_b2500000.m3u8
 
@@ -276,7 +276,7 @@ https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/Xh6cZmD.png",QUẢNG NGÃI
+#EXTINF:-1 group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/Xh6cZmD.png",QUẢNG NGÃI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 
