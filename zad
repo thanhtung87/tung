@@ -2,242 +2,245 @@
 
 DIA PHUONG
 
-#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="🇻🇳| Địa phương" tvg-logo="https://downloadlogomienphi.com/sites/default/files/logos/download-logo-vector-tinh-vinh-long-mien-phi.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 1
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="🇻🇳 Địa phương" tvg-logo="https://downloadlogomienphi.com/sites/default/files/logos/download-logo-vector-tinh-vinh-long-mien-phi.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 1
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="🇻🇳| Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg/375px-V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 2
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="🇻🇳 Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg/375px-V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 2
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://global-uploads.webflow.com/60af8c708c6f35480d067652/62499a926ad06a11dfe892d0_screenshot_1648990845.png",VĨNH LONG 3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳 Địa phương" tvg-logo="https://global-uploads.webflow.com/60af8c708c6f35480d067652/62499a926ad06a11dfe892d0_screenshot_1648990845.png",VĨNH LONG 3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdnmedia.baotintuc.vn/Upload/e9GdNZvHDFi8lZSWc6ubA/files/2020/07/cau-my-thuan-31720a.jpg",VĨNH LONG 4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳 Địa phương" tvg-logo="https://cdnmedia.baotintuc.vn/Upload/e9GdNZvHDFi8lZSWc6ubA/files/2020/07/cau-my-thuan-31720a.jpg",VĨNH LONG 4
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/k9FyzM3.png",BTV9  - AnVienTV
+#EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/k9FyzM3.png",BTV9  - AnVienTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AN NINH TV
+#EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AN NINH TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HẬU GIANG
+#EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HẬU GIANG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/11UmfZD.png",ĐỒNG THÁP 1
+#EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/11UmfZD.png",ĐỒNG THÁP 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dongthap2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FsCTf6v.png",THĐT2 - MIỀN TÂY
+#EXTINF:-1 tvg-id="dongthap2" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/FsCTf6v.png",THĐT2 - MIỀN TÂY
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cantho" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/0fGI8cJ.png",CẦN THƠ
+#EXTINF:-1 tvg-id="cantho" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/0fGI8cJ.png",CẦN THƠ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="longan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FFWePVH.png",LONG AN
+#EXTINF:-1 tvg-id="longan" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/FFWePVH.png",LONG AN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 tvg-id="angiang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/0TkI4Ar.png",AN GIANG
+#EXTINF:-1 tvg-id="angiang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/0TkI4Ar.png",AN GIANG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="bentre" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/l8Ae26m.png",BẾN TRE
+#EXTINF:-1 tvg-id="bentre" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/l8Ae26m.png",BẾN TRE
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="tiengiang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/UTSrapf.png",TIỀN GIANG
+#EXTINF:-1 tvg-id="tiengiang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/UTSrapf.png",TIỀN GIANG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="travinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/I0yNz1o.png",TRÀ VINH 1
+#EXTINF:0 tvg-id="travinh" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/I0yNz1o.png",TRÀ VINH 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THTV2_logo_19-06-2022.png/revision/latest/scale-to-width-down/1200?cb=20220624075054&path-prefix=vi",TRÀ VINH 2
+#EXTINF:-1 group-title="🇻🇳 Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THTV2_logo_19-06-2022.png/revision/latest/scale-to-width-down/1200?cb=20220624075054&path-prefix=vi",TRÀ VINH 2
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w404319852.m3u8
 
-#EXTINF:-1 tvg-id="soctrang1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ytimg.com/vi/l6m7BqH1YY0/maxresdefault.jpg",SÓC TRĂNG 1
+#EXTINF:-1 tvg-id="soctrang1" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ytimg.com/vi/l6m7BqH1YY0/maxresdefault.jpg",SÓC TRĂNG 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="baclieu" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/ATG11ql.png",BẠC LIÊU
+#EXTINF:-1 tvg-id="baclieu" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/ATG11ql.png",BẠC LIÊU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="kiengiang" group-title="🇻🇳| Địa phương" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_kg.png",KIÊN GIANG 
+#EXTINF:-1 tvg-id="kiengiang" group-title="🇻🇳 Địa phương" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_kg.png",KIÊN GIANG 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/YkEommU.png",CÀ MAU
+#EXTINF:-1 tvg-id="camau" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/YkEommU.png",CÀ MAU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/98.png", HiTV HD - HCATV1
+#EXTINF:-1 tvg-id="" group-title="🇻🇳 Địa phương" tvg-logo="http://img-zlr2.tv360.vn/tv360-static/static/web/images/logo.png" ,TV360
+http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
+
+#EXTINF:-1 tvg-id="hitv" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/98.png", HiTV HD - HCATV1
 https://code.vthanhtivi.pw/getlink/mytv/45/hd.m3u8
 
-#EXTINF:-1 tvg-id="youtv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/fqgMpWb/hanoicab2-BEARTV.png", YOU TV - HCATV2
+#EXTINF:-1 tvg-id="youtv" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/fqgMpWb/hanoicab2-BEARTV.png", YOU TV - HCATV2
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/Soe6MC8.png",BÌNH DƯƠNG 1
+#EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/Soe6MC8.png",BÌNH DƯƠNG 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/pEaPECX.png",BÌNH DƯƠNG 2
+#EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/pEaPECX.png",BÌNH DƯƠNG 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.postimg.cc/YSz4DW0g/btv3.png",BÌNH DƯƠNG 3
+#EXTINF:-1 group-title="🇻🇳 Địa phương" tvg-logo="https://i.postimg.cc/YSz4DW0g/btv3.png",BÌNH DƯƠNG 3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="binhduong4" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/s84z1mZ.png",BÌNH DƯƠNG 4
+#EXTINF:-1 tvg-id="binhduong4" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/s84z1mZ.png",BÌNH DƯƠNG 4
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="btv6" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/d6GLN69/BTV6-BEARTV.png",BÌNH DƯƠNG 6
+#EXTINF:-1 tvg-id="btv6" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/d6GLN69/BTV6-BEARTV.png",BÌNH DƯƠNG 6
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="binhphuoc1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/rI99hNn.png",BÌNH PHƯỚC 1
+#EXTINF:-1 tvg-id="binhphuoc1" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/rI99hNn.png",BÌNH PHƯỚC 1
 http://103.90.220.236/bptvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="binhphuoc2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/97Kgo2U.png",BÌNH PHƯỚC 2
+#EXTINF:0 tvg-id="binhphuoc2" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/97Kgo2U.png",BÌNH PHƯỚC 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/x7NLopc.png",ĐỒNG NAI 1
+#EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/x7NLopc.png",ĐỒNG NAI 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FEVaoJH.png",ĐỒNG NAI 2
+#EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/FEVaoJH.png",ĐỒNG NAI 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="tayninh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/8rGiYuk.png",TÂY NINH
+#EXTINF:0 tvg-id="tayninh" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/8rGiYuk.png",TÂY NINH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vungtau" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/UKNvTOK.png",BÀ RIẠ VŨNG TÀU
+#EXTINF:-1 tvg-id="vungtau" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/UKNvTOK.png",BÀ RIẠ VŨNG TÀU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/tW0pGBM.png",BÌNH THUẬN
+#EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/tW0pGBM.png",BÌNH THUẬN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/N2gUYoh.png",KHÁNH HOÀ
+#EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/N2gUYoh.png",KHÁNH HOÀ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/khanhhoa_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="binhdinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/WgLPxi6.png",BÌNH ĐỊNH
+#EXTINF:-1 tvg-id="binhdinh" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/WgLPxi6.png",BÌNH ĐỊNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="bacgiang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/j9lbGel.png",BẮC GIANG
+#EXTINF:-1 tvg-id="bacgiang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/j9lbGel.png",BẮC GIANG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="baccan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/6HQeLRw.png",BẮC KẠN
+#EXTINF:-1 tvg-id="baccan" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/6HQeLRw.png",BẮC KẠN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="bacninh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/sPyR9t6.png",BẮC NINH
+#EXTINF:-1 tvg-id="bacninh" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/sPyR9t6.png",BẮC NINH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/bacninh_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="caobang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/kETe9LN.png",CAO BẰNG
+#EXTINF:-1 tvg-id="caobang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/kETe9LN.png",CAO BẰNG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/caobang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="danang1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/EdXvjrH.png",ĐÀ NẴNG 1
+#EXTINF:-1 tvg-id="danang1" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/EdXvjrH.png",ĐÀ NẴNG 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="danang2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/6SujuqZ.png",ĐÀ NẴNG 2
+#EXTINF:-1 tvg-id="danang2" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/6SujuqZ.png",ĐÀ NẴNG 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/danang2_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="dienbien" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/hMDRDxN.png",ĐIỆN BIÊN
+#EXTINF:-1 tvg-id="dienbien" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/hMDRDxN.png",ĐIỆN BIÊN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="daklak" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jtyDVU5.png",ĐẮK LẮK
+#EXTINF:-1 tvg-id="daklak" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/jtyDVU5.png",ĐẮK LẮK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="daknong" tvg-logo="https://i.imgur.com/XIXZD36.png" group-title="🇻🇳| Địa phương" catchup="append" catchup-days="2" catchup-source="https://16371223541843.vnns.net/daknong_abr/vtc130121/daknong-480p/playlist_dvr_range-${start}-${offset}.m3u8",ĐẮK NÔNG
+#EXTINF:-1 tvg-id="daknong" tvg-logo="https://i.imgur.com/XIXZD36.png" group-title="🇻🇳 Địa phương" catchup="append" catchup-days="2" catchup-source="https://16371223541843.vnns.net/daknong_abr/vtc130121/daknong-480p/playlist_dvr_range-${start}-${offset}.m3u8",ĐẮK NÔNG
 https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="gialai" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/ZEAxzoF.png",GIA LAI
+#EXTINF:-1 tvg-id="gialai" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/ZEAxzoF.png",GIA LAI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="hagiang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/iKZnv33.png",HÀ GIANG
+#EXTINF:-1 tvg-id="hagiang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/iKZnv33.png",HÀ GIANG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="hanam" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/NgcSFah.png",HÀ NAM
+#EXTINF:-1 tvg-id="hanam" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/NgcSFah.png",HÀ NAM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/RDhIBea.png",HÀ NỘI 1
+#EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/RDhIBea.png",HÀ NỘI 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/7j7Lxgy/Ha-Noi2-cc.webp",HÀ NỘI 2
+#EXTINF:0 tvg-id="hanoi2" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/7j7Lxgy/Ha-Noi2-cc.webp",HÀ NỘI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8?cc
 #https://vips-livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8?cc
-#EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/5Vgbggw.png",HÀ TĨNH
+#EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/5Vgbggw.png",HÀ TĨNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="haiduong" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/KhCkxnm/Hai-Duong-cc.webp",HẢI DƯƠNG
+#EXTINF:-1 tvg-id="haiduong" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/KhCkxnm/Hai-Duong-cc.webp",HẢI DƯƠNG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="haiphong" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/cfrJxx5.png",HẢI PHÒNG
+#EXTINF:0 tvg-id="haiphong" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/cfrJxx5.png",HẢI PHÒNG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="hoabinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/DPZuHcV.png",HÒA BÌNH
+#EXTINF:-1 tvg-id="hoabinh" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/DPZuHcV.png",HÒA BÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/Xmbssq4.png",HƯNG YÊN
+#EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/Xmbssq4.png",HƯNG YÊN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/hungyen_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="kontum" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/akPWFQ4.png",KOM TUM
+#EXTINF:-1 tvg-id="kontum" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/akPWFQ4.png",KOM TUM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="laichau" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/EDedDbI.png",LAI CHÂU
+#EXTINF:-1 tvg-id="laichau" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/EDedDbI.png",LAI CHÂU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="laocai" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/ldwQU4L.png",LÀO CAI
+#EXTINF:-1 tvg-id="laocai" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/ldwQU4L.png",LÀO CAI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="langson" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/9wvcRIV.png",LẠNG SƠN
+#EXTINF:-1 tvg-id="langson" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/9wvcRIV.png",LẠNG SƠN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/langson_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="lamdong" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/iaexSxL.png",LÂM ĐỒNG
+#EXTINF:-1 tvg-id="lamdong" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/iaexSxL.png",LÂM ĐỒNG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:0 tvg-id="namdinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/pMJZOnw.png",NAM ĐỊNH
+#EXTINF:0 tvg-id="namdinh" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/pMJZOnw.png",NAM ĐỊNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 
@@ -249,27 +252,27 @@ https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ninhthuan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/9bFk5Lj.png",NINH THUẬN
+#EXTINF:-1 tvg-id="ninhthuan" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/9bFk5Lj.png",NINH THUẬN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="phutho" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/LXuRwJY.png",PHÚ THỌ
+#EXTINF:-1 tvg-id="phutho" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/LXuRwJY.png",PHÚ THỌ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="phuyen" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/DJsuiHq.png",PHÚ YÊN
+#EXTINF:-1 tvg-id="phuyen" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/DJsuiHq.png",PHÚ YÊN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="quangbinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/PGDho70.png",QUẢNG BÌNH
+#EXTINF:-1 tvg-id="quangbinh" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/PGDho70.png",QUẢNG BÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="quangtri" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/xl4m2mn.png",QUẢNG TRỊ
+#EXTINF:-1 tvg-id="quangtri" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/xl4m2mn.png",QUẢNG TRỊ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="quangnam" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/eRpyJmO.png",QUẢNG NAM
+#EXTINF:-1 tvg-id="quangnam" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/eRpyJmO.png",QUẢNG NAM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
 
@@ -277,44 +280,44 @@ https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="quangninh1" group-title="🇻🇳| Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/QTV1.png/revision/latest?cb=20210529095744&path-prefix=vi",QUẢNG NINH 1
+#EXTINF:0 tvg-id="quangninh1" group-title="🇻🇳 Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/QTV1.png/revision/latest?cb=20210529095744&path-prefix=vi",QUẢNG NINH 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="quangninh3" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/QVTb6Ed.png",QUẢNG NINH 3
+#EXTINF:0 tvg-id="quangninh3" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/QVTb6Ed.png",QUẢNG NINH 3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="sonla" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/xjkm6Zg.png",SƠN LA
+#EXTINF:-1 tvg-id="sonla" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/xjkm6Zg.png",SƠN LA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="thaibinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/gwOQBas.png",THÁI BÌNH
+#EXTINF:-1 tvg-id="thaibinh" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/gwOQBas.png",THÁI BÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="thainguyen" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/4NRG4bl.png",THÁI NGUYÊN
+#EXTINF:-1 tvg-id="thainguyen" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/4NRG4bl.png",THÁI NGUYÊN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/thainguyen_2000.stream/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="thanhhoa" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/UwTCbZ5.png",THANH HÓA
+#EXTINF:-1 tvg-id="thanhhoa" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/UwTCbZ5.png",THANH HÓA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="TT hue" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/HQ7jCa6.png",THỪA THIÊN HUẾ
+#EXTINF:-1 tvg-id="TT hue" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/HQ7jCa6.png",THỪA THIÊN HUẾ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="tuyenquang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/YdZcLXR.png",TUYÊN QUANG
+#EXTINF:-1 tvg-id="tuyenquang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/YdZcLXR.png",TUYÊN QUANG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vinhphuc" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/k0gVM7y.png",VĨNH PHÚC
+#EXTINF:-1 tvg-id="vinhphuc" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/k0gVM7y.png",VĨNH PHÚC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="yenbai" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/k1Lawye.png",YÊN BÁI
+#EXTINF:-1 tvg-id="yenbai" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/k1Lawye.png",YÊN BÁI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 
