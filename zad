@@ -584,7 +584,7 @@ https://code.vthanhtivi.pw/getlink/vieon2/0327f7ef-4c0f-4e66-a240-819452590d40/p
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/005a05b2-14d6-4b94-9318-9e3bb78f6311/playlist.m3u8
 
-#EXTINF:-1 tvg-id="babytvhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/babytvhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BabyTV
+#EXTINF:-1 tvg-id="babytvhd" group-title="THIẾU NHI" tvg-logo="https://todaysparent.mblycdn.com/uploads/tp/2014/12/blanket-baby-article.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/babytvhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BabyTV
 http://cdn-cf.vthanhtivi.pw/fptplay/babytv-hd/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax
 http://cdn-cf.vthanhtivi.pw/fptplay/animax/bitrate_5000.m3u8
@@ -593,17 +593,17 @@ http://cdn-cf.vthanhtivi.pw/fptplay/animax/bitrate_5000.m3u8
 #https://code.vthanhtivi.pw/getlink/cliptv/824/chunklist_b5128000.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
 
-#EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://play-lh.googleusercontent.com/kYpK6eJD4U_HA_hqA-Up7PgLCCaCqaNTqq8MslH0rGzMUUKWasd5TFiwYxrNYbOz7yg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://play-lh.googleusercontent.com/kYpK6eJD4U_HA_hqA-Up7PgLCCaCqaNTqq8MslH0rGzMUUKWasd5TFiwYxrNYbOz7yg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network
 http://cdn-cf.vthanhtivi.pw/fptplay/cartoon-network/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/aIAaCce.png" group-title="THIẾU NHI",Da Vinci
 http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cbeebies" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", Cbeebies
 http://cdn-cf.vthanhtivi.pw/fptplay/cbeebies/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang HD
+#EXTINF:-1 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXXTUeuRXPFbgTs4Ym9dqAgHFcGDLdnikW6NmRVKA=s900-c-k-c0x00ffffff-no-rj" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang HD
 http://cdn-cf.vthanhtivi.pw/fptplay/boomerang/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="dreamworks" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
+#EXTINF:-1 tvg-id="dreamworks" group-title="THIẾU NHI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/846/chunklist_b5128000.m3u8
 
@@ -671,8 +671,6 @@ http://204.12.247.162:8080/premium44/mono.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:0 group-title="THỂ THAO" tvg-logo="https://i.ibb.co/WWrSQT9/TVRI-Sport-HD-BEARTV.png", TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png", SUKAN RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=5
 
 #EXTINF:-1 tvg-id="animalhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
 http://cdn-cf.vthanhtivi.pw/fptplay/animal-planet/bitrate_5000.m3u8
@@ -801,19 +799,10 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/k4WZXFv/TVRI-BEARTV.png", TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/dJDgHJq/TVOKEY-BEARTV.png", OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
-#EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png", BERITA RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=4
-#EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
-
-#EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png", TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/n1dGjWL/HMHDTV-BEARTV.png", Hangmeas TV
 http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/n8097VD/RHM-HDTV-BEARTV.png", Rasmey Hang Meas HDTV
+#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/n8097VD/RHM-HDTV-BEARTV.png", Rasmey Hang Meas
 http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
 #EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1200px-Thai_PBS_2015.svg.png", Thai PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
