@@ -696,12 +696,10 @@ https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 http://cdn-cf.vthanhtivi.pw/fptplay/axn/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="cinemaworldhd" tvg-name="Cinema World" tvg-logo="https://i.imgur.com/MqpUsLb.png" group-title="🌏| Quốc tế",Cinema World
-http://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="warnertvhd" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/CnjjjjV.png" group-title="🌏| Quốc tế",Warner TV
-http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
+http://cdn-cf.vthanhtivi.pw/fptplay/cinemaworld/bitrate_5000.m3u8
+#EXTINF:-1 tvg-id="warnertvhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
+http://cdn-cf.vthanhtivi.pw/fptplay/warner-tv/bitrate_5000.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
