@@ -679,8 +679,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 http://cdn-cf.vthanhtivi.pw/fptplay/animal-planet/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
 http://cdn-cf.vthanhtivi.pw/fptplay/bbc-earth/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
-https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
+
 #EXTINF:-1 tvg-id="ngchd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic HD
 http://cdn-cf.vthanhtivi.pw/fptplay/national-geographic-hd/bitrate_5000.m3u8
 
