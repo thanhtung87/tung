@@ -711,9 +711,8 @@ https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://code.vthanhtivi.pw/getlink/cliptv/823/chunklist_b5128000.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
-#EXTINF:-1 tvg-id="tlchd" tvg-name="TLC" tvg-logo="https://i.imgur.com/GTULNgT.png" group-title="🌏| Quốc tế",TLC
-http://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-
+#EXTINF:-1 tvg-id="tlchd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
+http://cdn-cf.vthanhtivi.pw/fptplay/travel-living/bitrate_5000.m3u8
 
 #EXTINF:-1 tvg-id="france24eng" tvg-name="France 24" tvg-logo="https://i.imgur.com/i0BDIFo.png" group-title="🌏| Quốc tế",France 24
 http://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
@@ -726,10 +725,9 @@ http://cdn-cf.vthanhtivi.pw/fptplay/bbc-lifestyle/bitrate_5000.m3u8
 
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
 http://cdn-cf.vthanhtivi.pw/fptplay/bbc-news/bitrate_5000.m3u8
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
+http://cdn-cf.vthanhtivi.pw/fptplay/bloomberg/bitrate_5000.m3u8
 
-
-#EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/nyFNriy.png" group-title="🌏| Quốc tế",Bloomberg
-https://vips-livecdn.fptplay.net/hda3/bloomberg_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://i.imgur.com/B6jnE9k.png" group-title="🌏| Quốc tế",DW
 http://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 
@@ -744,13 +742,8 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlay
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/iX9c7AK.png" group-title="🌏| Quốc tế",Channel NewsAsia
 http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/KxxvR2X.png",CNBC Asia-Pacific
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://i.imgur.com/vBwWXZZ.png" group-title="🌏| Quốc tế",CNN
-https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
-
+#EXTINF:-1 tvg-id="cnn" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
+http://cdn-cf.vthanhtivi.pw/fptplay/cnn/bitrate_5000.m3u8
 
 #EXTINF:-1 tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://i.imgur.com/kzP4EEU.png" group-title="🌏| Quốc tế",Arirang
 http://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
