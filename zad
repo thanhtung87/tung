@@ -703,8 +703,7 @@ https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
+
 #EXTINF:-1 tvg-id="axnhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 http://cdn-cf.vthanhtivi.pw/fptplay/axn/bitrate_5000.m3u8
 
