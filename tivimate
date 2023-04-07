@@ -530,7 +530,7 @@ https://vtsstr4.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
 https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/SCTV20_logo_2019.png/revision/latest/scale-to-width-down/1570?cb=20220223142132&path-prefix=vi", SCTV20
 https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ssctv21hd" type="stream" group-title="SCTV" tvg-logo="https://nhipsonghomnay.vn/kcfinder/upload/images/Van-hoa-giai-tri/Truyen-hinh-va-dien-anh/Gap-lai-the-he-vang-cua-dien-anh-viet-nam-tren-kenh-viet-nam-ky-uc-3.jpg",SCTV21
+#EXTINF:-1 tvg-id="ssctv21hd" type="stream" group-title="SCTV" tvg-logo="https://i.ytimg.com/vi/ZxFp0w2Ptzo/maxresdefault.jpg",SCTV21
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8?cc|Referer=http://sctvonline.vn/
