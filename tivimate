@@ -686,18 +686,18 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:0 group-title="THỂ THAO" tvg-logo="https://i.ibb.co/WWrSQT9/TVRI-Sport-HD-BEARTV.png", TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-id="animalhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
+#EXTINF:-1 tvg-id="animalhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png",Animal Planet
 http://cdn-cf.vthanhtivi.pw/fptplay/animal-planet/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="bbcearth" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png",BBC Earth
 http://cdn-cf.vthanhtivi.pw/fptplay/bbc-earth/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png",Planet Earth
 https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
-#EXTINF:-1 tvg-id="ngchd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic HD
+#EXTINF:-1 tvg-id="ngchd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png",National Geographic
 http://cdn-cf.vthanhtivi.pw/fptplay/national-geographic-hd/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png",Discovery
 http://cdn-cf.vthanhtivi.pw/fptplay/discovery/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png",Discovery Asia
 http://cdn-cf.vthanhtivi.pw/fptplay/discovery-asia/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="🌏| Quốc tế",🍉 Asian Food Network
 http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
@@ -716,12 +716,12 @@ https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
 https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png",AXN
 http://cdn-cf.vthanhtivi.pw/fptplay/axn/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png",CinemaWorld
 http://cdn-cf.vthanhtivi.pw/fptplay/cinemaworld/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="warnertvhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Warner TV
 http://cdn-cf.vthanhtivi.pw/fptplay/warner-tv/bitrate_5000.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
