@@ -564,6 +564,11 @@ https://code.vthanhtivi.pw/getlink/vieon2/2eb37e8d-2abf-4bce-aa44-b3b9a4460469/p
 
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/zPvBb4q/ONLife-BEARTV.png", ON LIFE
 https://livevlive.vtvcab.vn/hls/LIFE_TV_CL/sc-gaFEAA/m20_index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="http://img-zlr2.tv360.vn/tv360-static/static/web/images/logo.png" ,TV360
+http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
+
+
 #EXTINF:-1 tvg-id="vtc11" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/AyBxScM.png",VTC11
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
