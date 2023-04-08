@@ -624,13 +624,24 @@ https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/tsBYvZ4/onsports-BEARTV.png" group-title="THỂ THAO" ,ON SPORTS
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/UKDBOaR.png",ON Sports
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.179.188.40/onplus/segment/THETHAO_HD/m401_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/eEXU8nf.png",ON Sports+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.179.188.40/onplus/segment/HAY_TV/m401_index.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/xjQCdtY/onsport-BEARTV.png",ON SPORTS +
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/yVrY9R0.png",ON Football
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.179.188.40/onplus/segment/BONGDA_HD/m401_index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/DRaBQah.png",ON Sports News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.179.188.40/onplus/segment//THETHAO_TINTUC_HD/m401_index.m3u8
+
+#EXTINF:-1 tvg-id="btv5hd" group-title="THỂ THAO" tvg-logo="https://phuhdtv.github.io/ON_Sports_Action.png",BTV5 - On Sports Action
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.179.188.40/onplus/segment/BTV5/m30_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S5yKm0X/jsports1-BEARTV.png" group-title="THỂ THAO",J Sport 1
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/tracks-v1a1/mono.m3u8
@@ -644,6 +655,7 @@ http://204.12.247.162:8080/premium44/mono.m3u8
 
 #EXTINF:0 group-title="THỂ THAO" tvg-logo="https://i.ibb.co/WWrSQT9/TVRI-Sport-HD-BEARTV.png", TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
 
 #EXTINF:-1 tvg-id="animalhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png",Animal Planet
 http://cdn-cf.vthanhtivi.pw/fptplay/animal-planet/bitrate_5000.m3u8
