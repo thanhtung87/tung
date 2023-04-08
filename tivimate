@@ -648,123 +648,123 @@ http://204.12.247.162:8080/premium44/mono.m3u8
 #EXTINF:0 group-title="THỂ THAO" tvg-logo="https://i.ibb.co/WWrSQT9/TVRI-Sport-HD-BEARTV.png", TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-id="animalhd" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png",Animal Planet
+#EXTINF:-1 tvg-id="animalhd" group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png",Animal Planet
 http://cdn-cf.vthanhtivi.pw/fptplay/animal-planet/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="bbcearth" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
 http://cdn-cf.vthanhtivi.pw/fptplay/bbc-earth/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="ngchd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic
+#EXTINF:-1 tvg-id="ngchd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic
 http://cdn-cf.vthanhtivi.pw/fptplay/national-geographic-hd/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
 http://cdn-cf.vthanhtivi.pw/fptplay/discovery/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
 http://cdn-cf.vthanhtivi.pw/fptplay/discovery-asia/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="🌏| Quốc tế",🍉 Asian Food Network
+#EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="🌏 Quốc tế",🍉 Asian Food Network
 http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="kix" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/yAlxcWI.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX Asia
+#EXTINF:-1 tvg-id="kix" group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/yAlxcWI.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="axnhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
+#EXTINF:-1 tvg-id="axnhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
 http://cdn-cf.vthanhtivi.pw/fptplay/axn/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
 http://cdn-cf.vthanhtivi.pw/fptplay/cinemaworld/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="warnertvhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png",Warner TV
 http://cdn-cf.vthanhtivi.pw/fptplay/warner-tv/bitrate_5000.m3u8
 
 https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
+#EXTINF:-1 tvg-id="woman" group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
 https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="tlchd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png",TLC
+#EXTINF:-1 tvg-id="tlchd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png",TLC
 http://cdn-cf.vthanhtivi.pw/fptplay/travel-living/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="france24eng" tvg-name="France 24" tvg-logo="https://i.imgur.com/i0BDIFo.png" group-title="🌏| Quốc tế",France 24
+#EXTINF:-1 tvg-id="france24eng" tvg-name="France 24" tvg-logo="https://i.imgur.com/i0BDIFo.png" group-title="🌏 Quốc tế",France 24
 http://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5 Monde" tvg-logo="https://i.imgur.com/v1ERmdk.png" group-title="🌏| Quốc tế",TV5 Monde
+#EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5 Monde" tvg-logo="https://i.imgur.com/v1ERmdk.png" group-title="🌏 Quốc tế",TV5 Monde
 http://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
 http://cdn-cf.vthanhtivi.pw/fptplay/bbc-lifestyle/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
 http://cdn-cf.vthanhtivi.pw/fptplay/bbc-news/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
 http://cdn-cf.vthanhtivi.pw/fptplay/bloomberg/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://i.imgur.com/B6jnE9k.png" group-title="🌏| Quốc tế",DW
+#EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://i.imgur.com/B6jnE9k.png" group-title="🌏 Quốc tế",DW
 http://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV4 Asia
+#EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV4 Asia
 http://210.210.155.37/qwr9ew/s/s19/index.m3u8
-#EXTINF:-1 tvg-id="cctv13" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 TRUNG QUỐC
+#EXTINF:-1 tvg-id="cctv13" group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 TRUNG QUỐC
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2022/10/Hoy-TV-live-vipotv-hong-hong.png", HOY TV
+#EXTINF:-1 tvg-id="" group-title="🌏 Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2022/10/Hoy-TV-live-vipotv-hong-hong.png", HOY TV
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/RTHK-32-live-vipotv-china.png", RTHK 32
+#EXTINF:-1 tvg-id="" group-title="🌏 Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/RTHK-32-live-vipotv-china.png", RTHK 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/iX9c7AK.png" group-title="🌏| Quốc tế",Channel NewsAsia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/iX9c7AK.png" group-title="🌏 Quốc tế",Channel NewsAsia
 http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="🌏| Quốc tế",K-Plus
+#EXTINF:0 tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="🌏 Quốc tế",K-Plus
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
-#EXTINF:-1 tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://i.imgur.com/kzP4EEU.png" group-title="🌏| Quốc tế",Arirang
+#EXTINF:-1 tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://i.imgur.com/kzP4EEU.png" group-title="🌏 Quốc tế",Arirang
 http://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://i.imgur.com/pKUX98A.png" group-title="🌏| Quốc tế",KBS World
 http://livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-1-vipotv.png", EBS 1
+#EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-1-vipotv.png", EBS 1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-2-vipotv.png" ,EBS 2
+#EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-2-vipotv.png" ,EBS 2
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World" tvg-logo="https://i.imgur.com/f3f3d79.png" group-title="🌏| Quốc tế",NHK World
+#EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World" tvg-logo="https://i.imgur.com/f3f3d79.png" group-title="🌏 Quốc tế",NHK World
 http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hr34y6B/NHKE-BEARTV.png" group-title="🌏| Quốc tế",NHK E
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hr34y6B/NHKE-BEARTV.png" group-title="🌏 Quốc tế",NHK E
 http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jRXL1sv/NHK-G-BEARTV.png" group-title="🌏| Quốc tế",NHK G
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRXL1sv/NHK-G-BEARTV.png" group-title="🌏 Quốc tế",NHK G
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Px219mS/Fuji-TV-BEARTV.png" group-title="🌏| Quốc tế",BS Fuji TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Px219mS/Fuji-TV-BEARTV.png" group-title="🌏 Quốc tế",BS Fuji TV
 http://redlabmcdn.s.llnwi.net/nv02/bs07hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png" group-title="🌏| Quốc tế", Nippon TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png" group-title="🌏 Quốc tế", Nippon TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="🌏| Quốc tế", TV Asahi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="🌏 Quốc tế", TV Asahi
 http://redlabmcdn.s.llnwi.net/nv02/bs04hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="🌏| Quốc tế",TBS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="🌏 Quốc tế",TBS TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DQxt7y4/TV-Tokyo-BEARTV.png" group-title="🌏| Quốc tế",TV Tokyo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQxt7y4/TV-Tokyo-BEARTV.png" group-title="🌏 Quốc tế",TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVsM8xX/NHK-BS1-BEARTV.png" group-title="🌏| Quốc tế",NHK BS1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVsM8xX/NHK-BS1-BEARTV.png" group-title="🌏 Quốc tế",NHK BS1
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZdscfHY/B12-BEARTV.png" group-title="🌏| Quốc tế",BS 12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZdscfHY/B12-BEARTV.png" group-title="🌏 Quốc tế",BS 12
 http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/215.png", ABC Australia
+#EXTINF:-1 tvg-id="abcaustralia" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/215.png", ABC Australia
 http://cdn-cf.vthanhtivi.pw/fptplay/australia-plus/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="🌏| Quốc tế",CGTN Arabic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="🌏 Quốc tế",CGTN Arabic
 http://livear.cgtn.com/1000a/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e8HG0D7.png" group-title="🌏| Quốc tế",CGTN Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e8HG0D7.png" group-title="🌏 Quốc tế",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/k4WZXFv/TVRI-BEARTV.png", TVRI
+#EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/k4WZXFv/TVRI-BEARTV.png", TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/n1dGjWL/HMHDTV-BEARTV.png", Hangmeas TV
+#EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/n1dGjWL/HMHDTV-BEARTV.png", Hangmeas TV
 http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/n8097VD/RHM-HDTV-BEARTV.png", Rasmey Hang Meas
+#EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/n8097VD/RHM-HDTV-BEARTV.png", Rasmey Hang Meas
 http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
-#EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1200px-Thai_PBS_2015.svg.png", Thai PBS
+#EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1200px-Thai_PBS_2015.svg.png", Thai PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 
