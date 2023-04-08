@@ -17,7 +17,7 @@ https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳 Địa phương" tvg-logo="https://cdnmedia.baotintuc.vn/Upload/e9GdNZvHDFi8lZSWc6ubA/files/2020/07/cau-my-thuan-31720a.jpg",VĨNH LONG 4
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/k9FyzM3.png",BTV9  - AnVienTV
+#EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/k9FyzM3.png",BTV9 - AnVienTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AN NINH TV
@@ -234,7 +234,6 @@ https://livecdn.fptplay.net/sdc/langson_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
 
-
 #EXTINF:0 tvg-id="namdinh" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/pMJZOnw.png",NAM ĐỊNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
@@ -315,8 +314,6 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="yenbai" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/k1Lawye.png",YÊN BÁI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
-
-
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/DXN2hS2.png",HTV1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
