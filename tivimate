@@ -589,9 +589,6 @@ http://cdn-cf.vthanhtivi.pw/fptplay/cartoon-network/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax
 http://cdn-cf.vthanhtivi.pw/fptplay/animax/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="cbeebies" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", Cbeebies
-http://cdn-cf.vthanhtivi.pw/fptplay/cbeebies/bitrate_5000.m3u8
-
 #EXTINF:-1 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXXTUeuRXPFbgTs4Ym9dqAgHFcGDLdnikW6NmRVKA=s900-c-k-c0x00ffffff-no-rj" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang
 http://cdn-cf.vthanhtivi.pw/fptplay/boomerang/bitrate_5000.m3u8
 
@@ -643,9 +640,6 @@ http://redlabmcdn.s.llnwi.net/nv02/bs11hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MV0W2Dd/jsports3-BEARTV.png" group-title="THỂ THAO",J Sport 3
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7g58pBB/ESPN-BEARTV.png" group-title="THỂ THAO",ESPN
-http://204.12.247.162:8080/premium44/mono.m3u8
-
 #EXTINF:0 group-title="THỂ THAO" tvg-logo="https://i.ibb.co/WWrSQT9/TVRI-Sport-HD-BEARTV.png", TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
@@ -659,8 +653,7 @@ http://cdn-cf.vthanhtivi.pw/fptplay/national-geographic-hd/bitrate_5000.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
 http://cdn-cf.vthanhtivi.pw/fptplay/discovery/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
-http://cdn-cf.vthanhtivi.pw/fptplay/discovery-asia/bitrate_5000.m3u8
+
 #EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="🌏 Quốc tế",🍉 Asian Food Network
 http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -671,8 +664,6 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
 http://cdn-cf.vthanhtivi.pw/fptplay/axn/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
-http://cdn-cf.vthanhtivi.pw/fptplay/cinemaworld/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png",Warner TV
 http://cdn-cf.vthanhtivi.pw/fptplay/warner-tv/bitrate_5000.m3u8
 
