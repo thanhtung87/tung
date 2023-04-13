@@ -658,7 +658,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 http://cdn-cf.vthanhtivi.pw/fptplay/animal-planet/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
 http://cdn-cf.vthanhtivi.pw/fptplay/bbc-earth/bitrate_5000.m3u8
-
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🌏 Quốc tế" In tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
+https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic
 http://cdn-cf.vthanhtivi.pw/fptplay/national-geographic-hd/bitrate_5000.m3u8
 
