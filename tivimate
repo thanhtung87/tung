@@ -628,10 +628,6 @@ http://103.179.188.40/onplus/segment/THETHAO_HD/m401_index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.179.188.40/onplus/segment/HAY_TV/m401_index.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/yVrY9R0.png",ON Football
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.179.188.40/onplus/segment/BONGDA_HD/m401_index.m3u8
-
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/DRaBQah.png",ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.179.188.40/onplus/segment//THETHAO_TINTUC_HD/m401_index.m3u8
