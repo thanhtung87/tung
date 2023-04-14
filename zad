@@ -670,6 +670,10 @@ https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/yAlxcWI.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png",Discovery Asia
+http://cdn-cf.vthanhtivi.pw/fptplay/discovery-asia/bitrate_5000.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
+http://cdn-cf.vthanhtivi.pw/fptplay/discovery/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
@@ -688,9 +692,6 @@ http://cdn-cf.vthanhtivi.pw/fptplay/axn/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic
 http://cdn-cf.vthanhtivi.pw/fptplay/national-geographic-hd/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
-http://cdn-cf.vthanhtivi.pw/fptplay/discovery/bitrate_5000.m3u8
-
 #EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="🌏 Quốc tế",🍉 Asian Food Network
 http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
@@ -703,6 +704,9 @@ https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
 https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="tlchd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png",TLC
 http://cdn-cf.vthanhtivi.pw/fptplay/travel-living/bitrate_5000.m3u8
