@@ -575,7 +575,7 @@ https://code.vthanhtivi.pw/getlink/vieon2/0327f7ef-4c0f-4e66-a240-819452590d40/p
 https://code.vthanhtivi.pw/getlink/vieon2/005a05b2-14d6-4b94-9318-9e3bb78f6311/playlist.m3u8								
 #EXTINF:-1 tvg-id="sctv3hd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 HD
 https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8
-tvg-id="sctv3hd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png",SCTV3
+#EXTINF:-1 tvg-id="sctv3hd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png",SCTV3
 https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8													 ㅤ |Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
 https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
