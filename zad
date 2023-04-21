@@ -581,10 +581,12 @@ https://code.vthanhtivi.pw/getlink/vieon2/005a05b2-14d6-4b94-9318-9e3bb78f6311/p
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
 https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network
+https://ancom.ga/fpt/cartoon-network/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/aIAaCce.png" group-title="THIẾU NHI",Da Vinci
 http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-
+#EXTINF:-1 tvg-id="cbeebies" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies
+https://ancom.ga/fpt/cbeebies/bitrate_5000.m3u8
 #EXTINF:0 group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/Tk66hWb/ebskids.png",EBS Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
