@@ -542,10 +542,7 @@ https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=http://sctvonline.vn/
 https:///dl.dropboxusercontent.com/s/e5ucgk3xlffmsxm//   																						 ㅤ |Referer=http://sctvonline.vn/
-|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vtvcab21hd" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/712tpSm/ccvcab21.webp",Vcab21
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 AppleWebKit/537.36 (KHTML, like Gecko) Mozilla/5.0 (Windows NT 10.0) Chrome/81.0.4044.138 Safari/537.36
-https:///dl.dropboxusercontent.com/s/nd0bi1wlt6jigkq//   																															
+																															
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png",Happy KIDS
 https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="babytvhd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/DI5IdU5.png",Baby TV HD
@@ -582,12 +579,7 @@ https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2009_to_2016.svg/600px-Logo_K%2B_from_2009_to_2016.svg.png" ,K+ SPORT1
 http://103.75.186.169/b4tv/b4tv/1.m3u8
-
-
-|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vtvcab18hd" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/hXrdYRW/cccab18.png",Vcab18 📍
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 /Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///dl.dropboxusercontent.com/s/eefdvniyzmcdu04//   							
+							
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ON Football
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/playlist.m3u8
