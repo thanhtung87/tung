@@ -542,9 +542,10 @@ https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=http://sctvonline.vn/
 https:///dl.dropboxusercontent.com/s/e5ucgk3xlffmsxm//   																						 ㅤ |Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vtvcab21hd" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/712tpSm/ccvcab21.webp",ON KIDS
+|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtvcab21hd" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/712tpSm/ccvcab21.webp",Vcab21
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 AppleWebKit/537.36 (KHTML, like Gecko) Mozilla/5.0 (Windows NT 10.0) Chrome/81.0.4044.138 Safari/537.36
-https:///dl.dropboxusercontent.com/s/nd0bi1wlt6jigkq//   															
+https:///dl.dropboxusercontent.com/s/nd0bi1wlt6jigkq//   																															
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png",Happy KIDS
 https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="babytvhd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/DI5IdU5.png",Baby TV HD
