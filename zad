@@ -579,6 +579,7 @@ https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_K%2B_from_2009_to_2016.svg/600px-Logo_K%2B_from_2009_to_2016.svg.png" ,K+ SPORT1
 http://103.75.186.169/b4tv/b4tv/1.m3u8
+http://103.75.186.169/b4tv/b4tv/1.m3u8
 							
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S5yKm0X/jsports1-BEARTV.png" group-title="THỂ THAO",J Sport 1
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/tracks-v1a1/mono.m3u8
