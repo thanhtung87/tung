@@ -567,10 +567,22 @@ http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil /chunklist_b5000000.m3u8?cc
 #https://drm-livecdn.hplus.com.vn/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8?cc
-#EXTINF:0 tvg-id="vtvcab3hd" type="stream" group-title="🇻 VCAB" tvg-logo="https://i.ibb.co/MMTgFmm/cccab3.png",ON SPORTS
+#EXTINF:0 tvg-id="vtvcab3hd" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/MMTgFmm/cccab3.png",ON SPORTS
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=http://sctvonline.vn/
-https:///dl.dropboxusercontent.com/s/8joaiofe8e5rdvy//   																						 ㅤ |Referer=http://sctvonline.vn/
+https:///dl.dropboxusercontent.com/s/8joaiofe8e5rdvy//   
+#EXTINF:0 tvg-id="hd" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/JWLc89j/ccbtv5.webp",ON Sports Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https:///dl.dropboxusercontent.com/s/ik73pk9zdzc3ouf//   																						 ㅤ
+#EXTINF:0 tvg-id="" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/9cgCxM6/bongdaviet.png",Bóng Đá Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https:///dl.dropboxusercontent.com/s/bgd1je31t95zda7//   
+#EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/ygPLR6S/thethaoviet.png",Thể Thao Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https:///dl.dropboxusercontent.com/s/rqqog0m0cb08o51//   																																					 ㅤ																						 ㅤ |Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtvcab18hd" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/hXrdYRW/cccab18.png",ON SPORTS NEWS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 /Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https:///dl.dropboxusercontent.com/s/eefdvniyzmcdu04//   								
 #EXTINF:-1 tvg-id="sctv15hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15
 https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17
