@@ -566,15 +566,13 @@ http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/E3OjM1k.png" catchup="append" catchup-days="2 " catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV Thể Thao
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-   																						 ㅤ								
+https://livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8  																						 ㅤ								
 #EXTINF:-1 tvg-id="sctv15hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15
 https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17
 https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22
-https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
-https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8	
-																						 
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8																							 
 #EXTINF:0 tvg-id="hd" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/JWLc89j/ccbtv5.webp",ON Sports Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https:///dl.dropboxusercontent.com/s/ik73pk9zdzc3ouf//   																						 ㅤ
