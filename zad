@@ -679,7 +679,7 @@ http://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://i.imgur.com/pKUX98A.png" group-title="🌏 Quốc tế",KBS World
 http://livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-1-vipotv.png", EBS 1
+#EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-1-vipotv.png",EBS 1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-2-vipotv.png" ,EBS 2
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist.m3u8
@@ -707,7 +707,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZdscfHY/B12-BEARTV.png" group-title="🌏 Quốc tế",BS 12
 http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
+#EXTINF:-1 tvg-id="" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="🌏 Quốc tế",CGTN Arabic
 http://livear.cgtn.com/1000a/prog_index.m3u8
