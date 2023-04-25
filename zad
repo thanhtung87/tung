@@ -575,9 +575,7 @@ https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8	
-#EXTINF:0 tvg-id="vtvcab18hd" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/hXrdYRW/cccab18.png",ON SPORTS news
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 /Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///dl.dropboxusercontent.com/s/eefdvniyzmcdu04//   																						 
+																						 
 #EXTINF:0 tvg-id="hd" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/JWLc89j/ccbtv5.webp",ON Sports Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https:///dl.dropboxusercontent.com/s/ik73pk9zdzc3ouf//   																						 ㅤ
