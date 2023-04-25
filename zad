@@ -588,12 +588,13 @@ http://103.179.188.40/onplus/segment//THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="THỂ THAO" tvg-logo="https://phuhdtv.github.io/ON_Sports_Action.png",BTV5 - On Sports Action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.179.188.40/onplus/segment/BTV5/m30_index.m3u8
+#EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/ygPLR6S/thethaoviet.png",Thể Thao Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https:///dl.dropboxusercontent.com/s/rqqog0m0cb08o51//
 #EXTINF:0 tvg-id="" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/9cgCxM6/bongdaviet.png",Bóng Đá Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https:///dl.dropboxusercontent.com/s/bgd1je31t95zda7//   																						 ㅤ
-#EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/ygPLR6S/thethaoviet.png",Thể Thao Việt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///dl.dropboxusercontent.com/s/rqqog0m0cb08o51//   																						 ㅤ
+   																						 ㅤ
 																					 ㅤ
 																						 ㅤ  																
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S5yKm0X/jsports1-BEARTV.png" group-title="THỂ THAO",J Sport 1
@@ -629,7 +630,7 @@ https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-0-0.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png",Box Hits
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="🌏 Quốc tế",🍉 Asian Food Network
 http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
@@ -646,7 +647,7 @@ https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="hgtv" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
+#EXTINF:-1 tvg-id="hgtv" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png",HGTV
 https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 #EXTINF:-1 tvg-id="france24eng" tvg-name="France 24" tvg-logo="https://i.imgur.com/i0BDIFo.png" group-title="🌏 Quốc tế",France 24
 http://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
