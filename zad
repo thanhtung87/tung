@@ -538,9 +538,6 @@ https://code.vthanhtivi.pw/getlink/vieon2/5aea9637-1080-4f0b-a1b4-a8c9d4c3a536/p
 
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png",Vie Dramas
 https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
-#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/28.png",ON VFamily
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/2eb37e8d-2abf-4bce-aa44-b3b9a4460469/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtc11" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -570,8 +567,7 @@ https://ancom.ga/fpt/animax/bitrate_5000.m3u8
 https://ancom.ga/fpt/boomerang/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id"ebskids" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/Tk66hWb/ebskids.png",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
-
-
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
 
 
    																						 ㅤ
