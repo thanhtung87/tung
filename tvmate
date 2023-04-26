@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 DIA PHUONG
 
@@ -107,10 +107,9 @@ https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ssctv21hd" type="stream" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/21_8f6788be.jpg?s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn&type=auto&version=9&width=1200",SCTV21
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8?cc|Referer=http://sctvonline.vn/
-#https://s.dl.dropboxusercontent.com/s/42nsfp1lhjsq4xz/./   																						 ㅤ 
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8?cc
+|Referer=http://sctvonline.vn/
 
-#https://s.dl.dropboxusercontent.com/s/42nsfp1lhjsq4xz/./
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png",SCTV Phim tổng hợp
 https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
 
