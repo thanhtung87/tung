@@ -341,7 +341,7 @@ https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvc_thuan_viet" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/850471-ThuanViet.png" group-title="HTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTVC Thuần Việt
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 
-#EXTINF:0 tvg-id="htvcgiadinh" group-title="HTV" tvg-logo="https://i.imgur.com/8r89Qvf.png",GIA ĐÌNH
+#EXTINF:0 tvg-id="htvcgiadinh" group-title="HTV" tvg-logo="https://i.imgur.com/8r89Qvf.png",👨‍👨‍👧‍👦GIA ĐÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
 
