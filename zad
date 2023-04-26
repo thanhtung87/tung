@@ -713,8 +713,6 @@ http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8
 http://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/GEUzSd4.png",CGTN English
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="🌏 Quốc tế",CGTN Arabic
 http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e8HG0D7.png" group-title="🌏 Quốc tế",CGTN Español
