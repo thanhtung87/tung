@@ -552,9 +552,6 @@ https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8
 https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8																														
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png",Happy KIDS
 https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="babytvhd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/DI5IdU5.png",Baby TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://ancom.ga/fpt/babytv-hd/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network
 https://ancom.ga/fpt/cartoon-network/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/aIAaCce.png" group-title="THIẾU NHI",Da Vinci
@@ -563,8 +560,7 @@ http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://ancom.ga/fpt/cbeebies/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax
 https://ancom.ga/fpt/animax/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang
-https://ancom.ga/fpt/boomerang/bitrate_5000.m3u8
+
 #EXTINF:-1 tvg-id"ebskids" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/Tk66hWb/ebskids.png",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
