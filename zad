@@ -538,7 +538,17 @@ https://code.vthanhtivi.pw/getlink/vieon2/5aea9637-1080-4f0b-a1b4-a8c9d4c3a536/p
 
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png",Vie Dramas
 https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
+#EXTINF:0 tvg-id="babytvhd" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/TkGzvcD/Baby-TV-cc.webp",Baby TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https:///dl.dropboxusercontent.com/s/iwsfuyvel089yoe//   																						 ㅤ
+#EXTINF:0 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/8gbrkx5/ccboomerang-svg.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https:///dl.dropboxusercontent.com/s/l5gz6hli4f5tmbl//   																						 ㅤ
+|Referer=https://sctvonline.vn/
 
+#EXTINF:0 tvg-id="dreamworks" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/DL1xMwY/ccdreamwork.webp",Dream Works
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https:///dl.dropboxusercontent.com/s/9hgaxsmslsey1kw//   																						 ㅤ
 #EXTINF:-1 tvg-id="vtc11" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
