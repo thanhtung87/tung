@@ -555,7 +555,9 @@ https://ancom.ga/fpt/animax/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id"ebskids" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/Tk66hWb/ebskids.png",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
 
-
+#EXTINF:0 tvg-id="animaxhd" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/nnHhJvv/Animax-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https:///dl.dropboxusercontent.com/s/0cgatx2cbar7p8r//
  
    																						 ㅤ
    																																											 ㅤ
