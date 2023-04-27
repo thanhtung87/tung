@@ -562,17 +562,12 @@ https://ancom.ga/fpt/animax/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id"ebskids" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/Tk66hWb/ebskids.png",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
-#EXTINF:0 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/8gbrkx5/ccboomerang-svg.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Boomerang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///dl.dropboxusercontent.com/s/l5gz6hli4f5tmbl//   																						 ㅤ
-https:///dl.dropboxusercontent.com/s/l5gz6hli4f5tmbl//
+
 #EXTINF:0 tvg-id="babytvhd" group-title="THIẾU NHI" tvg-logo="https://images.ctfassets.net/cnu0m8re1exe/PYLeBWr2QDF5yjyZwB5Iq/7509e49d1d621860c1d4c484243c23db/shutterstock_189429203.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill",Baby TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https:///dl.dropboxusercontent.com/s/iwsfuyvel089yoe//   																						 ㅤ
 https:///dl.dropboxusercontent.com/s/iwsfuyvel089yoe//   																						 ㅤ
-#EXTINF:0 tvg-id="babytvhd" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/TkGzvcD/Baby-TV-cc.webp",Baby TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///dl.dropboxusercontent.com/s/iwsfuyvel089yoe//   																						 ㅤ
+   																						 ㅤ
 #EXTINF:0 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/8gbrkx5/ccboomerang-svg.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https:///dl.dropboxusercontent.com/s/l5gz6hli4f5tmbl// 
