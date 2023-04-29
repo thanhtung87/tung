@@ -1,4 +1,22 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.haitrieu.com/wp-content/uploads/2022/08/Logo-Tinh-Vinh-Long.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 1
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="🇻🇳 Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg/375px-V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 2
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ytimg.com/vi/xdIiFj_Ipgs/maxresdefault.jpg",VĨNH LONG 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳 Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn_%286297673871%29.jpg",VĨNH LONG 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/k9FyzM3.png",BTV9 - AnVienTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/SCTV1_logo_2017.png/revision/latest?cb=20201119113949&path-prefix=vi", SCTV1
 https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
 
@@ -43,24 +61,7 @@ https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="http://img-zlr2.tv360.vn/tv360-static/static/web/images/logo.png" ,TV360
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.haitrieu.com/wp-content/uploads/2022/08/Logo-Tinh-Vinh-Long.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 1
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="🇻🇳 Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg/375px-V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 2
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ytimg.com/vi/xdIiFj_Ipgs/maxresdefault.jpg",VĨNH LONG 3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳 Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn_%286297673871%29.jpg",VĨNH LONG 4
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/k9FyzM3.png",BTV9 - AnVienTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AN NINH TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
