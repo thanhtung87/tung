@@ -592,10 +592,8 @@ http://103.179.188.40/onplus/segment/HAY_TV/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/DRaBQah.png",ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.179.188.40/onplus/segment//THETHAO_TINTUC_HD/m401_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png",ON Football
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/playlist.m3u8
-
+#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://i.ibb.co/vd1LBK7/onfootbal-BEARTV.png" group-title="THỂ THAO" ,ON FOOTBALL
+https://livevlive.vtvcab.vn/BONGDA_HD/m40_index.m3u8
    																						 ㅤ
 #EXTINF:-1 tvg-id="btv5hd" group-title="THỂ THAO" tvg-logo="https://phuhdtv.github.io/ON_Sports_Action.png",BTV5 - On Sports Action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -609,8 +607,6 @@ http://redlabmcdn.s.llnwi.net/nv02/bs11hd/tracks-v1a1/mono.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="THỂ THAO", FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:0 group-title="THỂ THAO" tvg-logo="https://i.ibb.co/WWrSQT9/TVRI-Sport-HD-BEARTV.png", TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 
 #EXTINF:-1 tvg-id="animalhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
