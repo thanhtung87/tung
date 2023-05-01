@@ -573,7 +573,11 @@ https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/q1WdMrb/thethaoviet-BEARTV.png", THỂ THAO VIỆT
+https://livevlive.vtvcab.vn/ONVOLLEYBALL/m30_index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/HVfRdJF/bongdaviet-BEARTV.png", BÓNG ĐÁ VIỆT
+https://livevlive.vtvcab.vn/ONVFFTV/m30_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/UKDBOaR.png",ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.179.188.40/onplus/segment/THETHAO_HD/m401_index.m3u8
@@ -587,11 +591,7 @@ http://103.179.188.40/onplus/segment//THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png",ON Football
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/q1WdMrb/thethaoviet-BEARTV.png", THỂ THAO VIỆT
-https://livevlive.vtvcab.vn/ONVOLLEYBALL/m30_index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/HVfRdJF/bongdaviet-BEARTV.png", BÓNG ĐÁ VIỆT
-https://livevlive.vtvcab.vn/ONVFFTV/m30_index.m3u8
    																						 ㅤ
 #EXTINF:-1 tvg-id="btv5hd" group-title="THỂ THAO" tvg-logo="https://phuhdtv.github.io/ON_Sports_Action.png",BTV5 - On Sports Action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
