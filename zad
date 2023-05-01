@@ -527,13 +527,7 @@ http://103.90.220.236/vovlive/tv1live.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/205/hd.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png",Happy KIDS
 https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="babytvhd" group-title="THIẾU NHI" tvg-logo="https://images.ctfassets.net/cnu0m8re1exe/PYLeBWr2QDF5yjyZwB5Iq/7509e49d1d621860c1d4c484243c23db/shutterstock_189429203.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill",Baby TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///dl.dropboxusercontent.com/s/iwsfuyvel089yoe//   																						 ㅤ
-#EXTINF:0 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/8gbrkx5/ccboomerang-svg.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Boomerang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///dl.dropboxusercontent.com/s/l5gz6hli4f5tmbl//   																						 ㅤ
-
+   																						 ㅤ
 #EXTINF:0 tvg-id="dreamworks" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/DL1xMwY/ccdreamwork.webp",Dream Works
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https:///dl.dropboxusercontent.com/s/9hgaxsmslsey1kw//   																						 ㅤ
@@ -551,9 +545,7 @@ https://ancom.ga/fpt/cartoon-network/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/vD7cGzQ/Boomerang-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8, Boomerang
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vtsstr7.tv24.vn/live/smil:Bloomberg.smil/chunklist.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="happykids"  group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
-#EXTVLCOPT:http-user-agent="BearTV"
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF:0 tvg-id="dreamworks" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/ZBgDSh6/Dream-Works-BEARTV.png",Dream Works
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
