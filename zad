@@ -582,6 +582,9 @@ https://livevlive.vtvcab.vn/ONVOLLEYBALL/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/HVfRdJF/bongdaviet-BEARTV.png", BÓNG ĐÁ VIỆT
 https://livevlive.vtvcab.vn/ONVFFTV/m30_index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football
+https://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/UKDBOaR.png",ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.179.188.40/onplus/segment/THETHAO_HD/m401_index.m3u8
@@ -592,9 +595,7 @@ http://103.179.188.40/onplus/segment/HAY_TV/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/DRaBQah.png",ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.179.188.40/onplus/segment//THETHAO_TINTUC_HD/m401_index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football
-https://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8  																						 ㅤ
+  																						 ㅤ
 #EXTINF:-1 tvg-id="btv5hd" group-title="THỂ THAO" tvg-logo="https://phuhdtv.github.io/ON_Sports_Action.png",BTV5 - On Sports Action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.179.188.40/onplus/segment/BTV5/m30_index.m3u8
