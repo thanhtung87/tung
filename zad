@@ -583,9 +583,6 @@ https://livevlive.vtvcab.vn/hls/BIBI_PLUS_clear_CL/sc-gaFEAA/m20_index.m3u8
 https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8																																														  																	
 #EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network
 https://ancom.ga/fpt/cartoon-network/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/vD7cGzQ/Boomerang-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8, Boomerang
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vtsstr7.tv24.vn/live/smil:Bloomberg.smil/chunklist.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="dreamworks" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/ZBgDSh6/Dream-Works-BEARTV.png",Dream Works
 #EXTVLCOPT:http-user-agent="BearTV"
@@ -635,9 +632,7 @@ http://103.179.188.40/onplus/segment/THETHAO_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/eEXU8nf.png",ON Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.179.188.40/onplus/segment/HAY_TV/m401_index.m3u8
-
-
- 																						 ㅤ
+http://103.179.188.40/onplus/segment/HAY_TV/m401_index.m3u8 																						 ㅤ
 #EXTINF:-1 tvg-id="btv5hd" group-title="THỂ THAO" tvg-logo="https://phuhdtv.github.io/ON_Sports_Action.png",BTV5 - On Sports Action
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.179.188.40/onplus/segment/BTV5/m30_index.m3u8
