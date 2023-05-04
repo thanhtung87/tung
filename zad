@@ -758,8 +758,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
 #EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/k4WZXFv/TVRI-BEARTV.png", TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/BIBHaGo.jpg" group-title="🌏 Quốc tế",TVK2 Cambodia
-https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+
 #EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/1Xzxsgl.png",BERITA RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=4
 #EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png",SUKAN RTM
@@ -773,7 +772,8 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
 #EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/n8097VD/RHM-HDTV-BEARTV.png", Rasmey Hang Meas
 http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
-
+#EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/BIBHaGo.jpg" group-title="🌏 Quốc tế",TVK2 Cambodia
+https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 		 ㅤ
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1 HD
 http://103.82.24.168:5544/play/sport1tn/index.m3u8
