@@ -649,7 +649,20 @@ http://redlabmcdn.s.llnwi.net/nv02/bs12hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="THỂ THAO", FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
+#EXTINF:0  tvg-id="animalhd" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/7CQLFc3/animalplanet.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Animal Planet
 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+#EXTVLCOPT:http-referer=http://sctvonline.vn/
+
+#https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8?cc|Referer=https://sctvonline.vn/
+
+https:///dl.dropboxusercontent.com/s/y1qpzbvpbmagpry//   
+#EXTINF:0  tvg-id="bbcearth" group-title="🌏 Quốc tế", tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",BBC Earth
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+https:///dl.dropboxusercontent.com/s/n58gz38mp0nvpvz// 
 #EXTINF:-1 tvg-id="animalhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 
@@ -666,7 +679,11 @@ https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8?cc
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="hbohd" group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/3Bt20YR/HBO-cc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+https:///dl.dropboxusercontent.com/s/4qu1m6bwo2nxf6z//   																						 ㅤ#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/sip0qvjpisrp6fr///   
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-0-0.m3u8
@@ -787,5 +804,10 @@ http://103.82.24.168:5544/play/sport1tn/index.m3u8
 http://103.82.24.168:5544/play/sdsport1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png",K+SPORT2 SD
 http://103.82.24.168:5544/play/sdsport2/index.m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE SD
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE SD mytv
 http://103.82.24.168:5544/play/life/index.m3u8
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://i.ibb.co/MS363r3/4.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ 𝗟𝗜𝗙𝗘#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Edge/107.0.1418.24 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+#https://live-on-mobi.gviet.vn/manifest/k-plus-ns/master.mpd
+
+https:///dl.dropboxusercontent.com/s/jcj23fwgsbiw0lm/// 
