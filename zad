@@ -627,9 +627,11 @@ http://103.179.188.40/onplus/segment//THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/UKDBOaR.png",ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.179.188.40/onplus/segment/THETHAO_HD/m401_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/xjQCdtY/onsport-BEARTV.png",ON SPORTS +
-https://livevlive.vtvcab.vn/HAY_TV/m401_index.m3u8
 
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/UKDBOaR.png",ON Sports+
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://livevlive.vtvcab.vn/HAY_TV/m401_index.m3u8
 
 
 
