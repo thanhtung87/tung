@@ -645,7 +645,11 @@ https://ancom.ga/fpt/animal-planet/bitrate_5000.m3u8
 https://ancom.ga/fpt/bbc-earth/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌏 Quốc tế" In tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
 https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="kix" group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/vJk5WPN/kix.webp" catchup="append" catchup-days= "3" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",KIX
 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, như Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8?cc ㅤ
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 
@@ -654,11 +658,6 @@ https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup -days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax
-
-#EXTVLCOPT:http-user-agent=VThanhTivi
-
-https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-0-0.m3u8
 
 
 
