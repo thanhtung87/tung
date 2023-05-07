@@ -645,6 +645,9 @@ https://ancom.ga/fpt/animal-planet/bitrate_5000.m3u8
 https://ancom.ga/fpt/bbc-earth/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌏 Quốc tế" In tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
 https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+
+https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
@@ -659,9 +662,8 @@ https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-0-0.m3u8
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8?cc
 
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
-https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
-https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
+
+
 
 
 
