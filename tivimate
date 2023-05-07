@@ -583,28 +583,7 @@ https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/UKDBBOaR.png",ON Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.179.188.40/onplus/segment/THETHAO_HD/m401_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/eEXU8nf.png",ON Sports+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.179.188.40/onplus/segment/HAY_TV/m401_index.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/DRaBQah.png",ON Sports News
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.179.188.40/onplus/segment//THETHAO_TINTUC_HD/m401_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png",ON Football
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/playlist.m3u8
-#EXTINF:0 tvg-id="" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/9cgCxM6/bongdaviet.png",⚽️Bóng Đá Việt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, như Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///dl.dropboxusercontent.com/s/bgd1je31t95zda7// ㅤ
-#EXTINF:0 tvg-id="onvolleyball" type="stream" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/ygPLR6S/thethaoviet.png",Thể Thảo Việt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, như Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///dl.dropboxusercontent.com/s/rqqog0m0cb08o51// ㅤ
-#EXTINF:-1 tvg-id="btv5hd" group-title="THỂ THAO" tvg-logo="https://phuhdtv.github.io/ON_Sports_Action.png",BTV5 - Trên Thể Thao Hành Động
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.179.188.40/onplus/segment/BTV5/m30_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S5yKm0X/jsports1-BEARTV.png" group-title="THỂ THAO",J Sport 1
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/tracks-v1a1/mono.m3u8
@@ -612,7 +591,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs15hd/tracks-v1a1/mono.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs11hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MV0W2Dd/jsports3-BEARTV.png" group-title="THỂ THAO",J Sport 3
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" nhóm- title="THỂ THAO", FIGHTS
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="THỂ THAO",FIGHTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
 
