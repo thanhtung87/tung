@@ -776,6 +776,21 @@ http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w99857307
 http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
 http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
 
+#EXTINF:-1 group-title="K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHdEdBbNReFsavKn0IpwmDTqvzVjdu8YBcIELNw2UF7tuUeELEu6reca7OcnWHqfxenw&usqp=CAU",B4TV Tổng hợp
+
+http://103.75.186.169/b4tv/b4tv/5.ts
+#EXTINF:-1 group-title="K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHdEdBbNReFsavKn0IpwmDTqvzVjdu8YBcIELNw2UF7tuUeELEu6reca7OcnWHqfxenw&usqp=CAU",B4TV Thể thao
+
+http://103.75.186.169/b4tv/b4tv/1.ts
+#EXTINF:-1 group-title="K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHdEdBbNReFsavKn0IpwmDTqvzVjdu8YBcIELNw2UF7tuUeELEu6reca7OcnWHqfxenw&usqp=CAU",B4TV Phim
+
+http://103.75.186.169/b4tv/b4tv/2.ts
+#EXTINF:-1 group-title="K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHdEdBbNReFsavKn0IpwmDTqvzVjdu8YBcIELNw2UF7tuUeELEu6reca7OcnWHqfxenw&usqp=CAU",B4TV Sự kiện
+
+http://103.75.186.169/b4tv/b4tv/3.ts
+#EXTINF:-1 group-title="K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHdEdBbNReFsavKn0IpwmDTqvzVjdu8YBcIELNw2UF7tuUeELEu6reca7OcnWHqfxenw&usqp=CAU",B4TV Cuộc sống
+
+http://103.75.186.169/b4tv/b4tv/4.ts
 
 		
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1 HD
