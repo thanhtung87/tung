@@ -785,9 +785,9 @@ http://103.75.186.169/b4tv/b4tv/1.ts
 #EXTINF:-1 group-title="K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHdEdBbNReFsavKn0IpwmDTqvzVjdu8YBcIELNw2UF7tuUeELEu6reca7OcnWHqfxenw&usqp=CAU",B4TV Phim
 
 http://103.75.186.169/b4tv/b4tv/2.ts
-#EXTINF:-1 group-title="K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHdEdBbNReFsavKn0IpwmDTqvzVjdu8YBcIELNw2UF7tuUeELEu6reca7OcnWHqfxenw&usqp=CAU",B4TV Sự kiện
-
+#EXTINF:-1 group-title="K+" tvg-logo="https://hotro.kplus.vn/media/article/JunvNcoX2nm363mQqeK9ILkFHXWM8Jks.png",ON FOOTBALL
 http://103.75.186.169/b4tv/b4tv/3.ts
+
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1 HD
 http://103.82.24.168:5544/play/sport1tn/index.m3u8
