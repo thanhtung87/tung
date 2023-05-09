@@ -664,8 +664,9 @@ https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png",Hollywood Classics
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
-
 https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
+https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 
 
 
@@ -695,8 +696,7 @@ https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/69/hd/dvr-${start}-${end}.m3u8", Music Box
 
 https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
-https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
