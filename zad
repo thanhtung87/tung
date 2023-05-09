@@ -797,10 +797,8 @@ http://103.75.186.169/b4tv/b4tv/5.ts
 
 
 
-#EXTINF:-1 group-title="K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHdEdBbNReFsavKn0IpwmDTqvzVjdu8YBcIELNw2UF7tuUeELEu6reca7OcnWHqfxenw&usqp=CAU",B4TV Phim
 
-http://103.75.186.169/b4tv/b4tv/2.ts
-#EXTINF:-1 group-title="K+" tvg-logo="https://hotro.kplus.vn/media/article/JunvNcoX2nm363mQqeK9ILkFHXWM8Jks.png",ON FOOTBALL
+#EXTINF:-1 group-title="K+" tvg-logo="https://hotro.kplus.vn/media/article/JunvNcoX2nm363mQqeK9ILkFHXWM8Jks.png",sự kiện thể thao
 http://103.75.186.169/b4tv/b4tv/3.ts
 
 
