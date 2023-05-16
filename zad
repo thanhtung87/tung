@@ -662,13 +662,8 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 
 
 
-#EXTINF:-1 tvg-id="animalhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" catchup="append" catchup -days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal planet
 
-https://ancom.ga/fpt/animal-planet/bitrate_5000.m3u8
 
-#EXTINF:-1 tvg-id="bbcearth" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png" catchup="append" catchup -days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
-
-https://ancom.ga/fpt/bbc-earth/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌏 Quốc tế" In tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
 https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="kix" group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/vJk5WPN/kix.webp" catchup="append" catchup-days= "3" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",KIX
