@@ -546,57 +546,17 @@ http://103.90.220.236/vovlive/tv1live.m3u8
 
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png",Happy KIDS
 
-https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
-
-#EXTINF:0 tvg-id="babytvhd" group-title="THIẾU NHI" tvg-logo="https://images.ctfassets.net/cnu0m8re1exe/PYLeBWr2QDF5yjyZwB5Iq/7509e49d1d621860c1d4c484243c23db/shutterstock_189429203.jpg ?fm=jpg&fl=progressive&w= 660&h=433&fit=fill",Baby TV
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, như Gecko) Chrome/81.0.4044.138 Safari/537.36
-
-https:///dl.dropboxusercontent.com/s/iwsfuyvel089yoe// ㅤ
-
-#EXTINF:0 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/8gbrkx5/ccboomerang-svg.png" catchup="append" catchup-days ="3" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Boomerang
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, như Gecko) Chrome/81.0.4044.138 Safari/537.36
-
-https:///dl.dropboxusercontent.com/s/l5gz6hli4f5tmbl//
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png", ON BiBi
-https://code.vthanhtivi.pw/getlink/mytv/205/hd.m3u8
-																						ㅤ   																						ㅤ
+https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8																					ㅤ
 #EXTINF:-1 tvg-id="vtc11" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/lNgT47T.png",ON Kids
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livevlive.vtvcab.vn/hls/BIBI_PLUS_clear_CL/sc-gaFEAA/m20_index.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3
-https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8																																														  																	
-#EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network
-https://ancom.ga/fpt/cartoon-network/bitrate_5000.m3u8
-
-#EXTINF:0 tvg-id="dreamworks" group-title="THIẾU NHI" tvg-logo="https://i.ibb.co/Tk66hWb/ebskids.png",EBS kids
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc
-#EXTINF:-1 tvg-id="animaxhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" catchup="append" catchup- days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax
-
-https://ancom.ga/fpt/animax/bitrate_5000.m3u8
-
-
+https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8	
 #EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/aIAaCce.png" group-title="THIẾU NHI",Da Vinci
 http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cbeebies" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies
-https://ancom.ga/fpt/cbeebies/bitrate_5000.m3u8
+
 
 
 
@@ -618,17 +578,6 @@ https://ancom.ga/fpt/cbeebies/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="THỂ THAO" tvg-logo="https://i.imgur.com/E3OjM1k.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV Thể Thao
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-
- 
-
-
-
-
-
-
-																						 ㅤ
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S5yKm0X/jsports1-BEARTV.png" group-title="THỂ THAO",J Sport 1
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hBt4pzh/jsports2-BEARTV.png" group-title="THỂ THAO",J Sport 2
@@ -664,23 +613,8 @@ https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
 https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-  																						 ㅤ   
-
-
 #EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="🌏 Quốc tế",🍉 Asian Food Network
 http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-
-
 
 #EXTINF:-1 tvg-id="drfithd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
 
