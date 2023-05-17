@@ -32,6 +32,9 @@ https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AN NINH TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇻🇳 Địa phương" tvg-logo="http://img-zlr2.tv360.vn/tv360-static/static/web/images/logo.png" ,TV360
+
+http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HẬU GIANG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
@@ -519,71 +522,14 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV
 http://103.90.220.236/vovlive/tv1live.m3u8
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/SCTV1_logo_2017.png/revision/latest?cb=20201119113949&path-prefix=vi", SCTV1
 
-https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.ibb.co/28ngJKv/ccsctv4.webp", SCTV4
 
-https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest/scale-to-width-down/1582?cb=20220223142109&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
 
-#EXTVLCOPT:http-user-agent=VThanhTivi
 
-http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/SCTV7_logo_2009.png/revision/latest?cb=20201022113704&path-prefix=vi", SCTV7
 
-https://vtsstr4.tv24.vn/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.ibb.co/9T22T9r/ccsctv8.webp", SCTV8
-
-https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/RadManager/Image/2017/TINTUC-SUKIEN/Hoatdongsctv/Thang2/sctv9.png", SCTV9
-
-https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/SCTV11_logo_2009.png/revision/latest?cb=20201022105213&path-prefix=vi", SCTV11
-
-https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="http://tvtructuyen.vn/wp-content/uploads/2018/07/large_sctv12.png", SCTV12
-
-https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/45/SCTV13_logo.png/revision/latest/scale-to-width-down/1200?cb=20211211011126&path-prefix=vi", SCTV13
-
-https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png", SCTV14 - Phim Việt
-
-https://vtsstr7.tv24.vn/live/SCTV_HD_PhimViet_sctv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f5/SCTV16_logo_2016.png/revision/latest?cb=20211211011404&path-prefix=vi", SCTV16
-
-https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18
-
-https://vtsstr4.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV19.png/revision/latest?cb=20210820122147&path-prefix=vi", SCTV19
-
-https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/SCTV20_logo_2019.png/revision/latest/scale-to-width-down/1570?cb=20220223142132&path-prefix=vi", SCTV20
-
-https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png",SCTV Phim tổng hợp
-
-https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="SCTV" tvg-logo="http://img-zlr2.tv360.vn/tv360-static/static/web/images/logo.png" ,TV360
-
-http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png", ON BiBi
 https://code.vthanhtivi.pw/getlink/mytv/205/hd.m3u8
