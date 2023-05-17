@@ -588,10 +588,6 @@ http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZdscfHY/B12-BEARTV.png" group-title="🌏 Quốc tế",BS 12
 http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="abcaustralia" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/215.png", ABC Australia
-http://cdn-cf.vthanhtivi.pw/fptplay/australia-plus/bitrate_5000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="🌏 Quốc tế",CGTN Arabic
 http://livear.cgtn.com/1000a/prog_index.m3u8
 
