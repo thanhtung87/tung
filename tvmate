@@ -561,26 +561,6 @@ https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World" tvg-logo="https://i.imgur.com/f3f3d79.png" group-title="🌏 Quốc tế",NHK World
 http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hr34y6B/NHKE-BEARTV.png" group-title="🌏 Quốc tế",NHK E
-http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jRXL1sv/NHK-G-BEARTV.png" group-title="🌏 Quốc tế",NHK G
-http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Px219mS/Fuji-TV-BEARTV.png" group-title="🌏 Quốc tế",BS Fuji TV
-http://redlabmcdn.s.llnwi.net/nv02/bs07hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png" group-title="🌏 Quốc tế", Nippon TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="🌏 Quốc tế", TV Asahi
-http://redlabmcdn.s.llnwi.net/nv02/bs04hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="🌏 Quốc tế",TBS TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DQxt7y4/TV-Tokyo-BEARTV.png" group-title="🌏 Quốc tế",TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVsM8xX/NHK-BS1-BEARTV.png" group-title="🌏 Quốc tế",NHK BS1
-http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZdscfHY/B12-BEARTV.png" group-title="🌏 Quốc tế",BS 12
-http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="🌏 Quốc tế",CGTN Arabic
 http://livear.cgtn.com/1000a/prog_index.m3u8
 
