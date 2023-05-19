@@ -538,7 +538,7 @@ http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id"ebskids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/Ob8NgBF.jpg",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc ㅤ
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/lNgT47T.png",ON Kids
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/pvXmXgJ.jpg",ON Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/tv360/179/2.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/pS3S4vW.jpg", ON BiBi
