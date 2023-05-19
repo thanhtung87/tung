@@ -35,6 +35,17 @@ https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇻🇳 Địa phương" tvg-logo="http://img-zlr2.tv360.vn/tv360-static/static/web/images/logo.png" ,TV360
 
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳 Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest/scale-to-width-down/1582?cb=20220223142109&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳 Địa phương" tvg-logo="https://www.sctv.com.vn/Media/RadManager/Image/2017/TINTUC-SUKIEN/Hoatdongsctv/Thang2/sctv9.png",SCTV9
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV9.smil/chunklist_b942000.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="🇻🇳 Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/K%C3%AAnh_Phim_Vi%E1%BB%87t_SCTV14.png/revision/latest?cb=20220602110810&path-prefix=vi",SCTV14
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png",SCTV Phim tổng hợp
+
+https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HẬU GIANG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
