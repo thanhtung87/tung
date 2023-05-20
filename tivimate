@@ -83,7 +83,7 @@ https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="🇻🇳 Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THTV2_logo_19-06-2022.png/revision/ latest/scale-to-width-down/1200?cb=20220624075054&path-prefix=vi",TRÀ VINH 2
+#EXTINF:-1 group-title="🇻🇳 Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THTV2_logo_19-06-2022.png/revision/latest?cb=20220624075054&path-prefix=vi",TRÀ VINH 2
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w404319852.m3u8
 
 #EXTINF:-1 tvg-id="soctrang1" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ytimg.com/vi/l6m7BqH1YY0/maxresdefault.jpg",SÓC TRĂNG 1
@@ -132,7 +132,7 @@ http://103.90.220.236/bptvlive/tv1live.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/x7Nlopc.png",ĐỒNG NAI 1
+#EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳 Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b0/%C4%90N-RTV_logo_2011-2018.png/revision/latest?cb=20211204140550&path-prefix=vi",ĐỒNG NAI 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 
