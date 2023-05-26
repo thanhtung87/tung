@@ -542,6 +542,8 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 #EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://www.itec.hcmus.edu.vn/edu/images/stories/tu-vung-tieng-han-ve-cac-mon-the-thao.jpg",sự kiện thể thao
 http://103.75.186.169/b4tv/b4tv/3.ts
+#EXTINF:-1 tvg-id="ksport1hd" group-title="THỂ THAO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIvKdztFL_E2TF8VU3gfcEZh1ngI3Lfs6Kqpd3mVc&s=0" ,K+
+http://103.75.186.169/b4tv/b4tv/1.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="THỂ THAO",FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
