@@ -19,14 +19,16 @@ https://stream.zeno.fm/hvtxgd85rm0uv
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/255.png",Vĩnh Long
 https://code.vthanhtivi.pw/getlink/dp/thvlradio/playlist.m3u8
+
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/FM96_2.jpg",Tiền Giang
 http://123.25.238.45:1935/live/radio/chunklist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="http://haugiangtivi.vn/public/Home/imghg/radio.gif",Hậu Giang
-https://60acee235f4d5.streamlock.net/HGTVR/hgtvradio/chunklist.m3u8
 
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Logo_%C4%90%C3%A0i_ph%C3%A1t_thanh_truy%E1%BB%81n_h%C3%ACnh_H%E1%BA%ADu_Giang_-_HGTV.png/1599px-Logo_%C4%90%C3%A0i_ph%C3%A1t_thanh_truy%E1%BB%81n_h%C3%ACnh_H%E1%BA%ADu_Giang_-_HGTV.png",Hậu Giang
+https://60acee235f4d5.streamlock.net/HGTVR/hgtvradio/chunklist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://beta.la34.com.vn/upload/files/logo/icon_app_long_an-38.png",Long An
 http://103.90.220.236/la34/radio-transmux.m3u8
+
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://www.thdt.vn/wp-content/uploads/2018/11/logo2-1.png", Đồng Tháp
 http://202.43.109.144:1935/thdtradio/thdtradio/chunklist.m3u8
 
