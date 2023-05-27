@@ -614,8 +614,7 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏 Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/400px-HOY_TV_Logo.svg.png", HOY TV
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🌏 Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bc/RTHK_TV_32_2015.svg/revision/latest?cb=20230331041106&path-prefix=vi", RTHK 32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/iX9c7AK.png" group-title="🌏 Quốc tế",Channel NewsAsia
 http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 
