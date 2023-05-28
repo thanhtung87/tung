@@ -196,6 +196,8 @@ https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/jHJ0Qnp.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC16
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV
+http://103.90.220.236/vovlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/k9FyzM3.png",BTV9 - AnVienTV
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
