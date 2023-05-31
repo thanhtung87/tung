@@ -101,7 +101,7 @@ http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/bphN2eA.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7
-https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/VLHmEqh.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV8
 http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 
