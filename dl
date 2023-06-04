@@ -527,6 +527,12 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png",BTV5-ON SPORT ACTION
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/cliptv/on-football/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/cliptv/on-sports-news/chunklist_b5128000.m3u8
 #EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://www.itec.hcmus.edu.vn/edu/images/stories/tu-vung-tieng-han-ve-cac-mon-the-thao.jpg",sự kiện thể thao
 http://103.75.186.169/b4tv/b4tv/3.ts
 #EXTINF:-1 tvg-id="ksport1hd" group-title="THỂ THAO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIvKdztFL_E2TF8VU3gfcEZh1ngI3Lfs6Kqpd3mVc&s=0" ,K+
