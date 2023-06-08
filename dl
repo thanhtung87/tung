@@ -42,9 +42,8 @@ http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="youtv" group-title="🇻🇳 Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/YouTV_logo.png/revision/latest?cb=20201010125200&path-prefix=vi", HCATV2 - YouTV
-https://code.vthanhtivi.pw/getlink/tv360/31/0.m3u8
-#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/zPvBb4q/ONLife-BEARTV.png", ON LIFE
+
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/zPvBb4q/ONLife-BEARTV.png",ON LIFE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab22-life-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/DXN2hS2.png",HTV1
