@@ -520,7 +520,8 @@ https://code.vthanhtivi.pw/getlink/mytv/205/hd.m3u8
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/I7X3x2V.jpg",ON Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/tv360/179/2.m3u8
-
+#EXTINF:-1 tvg-id="" group-title="THIẾU NHI" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest?cb=20220127020331&path-prefix=vi",K+ KIDS
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
 
 #EXTINF:-1 tvg-id="btv5" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png",BTV5-ON SPORT ACTION
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
