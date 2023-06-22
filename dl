@@ -576,3 +576,68 @@ https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="🌏 Quốc tế", 🍉 Asian Food Network
 http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 
+
+#EXTINF:-1 tvg-id="woman" group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/ePYXLBQ.png",WOMAN
+https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png",OUTDOOR CHANNEL
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/7CH2JD5/ccwildlife.png",Wild Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, như Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8?cc
+#EXTINF:-1 tvg-id="hgtv" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png",HGTV
+https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
+#EXTINF:-1 tvg-id="france24eng" tvg-name="France 24" tvg-logo="https://i.imgur.com/i0BDIFo.png" group-title="🌏 Quốc tế",FRANCE 24
+http://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5 Monde" tvg-logo="https://i.imgur.com/v1ERmdk.png" group-title="🌏 Quốc tế",TV5 MONDE
+http://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://i.imgur.com/B6jnE9k.png" group-title="🌏 Quốc tế",DW
+http://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="cctv13" group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 TRUNG QUỐC
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🌏 Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/400px-HOY_TV_Logo.svg.png", HOY TV
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/iX9c7AK.png" group-title="🌏 Quốc tế",Channel NewsAsia
+http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://i.imgur.com/kzP4EEU.png" group-title="🌏 Quốc tế",Arirang
+http://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://i.imgur.com/pKUX98A.png" group-title="🌏 Quốc tế",KBS WORLD
+http://livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-1-vipotv.png",EBS 1
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-2-vipotv.png" ,EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World" tvg-logo="https://i.imgur.com/f3f3d79.png" group-title="🌏 Quốc tế",NHK WORLD
+http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/GEUzSd4.png",CGTN English
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="🌏 Quốc tế",CGTN Ả Rập
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e8HG0D7.png" group-title="🌏 Quốc tế",CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1200px-Thai_PBS_2015.svg.png" , PBS Thái Lan
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="🌏 Quốc tế",TVRI World
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/BIBHaGo.jpg" group-title="🌏 Quốc tế",TVK2 Campuchia
+https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+#EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/1Xzxsgl.png",BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=4
+#EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png",SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=5
+#EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://i.imgur.com/bK8UH9D.png",RTM TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
+#EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/n1dGjWL/HMHDTV-BEARTV.png", Hangmeas TV
+http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
+#EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/n8097VD/RHM-HDTV-BEARTV.png", Rasmey Hang Meas
+http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
