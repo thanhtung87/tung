@@ -250,13 +250,10 @@ http://103.90.220.236/bptvlive/tv1live.m3u8
 #EXTINF:0 tvg-id="binhphuoc2" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/97Kgo2U.png",BÌNH PHƯỚC 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳 Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b0/%C4%90N-RTV_logo_2011-2018.png/revision/latest?cb=20211204140550&path-prefix=vi",ĐỒNG NAI 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/FEVaoJH.png",ĐỒNG NAI 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/ZJdjs8Z/dongnai1.png",ĐỒNG NAI 1
+https://code.vthanhtivi.pw/getlink/mytv/404/hd.m3u8
+#EXTINF:0 group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/5Bb5cxw/dongnai2.png",ĐỒNG NAI 2
+https://code.vthanhtivi.pw/getlink/tv360/255/3.m3u8
 
 #EXTINF:0 tvg-id="tayninh" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/8rGiYuk.png",TÂY NINH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
