@@ -36,7 +36,6 @@ https://code.vthanhtivi.pw/getlink/vieon/vtvcab22-life-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/DYbDf0M.jpg",Happy KIDS
 https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
 
-https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/GorB0bO.jpg", Animax
 http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
 #EXTINF:-1 tvg-id"ebskids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/Ob8NgBF.jpg",EBS Kids
