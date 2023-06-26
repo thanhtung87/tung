@@ -172,21 +172,15 @@ https://api.anttv.xyz/get/vieon/vtc14-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/jHJ0Qnp.png" , VTC16
 #EXTVLCOPT:http-user-agent=ANT TV
 https://api.anttv.xyz/get/vieon/vtc16-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV
+#EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png",VOVTV
 http://103.90.220.236/vovlive/tv1live.m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE
 http://103.77.175.153:80/play/PlJVLeh3OFlevh__G-rmB3i5YWYmobdPd9-ZtE-spu7ZfGmordpk2kOkHKuWOCU6/m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life HD
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png",K+ Life
 http://103.77.175.153:80/play/PlJVLeh3OFlevh__G-rmBwbhFPXVtB6OkHW0a1ew2tktj9ES2NLlub8iBdrZwu_m/m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids HD
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp",K+ Kids
 http://103.77.175.153:80/play/PlJVLeh3OFlevh__G-rmB2XSezLOrng8BuSAyuriAy37ixNapIghQGXcxKGcJo9z/m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KSPORT1%20HD.png",K+ Sport 1
-http://103.77.175.153:80/play/wlg-jfW6DBbBsQDplu1GVMRWPmDOnMupZ4eHzsuAjLs
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KSPORT2%20HD.png",K+ Sport 2
-http://103.77.175.153:80/play/wlg-jfW6DBbBsQDplu1GVD7ipGzI92jxCm3Ngw5NOBE
-
-
 
 
 #EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/11UmfZD.png",ĐỒNG THÁP 1
