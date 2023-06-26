@@ -321,9 +321,7 @@ https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/RDhIBea.png",HÀ NỘI 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
-
+https://live-ali4.tv360.vn/manifest/Ha_Noi_1_SPR/playlist_360p.m3u8
 #EXTINF:-1 tvg-id="HANOITV 2" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/L5bfkfQ/HANOI2-TV-BEARTV.png",HÀ NỘI 2
 #EXTVLCOPT:http-user-agent="BearTV"
 https://code.vthanhtivi.pw/getlink/mytv/401/hd.m3u8
