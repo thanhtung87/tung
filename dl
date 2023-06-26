@@ -193,24 +193,20 @@ http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="longan" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/FFWePVH.png",LONG AN
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
+http://103.90.220.236/la34/tvlive-transmux.m3u8
 
 
 #EXTINF:-1 tvg-id="angiang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/0TkI4Ar.png",AN GIANG
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/an-giang/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="bentre" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/l8Ae26m.png",BẾN TRE
 https://code.vthanhtivi.pw/getlink/mytv/167/hd.m3u8
 
 #EXTINF:-1 tvg-id="tiengiang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/UTSrapf.png",TIỀN GIANG
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
+http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 
 #EXTINF:0 tvg-id="travinh" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/I0yNz1o.png",TRÀ VINH 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
+https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳 Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THTV2_logo_19-06-2022.png/revision/latest?cb=20220624075054&path-prefix=vi",TRÀ VINH 2
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w404319852.m3u8
