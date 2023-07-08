@@ -501,11 +501,6 @@ https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 #EXTINF:-1 tvg-id="cctv13" group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 TRUNG QUỐC
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🌏 Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/400px-HOY_TV_Logo.svg.png", HOY TV
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-#EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://i.imgur.com/pKUX98A.png" group-title="🌏 Quốc tế",KBS WORLD
-http://livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-1-vipotv.png",EBS 1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-2-vipotv.png" ,EBS 2
