@@ -20,7 +20,6 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="TỔNG HỢP" tvg-logo="https://i.imgur.com/k9FyzM3.png",BTV9 - AnVienTV
 https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="hitv" group-title="TỔNG HỢP" tvg-logo="https://cdn.hqth.me/logo/thumbs/98.png", HCATV1 - HiTV HD
 https://code.vthanhtivi.pw/getlink/mytv/45/hd.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="TỔNG HỢP" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
@@ -42,8 +41,7 @@ https://live-zlr1.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/DYbDf0M.jpg",Happy KIDS
-https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
-
+https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/GorB0bO.jpg", Animax
 http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
 #EXTINF:-1 tvg-id"ebskids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/Ob8NgBF.jpg",EBS Kids
@@ -213,8 +211,7 @@ https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/402/hd.m3u8
 
 #EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/pEaPECX.png",BÌNH DƯƠNG 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/binh-duong-2/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="🇻🇳 Địa phương" tvg-logo="https://i.postimg.cc/YSz4DW0g/btv3.png",BÌNH DƯƠNG 3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -490,6 +487,10 @@ https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
 #https://code.vthanhtivi.pw/getlink/cliptv/planet-earth-hd/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
 https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
+
+#EXTINF:-1 tvg-id="drfithd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
+https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
+#https://code.vthanhtivi.pw/getlink/cliptv/drfit-hd/chunklist_b5128000.m3u8
 
 #EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/7CH2JD5/ccwildlife.png",Wild Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, như Gecko) Chrome/81.0.4044.138 Safari/537.36
