@@ -496,10 +496,30 @@ https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
 https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
 #https://code.vthanhtivi.pw/getlink/cliptv/drfit-hd/chunklist_b5128000.m3u8
-EXTINF:-1 tvg-id="discoveryhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
+#EXTINF:-1 tvg-id="hbosignaturehd-asia" group-title="🌏 Quốc tế" tvg-logo="https://img.vnmedia.xyz/logo/hbosignaturehd-asia.png", HBO Signature
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax
+http://live.vthanhtivi.pw/cinemax/index.m3u8
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
+#https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+http://sg.tinchuanchuaanh.com:8080/HOLLYWOOD_CLASSICS/index.m3u8
+#https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
+#https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
+#EXTINF:-1 tvg-id="man" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
+https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
+#https://code.vthanhtivi.pw/getlink/cliptv/man/chunklist_b5128000.m3u8
+
 #EXTINF:-1 tvg-id="historyhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History
 http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic
