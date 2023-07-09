@@ -20,8 +20,6 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="TỔNG HỢP" tvg-logo="https://i.imgur.com/k9FyzM3.png",BTV9 - AnVienTV
 https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hitv" group-title="TỔNG HỢP" tvg-logo="https://cdn.hqth.me/logo/thumbs/98.png", HCATV1 - HiTV HD
-https://code.vthanhtivi.pw/getlink/mytv/45/hd.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="TỔNG HỢP" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
 https://code.vthanhtivi.pw/getlink/tv360/31/0.m3u8
 
@@ -31,8 +29,7 @@ http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_108
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="TỔNG HỢP" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",  VTVcab 1 - Vie Giải trí HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="TỔNG HỢP" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png",ON Movies
-https://code.vthanhtivi.pw/getlink/mytv/435/hd.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="TỔNG HỢP" tvg-logo="https://i.ibb.co/zPvBb4q/ONLife-BEARTV.png",ON LIFE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab22-life-tv/playlist.m3u8
