@@ -244,19 +244,23 @@ https://code.vthanhtivi.pw/getlink/mytv/404/hd.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/255/3.m3u8
 
 
-#EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/RDhIBea.png",HÀ NỘI 1
-https://live-ali4.tv360.vn/manifest/Ha_Noi_1_SPR/playlist_360p.m3u8
-#EXTINF:-1 tvg-id="HANOITV 2" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/L5bfkfQ/HANOI2-TV-BEARTV.png",HÀ NỘI 2
-#EXTVLCOPT:http-user-agent="BearTV"
-https://code.vthanhtivi.pw/getlink/mytv/401/hd.m3u8
+#EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_720p/chunks_dvr_range-${start}-${offset}.m3u8", HanoiTV1 HD
+https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
+#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_720p/chunks_dvr_range-${start}-${offset}.m3u8", HanoiTV2
+https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist_b3128000_slen.m3u8
+#EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/143.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/405/auto/dvr-${start}-${offset}.m3u8", Hà Tĩnh
+https://code.vthanhtivi.pw/getlink/mytv/405/hd.m3u8
+#EXTINF:-1 tvg-id="haiduong" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/144.png",Hải Dương
+https://code.vthanhtivi.pw/getlink/tv360/59/2.m3u8
+#EXTINF:-1 tvg-id="haiphong" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/145.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/407/auto/dvr-${start}-${offset}.m3u8", Hải Phòng
+http://103.90.220.236/thplive/tv1live-transmux.m3u8
+#EXTINF:-1 tvg-id="haiphongplus" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png" catchup="append" catchup-days="2" catchup-source="https://live.thhp.vn/vod/index.m3u8?st=${start}000&et=${end}000&c=thpplus",Hải Phòng
+http://103.90.220.236/thplive/tv2live-transmux.m3u8
 
-#EXTINF:0 tvg-id="" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/8PdwJC0/LSTV-BEARTV.png", LẠNG SƠN
-http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
-
-
-#EXTINF:-1 tvg-id="lamdong" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/iaexSxL.png",LÂM ĐỒNG
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hoabinh" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/148.png", Hòa Bình
+https://code.vthanhtivi.pw/getlink/mytv/159/hd.m3u8
+#EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/149.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/408/auto/dvr-${start}-${offset}.m3u8", Hưng Yên
+http://103.90.220.236/hytvlive/tv1live.m3u8
 
 
 
