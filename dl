@@ -140,30 +140,42 @@ https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/196/0.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc3-hd/dvr-${start}-${offset}.m3u8", VTC3 HD
 https://live-zlr1.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc4-yeah1-family-hd/dvr-${start}-${offset}.m3u8", VTC4 HD
-https://code.vthanhtivi.pw/getlink/mytv/396/hd.m3u8
-#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc5-hd/dvr-${start}-${offset}.m3u8", VTC5 HD
-https://code.vthanhtivi.pw/getlink/mytv/397/hd.m3u8
-#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6
-https://code.vthanhtivi.pw/getlink/mytv/22/high.m3u8
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/7LMs72R.png",VTC7
-https://code.vthanhtivi.pw/getlink/mytv/398/hd.m3u8
-#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc8/dvr-${start}-${offset}.m3u8", VTC8
-https://code.vthanhtivi.pw/getlink/tv360/202/0.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc9-hd/dvr-${start}-${offset}.m3u8", VTC9 HD
-https://code.vthanhtivi.pw/getlink/mytv/399/hd.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
-https://code.vthanhtivi.pw/getlink/mytv/29/hd.m3u8
-#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
-https://code.vthanhtivi.pw/getlink/tv360/205/0.m3u8
-#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png", VTC12 - VTC K
-https://code.vthanhtivi.pw/getlink/mytv/463/high.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC13 HD
-https://code.vthanhtivi.pw/getlink/mytv/184/hd.m3u8
-#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc14-hd/dvr-${start}-${offset}.m3u8", VTC14
-https://code.vthanhtivi.pw/getlink/mytv/32/hd.m3u8
-#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc16-hd/dvr-${start}-${offset}.m3u8", VTC16
-http://code.vthanhtivi.pw/getlink/mytv/33/hd.m3u8
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc4-yeah1-family-hd/dvr-${start}-${offset}.m3u8", VTC4
+#EXTVLCOPT:http-user-agent=ListIPTVXemTV
+https://tiemnhazunn.click/tv360/tv360.php?id=198
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/45.png" , VTC5
+#EXTVLCOPT:http-user-agent=ListIPTVXemTV
+https://tiemnhazunn.click/tv360/tv360.php?id=199
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/46.png" , VTC6
+#EXTVLCOPT:http-user-agent=ListIPTVXemTV
+https://tiemnhazunn.click/tv360/tv360.php?id=200
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/47.png" , VTC7 - TodayTV
+#EXTVLCOPT:http-user-agent=ListIPTVXemTV
+https://tiemnhazunn.click/tv360/tv360.php?id=201
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://logo.anttv.xyz/48.png" , VTC8
+#EXTVLCOPT:http-user-agent=ListIPTVXemTV
+https://tiemnhazunn.click/tv360/tv360.php?id=202
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/49.png" , VTC9
+#EXTVLCOPT:http-user-agent=ListIPTVXemTV
+https://tiemnhazunn.click/tv360/tv360.php?id=203
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://logo.anttv.xyz/50.png" , VTC10
+#EXTVLCOPT:http-user-agent=ListIPTVXemTV
+https://tiemnhazunn.click/tv360/tv360.php?id=204
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://logo.anttv.xyz/51.png" , VTC11
+#EXTVLCOPT:http-user-agent=ListIPTVXemTV
+https://tiemnhazunn.click/tv360/tv360.php?id=205
+#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://logo.anttv.xyz/52.png", VTC12
+#EXTVLCOPT:http-user-agent=ListIPTVXemTV
+https://code.vthanhtivi.pw/getlink/nethubtv/15531/1.m3u8
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/53.png" , VTC13
+#EXTVLCOPT:http-user-agent=ListIPTVXemTV
+https://tiemnhazunn.click/tv360/tv360.php?id=206
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/54.png" , VTC14
+#EXTVLCOPT:http-user-agent=ListIPTVXemTV
+https://tiemnhazunn.click/tv360/tv360.php?id=17
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://logo.anttv.xyz/55.png" , VTC16
+#EXTVLCOPT:http-user-agent=ListIPTVXemTV
+https://tiemnhazunn.click/tv360/tv360.php?id=18
 
 #EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png",VOVTV
 http://103.90.220.236/vovlive/tv1live.m3u8
