@@ -110,8 +110,9 @@ http://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 
 http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/Cy7xwvd.png",VTV4
-https://code.vthanhtivi.pw/getlink/tv360/108/2.m3u8
+#EXTINF:0 type="stream" group-title="VTV" tvg-id="vtv4hd" tvg-logo="https://i.ibb.co/NSSfgj5/ccvtv4.webp",VTV4
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa #EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/f1adpmzxclche14/   			ㅤ  								|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/KfPiaKG.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5
 https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/pc6nPic.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV Cần Thơ
@@ -119,14 +120,15 @@ https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-6
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/bphN2eA.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7
-https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/VLHmEqh.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV8
-https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/X2t4bbg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9
-https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
+#EXTINF:0 type="stream" group-title="VTV" tvg-id="vtv7hd" tvg-logo="https://i.ibb.co/JjwwJCk/ccvtv7.webp",VTV7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa #EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/f3gaq8dhsbnlyut/   			ㅤ  									|Referer=https://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="VTV" tvg-id="vtv8hd" tvg-logo="https://i.ibb.co/6JzZNqz/ccvtv8.webp",VTV8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa #EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/ywjkllkz5d85276/   			ㅤ  									|Referer=https://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="VTV" tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/FHFdRNC/ccvtv9.webp",VTV9
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa #EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/2nse801wb2pmd0f/   			ㅤ  								|Referer=https://sctvonline.vn/
 
 
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://i.imgur.com/g6rH1cs.png" ,VTC1
