@@ -29,7 +29,18 @@ http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_108
 #EXTINF:-1 tvg-id="sctv6hd" group-title="TỔNG HỢP" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6
 https://live-zlr1.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 
-
+#EXTINF:0 type="stream" group-title="5️⃣ SCTV" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/k9Jzkbw/ccsctv7.webp",SCTV7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/w4mtxrd2usdxvxn/   			ㅤ  					|Referer=https://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="5️⃣ SCTV" tvg-id="sctv8hd" tvg-logo="https://i.ibb.co/r7dgp4P/ccsctv8.webp",SCTV8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/jwpbp2bzopnlzr5/   			ㅤ  					|Referer=https://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="5️⃣ SCTV" tvg-id="sctv9hd" tvg-logo="https://i.ibb.co/Vt8Kwdr/ccsctv9.webp",SCTV9
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/ft0mgx9tngq1nid/   			ㅤ  					|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/DYbDf0M.jpg",Happy KIDS
 https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/GorB0bO.jpg", Animax
