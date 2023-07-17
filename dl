@@ -51,10 +51,13 @@ http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
 #EXTINF:-1 tvg-id"ebskids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/Ob8NgBF.jpg",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc ㅤ
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/pS3S4vW.jpg", ON BiBi
-https://code.vthanhtivi.pw/getlink/mytv/205/hd.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/e5ucgk3xlffmsxm/   			ㅤ  						|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/I7X3x2V.jpg",ON Kids
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/tv360/179/2.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/nd0bi1wlt6jigkq/   			ㅤ  						|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/mSADGp8.jpg",Boomerang
 http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/ZMmGzzb.jpg", Cartoon Network HD
