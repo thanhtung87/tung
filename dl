@@ -60,8 +60,12 @@ https://dl.dropboxusercontent.com/s/e5ucgk3xlffmsxm/   			ㅤ  						|Referer=ht
 https://dl.dropboxusercontent.com/s/nd0bi1wlt6jigkq/   			ㅤ  						|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/mSADGp8.jpg",Boomerang
 http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/ZMmGzzb.jpg", Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/ZMmGzzb.jpg", Cartoon Network
 http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
+#EXTINF:0 type="stream" group-title="THIẾU NHI" tvg-id="sctv3hd" tvg-logo="https://i.ibb.co/CnmttZQ/ccsctv3.webp",SCTV3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/w7t3qxhw4bzu8ob/   			ㅤ  				|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
 http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
