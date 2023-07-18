@@ -45,9 +45,7 @@ https://dl.dropboxusercontent.com/s/jwpbp2bzopnlzr5/   			ㅤ  					|Referer=htt
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://dl.dropboxusercontent.com/s/ft0mgx9tngq1nid/   			ㅤ  					|Referer=https://sctvonline.vn/
-#EXTINF:-1 group-title="TỔNG HỢP" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5f/784px-Tvb_logo.svg.png",TVB Việt Nam
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/DYbDf0M.jpg",Happy KIDS
 https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/GorB0bO.jpg", Animax
