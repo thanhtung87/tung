@@ -17,15 +17,11 @@ http://live-ali2.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8?vkhichtv
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="TỔNG HỢP" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AN NINH TV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 tvg-id="anvienhd" group-title="TỔNG HỢP" tvg-logo="https://i.imgur.com/k9FyzM3.png",BTV9 - AnVienTV
-https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" group-title="TỔNG HỢP" tvg-logo="http://img-zlr2.tv360.vn/tv360-static/static/web/images/logo.png" ,TV360
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 
-#EXTINF:0 type="stream" group-title="5️⃣ SCTV" tvg-id="sctv4hd" tvg-logo="https://i.ibb.co/j4VVdqw/ccsctv4.webp",SCTV4
+#EXTINF:0 type="stream" group-title="TỔNG HỢP" tvg-id="sctv4hd" tvg-logo="https://i.ibb.co/j4VVdqw/ccsctv4.webp",SCTV4
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://dl.dropboxusercontent.com/s/q2qc2yferabgg95/   			ㅤ  				|Referer=https://sctvonline.vn/
