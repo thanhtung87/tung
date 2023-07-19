@@ -186,9 +186,7 @@ https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 #EXTINF:-1 tvg-id="binhduong1"group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/q5C5Fb9/BTV1.png",BTV1
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://code.vthanhtivi.pw/getlink/mytv/402/hd.m3u8
-#EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ibb.co/2yj1PqC/BTV2.png",BTV2
-#EXTVLCOPT:http-user-agent="Khanggne"
-https://dl.dropboxusercontent.com/s/8taofr5w5234m2k/getlink/fpt/subs-livecdn.fptplay.net/MjgxMzcwMDB8YmluaGR1b25nM19obHMuc21pbHx2aWV0dGVsfDE2ODc3MDI1Njl8MTI1LjIxMi4xOTIuMjMzfGM1ODhiOWRhNjUzOWU3OGJjNTVjYzI2ZDgxNWM5ZmY0/epzsd1/binhduong3_hls.smil/chunklist_b2500000.m3u8
+
 
 #EXTINF:0 group-title="🇻🇳 Địa phương" tvg-logo="https://media.baobinhphuoc.com.vn/upload/files/logo/bptv1.png", BPTV1
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
@@ -196,9 +194,9 @@ https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 
 
-#EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_720p/chunks_dvr_range-${start}-${offset}.m3u8", HanoiTV1
+#EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_720p/chunks_dvr_range-${start}-${offset}.m3u8", HÀ NỘI 1
 https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_720p/chunks_dvr_range-${start}-${offset}.m3u8", HanoiTV2
+#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_720p/chunks_dvr_range-${start}-${offset}.m3u8",HÀ NỘI 2
 https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist_b3128000_slen.m3u8
 
 
