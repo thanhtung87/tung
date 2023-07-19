@@ -237,26 +237,7 @@ http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 http://live-ali4.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
 #EXTINF:-1 tvg-id="btv5" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png",BTV5-ON SPORT ACTION
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png",ON Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/cliptv/on-sports/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png",ON Football
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/cliptv/on-football/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/71581b3f-c347-448a-b813-1a2cb25c4a25.jpg", Bóng đá Việt
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZua5xnZ5aklMKZmaeWlquokaBpXmNm&time=1689154451&onplus&id=s2-onvff
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVFFTV/manifest.mpd
-#EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/72ac05ac-1ac3-4570-bb0b-ee698b251f0a.jpg", Thể thao Việt
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZua5xnZ5aklMKZmaeWlquokaBpXmNm&time=1689154451&onplus&id=s2-onvolley
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVOLLEYBALL/manifest.mpd
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png",ON Sports News
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/cliptv/on-sports-news/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="THỂ THAO",FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
@@ -267,10 +248,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=5
 
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
-http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
-http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="hbohd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png",HBO
 http://live.vthanhtivi.pw/hbo/index.m3u8
 
@@ -287,21 +265,8 @@ http://sg.tinchuanchuaanh.com:8080/HOLLYWOOD_CLASSICS/index.m3u8
 http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
 #https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 
-#EXTINF:-1 tvg-id="historyhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History
-http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
-#EXTINF:-1 tvg-id="ngchd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic
-http://live.vthanhtivi.pw/natgeo
-#EXTINF:-1 tvg-id="ngwhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", Nat Geo Wild
-http://live.vthanhtivi.pw/ngw
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
 https://code.vthanhtivi.pw/getlink/mytv/191/hd.m3u8
-
-#EXTINF:-1 tvg-id="axnhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
-http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
-#EXTINF:-1 tvg-id="dmax" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
-http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
-http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
 
 #EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/7CH2JD5/ccwildlife.png",Wild Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, như Gecko) Chrome/81.0.4044.138 Safari/537.36
