@@ -61,24 +61,6 @@ https://dl.dropboxusercontent.com/s/2rr7jsyfjkaxk09/   			ㅤ |Referer=https://s
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://dl.dropboxusercontent.com/s/skeyka5jdesvilx/   		ㅤ |Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/ZMmGzzb.jpg",Happy KIDS
-https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
-
-#EXTINF:-1 tvg-id"ebskids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/Ob8NgBF.jpg",EBS Kids
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc ㅤ
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/pS3S4vW.jpg", ON BiBi
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/e5ucgk3xlffmsxm/   			ㅤ  						|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/I7X3x2V.jpg",ON Kids
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/nd0bi1wlt6jigkq/   			ㅤ  						|Referer=https://sctvonline.vn/
-
-#EXTINF:0 type="stream" group-title="THIẾU NHI" tvg-id="sctv3hd" tvg-logo="https://i.imgur.com/mSADGp8.jpg",SCTV3
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/w7t3qxhw4bzu8ob/   			ㅤ  				|Referer=https://sctvonline.vn/
 
 
 
@@ -228,6 +210,24 @@ http://103.90.220.236/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg" group-title="🇻🇳 Địa phương", tvg-logo ="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi",Quảng Ninh 3
 http://103.90.220.236/qtvlive/tv3live.m3u8
 
+#EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/ZMmGzzb.jpg",Happy KIDS
+https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
+
+#EXTINF:-1 tvg-id"ebskids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/Ob8NgBF.jpg",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc ㅤ
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/pS3S4vW.jpg", ON BiBi
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/e5ucgk3xlffmsxm/   			ㅤ  						|Referer=https://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/I7X3x2V.jpg",ON Kids
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/nd0bi1wlt6jigkq/   			ㅤ  						|Referer=https://sctvonline.vn/
+
+#EXTINF:0 type="stream" group-title="THIẾU NHI" tvg-id="sctv3hd" tvg-logo="https://i.imgur.com/mSADGp8.jpg",SCTV3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/w7t3qxhw4bzu8ob/   			ㅤ  				|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="VTV" tvg-logo="https://pbs.twimg.com/media/Fa6-tcfacAA0WFd?format=png",VNews
 https://code.vthanhtivi.pw/getlink/vieon/vnews-hd/playlist.m3u8
