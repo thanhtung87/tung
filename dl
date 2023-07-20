@@ -45,7 +45,7 @@ https://dl.dropboxusercontent.com/s/jwpbp2bzopnlzr5/   			ㅤ  					|Referer=htt
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://dl.dropboxusercontent.com/s/ft0mgx9tngq1nid/   			ㅤ  					|Referer=https://sctvonline.vn/
-#EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv14" tvg-logo="https://i.ibb.co/SBh0RGm/ccsctv14.webp",SCTV14
+#EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv14" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/K%C3%AAnh_Phim_Vi%E1%BB%87t_SCTV14.png/revision/latest/scale-to-width-down/200?cb=20220602110810&path-prefix=vi",SCTV14
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://dl.dropboxusercontent.com/s/u0l04bmxo9my0d2/   			ㅤ  				|Referer=https://sctvonline.vn/
