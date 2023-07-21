@@ -73,9 +73,10 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV7
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png",HTV7
 https://tiemnhazunn.click/vieon/htv7.php
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://inkythuatso.com/uploads/thumbnails/800/2021/12/htv9-logo-inkythuatso-04-16-43-23.jpg"" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV9
+
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/lL7BHWP.png",HTV9
 https://tiemnhazunn.click/vieon/htv9.php
 
 #EXTINF:-1 tvg-id="htvc_thuan_viet" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/850471-ThuanViet.png" group-title="HTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
