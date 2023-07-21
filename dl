@@ -247,6 +247,8 @@ http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 
 
 
+#EXTINF:-1 tvg-name="801" group-title="🔴| Phát trực tiếp" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801
+https://code.vthanhtivi.pw/getlink/mytv/267/hd.m3u8
 
 
 #EXTINF:0 group-title="THỂ THAO" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png",TV360+ 1 HD
