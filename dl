@@ -63,7 +63,11 @@ https://dl.dropboxusercontent.com/s/2rr7jsyfjkaxk09/   			ㅤ |Referer=https://s
 https://dl.dropboxusercontent.com/s/skeyka5jdesvilx/   		ㅤ |Referer=https://sctvonline.vn/
 
 
-
+#EXTINF:-1 tvg-id="animalhd" group-title="Khám phá" tvg-logo="https://logo.anttv.xyz/217.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Hành tinh động vật
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SalqWZpaHVmqCfo6RnqaWrqpaSop0%3D&time=1690257118&mytv_msky?589
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.imgur.com/BBe0UnR.png",HTV2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
