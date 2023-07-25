@@ -309,14 +309,21 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?i
 
 
 
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO" group-logo="https://logo.anttv.xyz/group/HBO.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SamKGfqp%2FVmqCfo6RnqaWrqpaSop0%3D&time=1690273766&fptplay?hbo
+https://hbo-livecdn.fptplay.net/live_dzones/hbo_1080p/manifest.mpd
 
-#EXTINF:-1 tvg-id="hbohd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SamKGfqp%2FVmqCfo6RnqaWrqpaSop0%3D&time=1690273766&fptplay?cinemax
+https://hbo-livecdn.fptplay.net/live_dzones/max_1080p/manifest.mpd
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" group-logo="https://logo.anttv.xyz/group/InTheBox.png" tvg-logo="https://logo.anttv.xyz/200.png", Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/getplay/$1$1uRknrjN$Z3X.TPyI5UtTTtRprs6Jq./cliptv/box-movie-1-hd/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
 https://code.vthanhtivi.pw/getlink/mytv/191/hd.m3u8
