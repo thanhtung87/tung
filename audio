@@ -93,10 +93,7 @@ http://113.161.25.3:8134/hls/radio/radio.m3u8
 http://113.162.84.113:8081/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/140.png",Hà Nam
 http://103.90.220.236/thhnlive/radio.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://dug0nmhkbevod.vcdn.cloud/MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110831/110832_z3846211079342_aa59839f019726c4b788c89d47e06ff5.jpg",Hà Nội FM 90
-https://1028513096.vnns.net/fm90/chunks.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://dug0nmhkbevod.vcdn.cloud/MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110840/110840_z3846211089905_39c77a676e0692f17b29aa41d76314a1.jpg",Hà Nội FM 96
-https://1028513096.vnns.net/fm96/chunks.m3u8
+
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/143.png",Hà Tĩnh
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 
