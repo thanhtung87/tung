@@ -221,10 +221,7 @@ https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
 
 #EXTINF:-1 tvg-id"ebskids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/Ob8NgBF.jpg",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc ㅤ
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/pS3S4vW.jpg", ON BiBi
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/e5ucgk3xlffmsxm/   			ㅤ  						|Referer=https://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/I7X3x2V.jpg",ON Kids
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
@@ -235,37 +232,8 @@ https://dl.dropboxusercontent.com/s/nd0bi1wlt6jigkq/   			ㅤ  						|Referer=ht
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://dl.dropboxusercontent.com/s/w7t3qxhw4bzu8ob/   			ㅤ  				|Referer=https://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="animaxhd" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u 8", Animax HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SalqWZpaHVmqCfo6RnqaWrqpaSop0%3D&time=1690257118&mytv_msky?469
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd
-#EXTINF:-1 tvg-id="boomerang" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8 ", Boomerang HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SalqWZpaHVmqCfo6RnqaWrqpaSop0%3D&time=1690257118&mytv_msky?467
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}. m3u8", Mạng hoạt hình HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SalqWZpaHVmqCfo6RnqaWrqpaSop0%3D&time=1690257118&mytv_msky?592
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="dreamworks" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dream hoạt động
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SalqWZpaHVmqCfo6RnqaWrqpaSop0%3D&time=1690257118&cliptv?dreamworks
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cbeebies" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png",BBC Cbeebies
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6SalqWZpaHVmqCfo6RnqaWrqpaSop0%3D&time=1690257118&mytv_msky?525
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="babytvhd" group-title="Hoạt hình" tvg-logo="https://logo.anttv.xyz/215.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/babytvhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BabyTV HD
-#EXTVLCOPT:http-user-agent=ANTmedia
 
 
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="VTV" tvg-logo="https://pbs.twimg.com/media/Fa6-tcfacAA0WFd?format=png",VNews
