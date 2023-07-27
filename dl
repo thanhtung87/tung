@@ -256,6 +256,21 @@ http://live-ali4.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
 #EXTINF:-1 tvg-id="btv5" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png",BTV5-ON SPORT ACTION
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 
+#EXTINF:0 type="stream" group-title="THỂ THAO" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/VjJLPd9/ccsctv15.webp",SCTV15
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/vddawpnu4j38ae9/   			ㅤ  |Referer=https://sctvonline.vn/
+
+#EXTINF:0 type="stream" group-title="THỂ THAO" tvg-id="sctv17" tvg-logo="https://i.ibb.co/bv5J3hr/ccsctv17.webp",SCTV17
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/ubwfo5w5oticguz/   			ㅤ  					|Referer=https://sctvonline.vn/
+
+#EXTINF:0 type="stream" group-title="THỂ THAO" tvg-id="sctv22hd" tvg-logo="https://i.ibb.co/HtK3MyT/ccsctv22.webp",SCTV22
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/a70l2t72rcolpou/   			ㅤ 					|Referer=https://sctvonline.vn/
+
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="THỂ THAO",FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
