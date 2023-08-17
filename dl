@@ -128,6 +128,10 @@ https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://i.imgur.com/g6rH1cs.png" ,VTC1
 https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://logo.anttv.xyz/43.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc3-hd/${start}/${offset}.m3u8", VTC3 HD
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://live-zlr1.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
+
 #EXTINF:0 type="stream" group-title="VTC" tvg-id="vtc7hd" tvg-logo="https://i.ibb.co/GM316DX/ccvtc7.webp" ,VTC7
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://1117141481.vnns.net/VTC7/chunks.m3u8
@@ -264,8 +268,6 @@ https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVOLLEYBALL/
 #EXTINF:-1 group-title="THỂ THAO" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png", TV360+ 
 https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
-#EXTINF:0 group-title="THỂ THAO" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png",TV360+ 1
-http://live-ali4.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
 #EXTINF:-1 tvg-id="btv5" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png",BTV5-ON SPORT ACTION
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 
