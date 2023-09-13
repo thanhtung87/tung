@@ -219,6 +219,9 @@ http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
 http://vthanhtivi.pw:5000/animax/index.m3u8
 
+#EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
+http://vthanhtivi.pw:5000/cartoon/index.m3u8
+
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/ZMmGzzb.jpg",Happy KIDS
 https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
 
@@ -299,6 +302,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 #EXTINF:0 group-title="THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=5
 
+#EXTINF:-1 tvg-id="animalhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
+http://vthanhtivi.pw:5000/animal/index.m3u8
 
 #EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/7CH2JD5/ccwildlife.png",Wild Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, như Gecko) Chrome/81.0.4044.138 Safari/537.36
