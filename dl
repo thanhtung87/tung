@@ -156,14 +156,13 @@ http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
 https://live.canthotv.vn/live/tv_web/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="longan" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/FFWePVH.png",LONG AN
-http://103.90.220.236/la34/tvlive-transmux.m3u8
-
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="angiang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/0TkI4Ar.png",AN GIANG
-https://code.vthanhtivi.pw/getlink/fptplay/an-giang/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/35/2.m3u8
 
 #EXTINF:-1 tvg-id="bentre" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/l8Ae26m.png",BẾN TRE
-https://code.vthanhtivi.pw/getlink/mytv/167/hd.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/40/2.m3u8
 
 #EXTINF:-1 tvg-id="tiengiang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/UTSrapf.png",TIỀN GIANG
 http://123.25.238.45:1935/live/thtg/chunklist.m3u8
