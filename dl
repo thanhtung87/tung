@@ -195,27 +195,17 @@ https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_720p/chunks_dvr_range-${start}-${offset}.m3u8", HÀ NỘI 1
 https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_720p/chunks_dvr_range-${start}-${offset}.m3u8",HÀ NỘI 2
-https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist_b3128000_slen.m3u8
 
-
-#EXTINF:-1 tvg-id="haiphong" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/145.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/407/auto/dvr-${start}-${offset}.m3u8", Hải Phòng
-http://103.90.220.236/thplive/tv1live-transmux.m3u8
-#EXTINF:-1 tvg-id="haiphongplus" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png" catchup="append" catchup-days="2" catchup-source="https://live.thhp.vn/vod/index.m3u8?st=${start}000&et=${end}000&c=thpplus",Hải Phòng
-http://103.90.220.236/thplive/tv2live-transmux.m3u8
-
-#EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/149.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/408/auto/dvr-${start}-${offset}.m3u8", Hưng Yên
-http://103.90.220.236/hytvlive/tv1live.m3u8
-#EXTINF:-1 group-title="🇻🇳 Địa phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/QTV1.png/revision/latest/scale-to-width-down/250?cb=20230527102010&path-prefix=vi",Quảng Ninh 1
+#EXTINF:-1 group-title="🇻🇳 Địa phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/QTV1.png/revision/latest/scale-to-width-down/250?cb=20230527102010&path-prefix=vi",QUẢNG NINH 1
 http://103.90.220.236/qtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="quangninh3" group-title="🇻🇳 Địa phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/QTV3_2010.png/revision/latest?cb=20230527102054&path-prefix=vi",Quảng Ninh 3
+#EXTINF:-1 tvg-id="quangninh3" group-title="🇻🇳 Địa phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/QTV3_2010.png/revision/latest?cb=20230527102054&path-prefix=vi",QUẢNG NINH 3
 http://103.90.220.236/qtvlive/tv3live.m3u8
 
 
-#EXTINF:-1 tvg-id="animaxhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
+#EXTINF:-1 tvg-id="animaxhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png",Animax
 http://vthanhtivi.pw:5000/animax/index.m3u8
 
-#EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network
 http://vthanhtivi.pw:5000/cartoon/index.m3u8
 
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/ZMmGzzb.jpg",Happy KIDS
