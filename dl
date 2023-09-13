@@ -20,6 +20,9 @@ https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
 
+#EXTINF:-1 group-title="TỔNG HỢP" tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", HCATV - Phim hay
+https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_b2289152.m3u8
+
 #EXTINF:-1 tvg-id="antvhd" group-title="TỔNG HỢP" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AN NINH TV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 
@@ -182,12 +185,22 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/YkEommU.png",CÀ MAU
 https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/115.png", Bình Dương
+https://code.vthanhtivi.pw/getlink/tv360/42/2.m3u8
+#EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/116.png",Bình Dương 2
+https://code.vthanhtivi.pw/getlink/tv360/43/2.m3u8
+#EXTINF:-1 group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/117.png", Bình Dương 3
+https://code.vthanhtivi.pw/getlink/nethubtv/9371/1.m3u8
+#EXTINF:-1 tvg-id="binhduong4" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/118.png",Bình Dương 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/binh-duong-4/playlist.m3u8
+#EXTINF:-1 tvg-id="binhduong6" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/120.png", Bình Dương 6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/btv6/playlist.m3u8
 
 #EXTINF:0 group-title="🇻🇳 Địa phương" tvg-logo="https://media.baobinhphuoc.com.vn/upload/files/logo/bptv1.png", BPTV1
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
-#EXTINF:0 group-title="🇻🇳 Địa phương" tvg-logo="https://media.baobinhphuoc.com.vn/upload/files/logo/bptv2.png", BPTV2
-https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
+
 
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_720p/chunks_dvr_range-${start}-${offset}.m3u8", HÀ NỘI 1
