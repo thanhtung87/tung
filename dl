@@ -258,20 +258,6 @@ https://live-ali2.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="https://logo.anttv.xyz/35.png", Bóng đá Việt
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6aamZ6arZvVmqGfo6RmpaWtppaSoQ%3D%3D&time=1692280292&onplus?s2-onvff
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVFFTV/manifest.mpd
-
-#EXTINF:-1 tvg-id="" group-title="THỂ THAO"tvg-logo="https://logo.anttv.xyz/36.png", Thể thao Việt
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.anttv.xyz/?token=zcrcyc%2FWvN3f34nA2OrmjaGtr6aamZ6arZvVmqGfo6RmpaWtppaSoQ%3D%3D&time=1692280292&onplus?s2-onvolley
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVOLLEYBALL/manifest.mpd
-
 #EXTINF:-1 group-title="THỂ THAO" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png", TV360+ 
 https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
