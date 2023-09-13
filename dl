@@ -215,6 +215,10 @@ http://103.90.220.236/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="🇻🇳 Địa phương", tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/QTV3_2010.png/revision/latest?cb=20230527102054&path-prefix=vi",Quảng Ninh 3
 http://103.90.220.236/qtvlive/tv3live.m3u8
 
+
+#EXTINF:-1 tvg-id="animaxhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
+http://vthanhtivi.pw:5000/animax/index.m3u8
+
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/ZMmGzzb.jpg",Happy KIDS
 https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
 
