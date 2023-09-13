@@ -173,9 +173,6 @@ https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳 Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THTV2_logo_19-06-2022.png/revision/latest?cb=20220624075054&path-prefix=vi",TRÀ VINH 2
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w404319852.m3u8
 
-#EXTINF:-1 tvg-id="soctrang1" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ytimg.com/vi/l6m7BqH1YY0/maxresdefault.jpg",SÓC TRĂNG
-https://code.vthanhtivi.pw/getlink/mytv/52/hd.m3u8
-
 #EXTINF:-1 tvg-id="baclieu" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/ATG11ql.png",BẠC LIÊU
 https://tv.thbl.vn/live/tv/tv.m3u8
 
@@ -207,6 +204,9 @@ http://vthanhtivi.pw:5000/animax/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network
 http://vthanhtivi.pw:5000/cartoon/index.m3u8
+
+#EXTINF:-1 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito
+http://vthanhtivi.pw:5000/boomerang/index.m3u8
 
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/ZMmGzzb.jpg",Happy KIDS
 https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
