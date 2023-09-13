@@ -277,6 +277,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?i
 #EXTINF:-1 tvg-id="animalhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
 http://vthanhtivi.pw:5000/animal/index.m3u8
 
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
+https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
+
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
+http://vthanhtivi.pw:5000/discovery/index.m3u8
 #EXTINF:0 group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/7CH2JD5/ccwildlife.png",Wild Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, như Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8?cc
