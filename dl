@@ -319,6 +319,16 @@ https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8?cc
 #EXTINF:-1 tvg-id="hgtv" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png",HGTV
 https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 
+
+#EXTINF:-1 tvg-id="hbohd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO
+http://vthanhtivi.pw:5000/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax
+http://vthanhtivi.pw:5000/cinemax/index.m3u8
+
+#EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="http://b4tv.live/images/f48921dd0505305aff871882567eeca9.png", B4BOX
+http://b4tv.live/b4tv/b4tv/84.m3u8
+
 #EXTINF:-1 tvg-id="cctv13" group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 TRUNG QUỐC
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
