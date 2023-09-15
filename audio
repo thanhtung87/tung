@@ -77,10 +77,6 @@ http://stream2.mobiradio.vn/vovradio/vov2.stream/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
 http://stream2.mobiradio.vn/vovradio/vov3.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 ĐBSCL
-https://stream.vovmedia.vn/vov4dbscl
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 TP.HCM
-https://stream.vovmedia.vn/vov4hcm
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://img.btv.org.vn:81/upload/vod/10112016/1478747759_kenhbtvRadiogif.gif",Bình Dương
 https://code.vthanhtivi.pw/getlink/dp/btvradio/playlist.m3u8
