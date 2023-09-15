@@ -121,9 +121,6 @@ http://103.90.220.236/qtvlive/qnr2.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://trt.com.vn/frontend/home/images/bg_radio.jpg",Thừa Thiên Huế
 http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="http://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg",Thái Nguyên
-http://media.mediatech.vn:1935/tntvlive/tnra/chunklist.m3u8
-
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.mediacdn.vn/truyenhinhthanhhoa.vn/image/logo-radio.png",Thanh Hóa
 https://code.vthanhtivi.pw/getlink/dp/ttvradio/playlist.m3u8
 
