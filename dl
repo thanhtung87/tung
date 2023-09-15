@@ -337,17 +337,6 @@ http://vthanhtivi.pw:5000/cinemax/index.m3u8
 
 #EXTINF:-1 group-title="🌏 Quốc tế" tvg-logo="http://b4tv.live/images/f48921dd0505305aff871882567eeca9.png", B4BOX
 http://b4tv.live/b4tv/b4tv/84.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-
-#EXTINF:-1 tvg-id="woman" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
-
-#EXTINF:-1 tvg-id="drfithd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit SCTV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 
 #EXTINF:-1 tvg-id="cctv13" group-title="🌏 Quốc tế" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 TRUNG QUỐC
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
