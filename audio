@@ -77,7 +77,8 @@ http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://baobinhphuoc.com.vn/upload/files/logo/audio_poster.jpg",Bình Phước
 https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
 
-
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://w.ladicdn.com/s450x400/5ec394fc3354ff26568e1124/logo-fm1031mhz-20211008162127.png", Tây Ninh
+http://202.43.109.142:1935/radio11/tnradio/chunklist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png",Bà Rịa Vũng Tàu
 http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
@@ -87,6 +88,22 @@ http://113.161.6.157:8085/phatthanh/QRT.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://danangtv.vn/images/radio.png",Đà Nẵng
 http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/150.png", Khánh Hòa
+http://210.245.20.94/hls/radio.m3u8
+
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png", Bình Thuận
+https://64d0d74b76158.streamlock.net:443/BTVR/binhthuanradio/playlist.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/140.png", Hà Nam
+https://cdn.hanamtv.vn/live/285ead66b13795f434bb2e4834a98cbf17b/playlist.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/143.png", Hà Tĩnh
+https://wse.hatinhtv.net/radio/voht/playlist.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="http://hungyentv.vn//templates/frontend/hytv/Assets/img/backgroud-radio.jpg", Hưng Yên
+https://cdn.hungyentv.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/111.png",Bắc Kạn
 http://14.224.167.97:8080/hls/radio.m3u8
@@ -118,6 +135,12 @@ http://103.90.220.236/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/254.png",Quảng Ninh 2
 http://103.90.220.236/qtvlive/qnr2.m3u8
 
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/167.png", Quảng Ngãi
+http://118.107.85.5:1935/radio/quangngai_aac/chunklist.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="http://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg", Thái Nguyên
+https://radio.thainguyentv.vn/hls/livestream.m3u8
+
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://trt.com.vn/frontend/home/images/bg_radio.jpg",Thừa Thiên Huế
 http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 
@@ -126,3 +149,6 @@ https://code.vthanhtivi.pw/getlink/dp/ttvradio/playlist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://thaibinhtv.vn/templates/frontend/tbtv/Assets/img/radio_bg.jpg",Thái Bình
 http://118.70.118.191:1935/tbtvlive/radio/chunklist.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQiavcsgsMogEEemVubw/image/", Phật Giáo
+https://stream.zeno.fm/8456uy0bcm0uv
