@@ -106,12 +106,6 @@ https://tv.kontumtv.vn/live/radio/radio.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/155.png",Lâm Đồng
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 
-
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://truyenhinhnghean.vn/common/v2/image/logo_player.jpg",Nghệ An
-http://103.90.220.236/natvlive/radio.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/audio_bg.jpg",Ninh Bình
-http://103.90.220.236/nbtvlive/radio.m3u8
-
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://quantri.ninhthuantv.vn/wp-content/uploads/2021/12/5.png", Ninh Thuận
 https://618b88f69e53b.streamlock.net/NTVR/ntvradio/chunklist.m3u8
 
@@ -124,9 +118,6 @@ http://103.90.220.236/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/254.png",Quảng Ninh 2
 http://103.90.220.236/qtvlive/qnr2.m3u8
 
-
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://media.sonlatv.vn/upload/files/image/Back-PT.jpg",Sơn La
-http://103.90.220.236/sltvlive/radio-transmux.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://trt.com.vn/frontend/home/images/bg_radio.jpg",Thừa Thiên Huế
 http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 
