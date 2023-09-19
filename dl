@@ -264,7 +264,11 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc ㅤ
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://dl.dropboxusercontent.com/s/nd0bi1wlt6jigkq/   			ㅤ  						|Referer=https://sctvonline.vn/
+#https://live-ali2.tv360.vn/manifest/VTVCab21/playlist_1080p.m3u8
 
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png", ON BiBi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab8-bibi/playlist
 #EXTINF:0 type="stream" group-title="THIẾU NHI" tvg-id="sctv3hd" tvg-logo="https://i.imgur.com/mSADGp8.jpg",SCTV3
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
@@ -298,6 +302,14 @@ http://b4tv.live/b4tv/b4tv/1.m3u8
 
 #EXTINF:-1 tvg-id="btv5" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png",BTV5-ON SPORT ACTION
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
 
 #EXTINF:0 type="stream" group-title="THỂ THAO" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/VjJLPd9/ccsctv15.webp",SCTV15
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
