@@ -297,14 +297,6 @@ http://b4tv.live/b4tv/b4tv/1.m3u8
 #EXTINF:-1 tvg-id="btv5" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png",BTV5-ON SPORT ACTION
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
-
 #EXTINF:0 type="stream" group-title="THỂ THAO" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/VjJLPd9/ccsctv15.webp",SCTV15
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
