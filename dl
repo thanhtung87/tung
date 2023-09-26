@@ -255,9 +255,6 @@ http://vthanhtivi.pw:5000/animax/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network
 http://vthanhtivi.pw:5000/cartoon/index.m3u8
 
-#EXTINF:-1 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito
-http://vthanhtivi.pw:5000/boomerang/index.m3u8
-
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/ZMmGzzb.jpg",Happy KIDS
 https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
 
