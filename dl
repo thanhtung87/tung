@@ -26,6 +26,9 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="" group-title="TỔNG HỢP" tvg-logo="http://img-zlr2.tv360.vn/tv360-static/static/web/images/logo.png" ,TV360
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="TỔNG HỢP" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cc/Kplus_Cine_ident_01-10-2021.png/revision/latest?cb=20230120103635&path-prefix=vi" ,K+ cine
+https://asia.vthanhtivi.pw/test/index.m3u8
+
 #EXTINF:-1 tvg-id="youtv" group-title="TỔNG HỢP" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
 http://vthanhtivi.pw:5000/youtv/index.m3u8
 
