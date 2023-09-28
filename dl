@@ -256,7 +256,8 @@ http://vthanhtivi.pw:5000/animax/index.m3u8
 http://vthanhtivi.pw:5000/cartoon/index.m3u8
 
 #EXTINF:-1 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/ZMmGzzb.jpg",Happy KIDS
-https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.antmediatv.xyz/getplay/7e953638c9636344208c12e0533103ae1508c9f7e5eb33b66e98506bd7c872a11c/tv360/212/2.m3u8
 
 #EXTINF:-1 tvg-id"ebskids" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/Ob8NgBF.jpg",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8?cc ㅤ
