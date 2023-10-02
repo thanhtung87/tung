@@ -48,8 +48,6 @@ https://coca.dl.dropboxusercontent.com/s/2x8gxxosls4ca1e/ 																						
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://dl.dropboxusercontent.com/s/q2qc2yferabgg95/   			ㅤ  				|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="TỔNG HỢP" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png",SCTV6
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/a7e6d6469c5033eb541c0ce9ce8d6c4edfdfac41da41153e094d2f1f1524a66922/fptplay/fim360/chunklist_b5000000.m3u8
 
 #EXTINF:0 type="stream" group-title="TỔNG HỢP" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/k9Jzkbw/ccsctv7.webp",SCTV7
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
@@ -223,11 +221,10 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/115.png", Bình Dương 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/6d6a1db512ee67562110aa623d1df9a77caec59d90420ff9c49ebe59067955d4cf/mytv/402/hd.m3u8
-
-#EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/116.png",Bình Dương 2
-https://code.antmediatv.xyz/getplay/6d6a1db512ee67562110aa623d1df9a77caec59d90420ff9c49ebe59067955d4cf/tv360/43/2.m3u8
+https://code.antmediatv.xyz/getplay/a318d2f86a213807146a3390deff20f9fc11dab0775e9b2134327fd5e5cca6c1ca/mytv/402/hd.m3u8
+#EXTINF:-1 tvg-id="binhduong2" group-title=" 🇻🇳 Địa phương" tvg-logo="https://cdn.antmediatv.xyz/123.png" ,Bình Dương 2
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/a318d2f86a213807146a3390deff20f9fc11dab0775e9b2134327fd5e5cca6c1ca/tv360/43/2.m3u8
 
 #EXTINF:-1 tvg-id="binhduong4" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/118.png",Bình Dương 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
