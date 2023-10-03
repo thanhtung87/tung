@@ -222,10 +222,12 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/115.png", Bình Dương 1
-https://code.antmediatv.xyz/getplay/a318d2f86a213807146a3390deff20f9fc11dab0775e9b2134327fd5e5cca6c1ca/mytv/402/hd.m3u8
-#EXTINF:-1 tvg-id="binhduong2" group-title=" 🇻🇳 Địa phương" tvg-logo="https://cdn.antmediatv.xyz/123.png" ,Bình Dương 2
+EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.antmediatv.xyz/getplay/4a003cd23f73119e8a142f795878f7de8777e26052f13f4f916d46cb955143e5d2/mytv/402/hd.m3u8
+#EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.antmediatv.xyz/123.png" , Bình Dương 2
 #EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/a318d2f86a213807146a3390deff20f9fc11dab0775e9b2134327fd5e5cca6c1ca/tv360/43/2.m3u8
+https://code.antmediatv.xyz/getplay/4a003cd23f73119e8a142f795878f7de8777e26052f13f4f916d46cb955143e5d2/tv360/43/2.m3u8
+
 
 #EXTINF:-1 tvg-id="binhduong4" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/118.png",Bình Dương 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
