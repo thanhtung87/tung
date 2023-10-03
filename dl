@@ -296,7 +296,7 @@ http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="btv5" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png",BTV5-ON SPORT ACTION
-https://code.antmediatv.xyz/getplay/a7e6d6469c5033eb541c0ce9ce8d6c4edfdfac41da41153e094d2f1f1524a66922/tv360/2380/2.m3u8
+https://code.antmediatv.xyz/getplay/4a003cd23f73119e8a142f795878f7de8777e26052f13f4f916d46cb955143e5d2/tv360/2380/2.m3u8
 
 #EXTINF:0 type="stream" group-title="THỂ THAO" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/VjJLPd9/ccsctv15.webp",SCTV15
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
