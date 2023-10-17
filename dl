@@ -43,7 +43,9 @@ https://coca.dl.dropboxusercontent.com/s/2x8gxxosls4ca1e/ 																						
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://dl.dropboxusercontent.com/s/q2qc2yferabgg95/   			ㅤ  				|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="TỔNG HỢP" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png",SCTV6
-https://code.antmediatv.xyz/getplay/4a003cd23f73119e8a142f795878f7de8777e26052f13f4f916d46cb955143e5d2/tv360/232/2.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ 
+https://coca.dl.dropboxusercontent.com/s/k9z39n7zzumy2m7/ 																															  ㅤ?sctv6 										 													 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
 #EXTINF:0 type="stream" group-title="TỔNG HỢP" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/k9Jzkbw/ccsctv7.webp",SCTV7
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
@@ -57,6 +59,15 @@ https://dl.dropboxusercontent.com/s/jwpbp2bzopnlzr5/   			ㅤ  					|Referer=htt
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://dl.dropboxusercontent.com/s/ft0mgx9tngq1nid/   			ㅤ  					|Referer=https://sctvonline.vn/
+
+#EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv12hd" tvg-logo="https://i.ibb.co/R7pf1yP/ccsctv12.webp",SCTV12
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ 
+https://coca.dl.dropboxusercontent.com/s/kgzggb8q0zeyajp/ 																															  ㅤ?sctv12 										 													 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv13hd" tvg-logo="https://i.ibb.co/cY8cvmn/ccsctv13.webp",SCTV13
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ 
+https://coca.dl.dropboxusercontent.com/s/04zbrkysbtbh5je/ 																															  ㅤ?sctv13 										 													 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:0 type="stream" group-title="TỔNG HỢP" tvg-id="sctv14" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/K%C3%AAnh_Phim_Vi%E1%BB%87t_SCTV14.png/revision/latest/scale-to-width-down/200?cb=20220602110810&path-prefix=vi",SCTV14
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
