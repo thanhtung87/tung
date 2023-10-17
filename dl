@@ -1,18 +1,19 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.haitrieu.com/wp-content/uploads/2022/08/Logo-Tinh-Vinh-Long.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 1
-http://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8?vkhichtv
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/rn4rei3kuutu9j8ajzxi2/ 																															 ㅤ?vinhlong1 										 		 &rlkey=pvzdwecnv2luhu9izo4ssi3j8 
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="🇻🇳 Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg/375px-V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 2
-
-http://live-ali2.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8?vkhichtv
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/xo2xc8mkm1nh9qslho524/ 																															 ㅤ?vinhlong2 										 		 &rlkey=10w6kbodpn2gc56jkzuxg46ls 
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ytimg.com/vi/xdIiFj_Ipgs/maxresdefault.jpg",VĨNH LONG 3
-http://live-ali2.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8?vkhichtv
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/ha5nuaskb15y40j9pa16p/ 																															 ㅤ?vinhlong3 										 		 &rlkey=eq7j7its2phh3zazvlc3uxgco 
 
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳 Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn_%286297673871%29.jpg",VĨNH LONG 4
-http://live-ali2.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8?vkhichtv
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/2k0uo3bykvtcq5skzi4x7/ 																															 ㅤ?vinhlong4 										 		 &rlkey=qmpiobfd73nk463883qtaauya 
 #EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HẬU GIANG
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 
