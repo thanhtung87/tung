@@ -28,12 +28,6 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="youtv" group-title="TỔNG HỢP" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
-http://vthanhtivi.pw:5000/youtv/index.m3u8
-
-#EXTINF:-1 group-title="TỔNG HỢP "tvg-logo="http://b4tv.live/images/5150b363cf6c9192ebe147a113dea625.png", B4TUBE
-http://b4tv.live/b4tv/b4tv/85.m3u8
-
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:0 type="stream" group-title="TỔNG HỢP" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/KqXMPzc/ccsctv1.webp",SCTV1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ 
