@@ -156,16 +156,19 @@ https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://i.imgur.com/g6rH1cs.png" ,VTC1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live-ali2.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ #EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://coca.dl.dropboxusercontent.com/s/iszhntq0cwonhl4/ 																																																												 ㅤ?vtc1 										 														 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/  
+
 #EXTINF:0 type="stream" group-title="VTC" tvg-id="vtc2" tvg-logo="https://i.ibb.co/MfRJfgm/ccvtc2.webp",VTC2
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://1117141481.vnns.net/VTC2/chunks.m3u8 
 #http://live.tv360.vn/manifest/VTC2_SPR_SD/playlist_480p.m3u8 
 
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/vtc/images/f/f5/VTC3_logo.png/revision/latest?cb=20210603170138&path-prefix=vi", VTC3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live-ali2.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/vjllzzbzhwztecu/ 																																		 ㅤ?vtc3 										 		 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/  
 
 #EXTINF:0 type="stream" group-title="VTC" tvg-id="vtc4hd" tvg-logo="https://i.ibb.co/c1MK3VC/ccvtc4.webp",VTC4
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
