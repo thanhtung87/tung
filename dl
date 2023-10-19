@@ -331,6 +331,10 @@ https://dl.dropboxusercontent.com/s/a70l2t72rcolpou/   			ㅤ 					|Referer=http
 #EXTINF:-1 tvg-id="animalhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
 http://vthanhtivi.pw:5000/animal/index.m3u8
 
+#EXTINF:0 type="stream" group-title="🌏 Quốc tế" tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet Earth
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ 
+https://coca.dl.dropboxusercontent.com/s/78vqxgi2zxsf774/ 																																 ㅤ?earth								 												 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌏 Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
 http://vthanhtivi.pw:5000/discovery/index.m3u8
