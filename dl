@@ -238,10 +238,10 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/YkEommU.png",CÀ MAU
 https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/115.png",Bình Dương 1
-https://code.vthanhtivi.pw/getlink/tv360/pH3QqS3pTPRLv7-Zw5GmeQ/1699722680/42/playlist.m3u8
-#EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/116.png", Bình Dương 2
-https://code.vthanhtivi.pw/getlink/tv360/VnPpjgmRLazwJpIjqXszrA/1699722680/43/playlist.m3u8
+#EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/115.png", BTV1 | TH Bình Dương
+https://code.vthanhtivi.pw/getlink/tv360/-MPuWeGtkIun2y4MhC4bxQ/1699754160/42/playlist.m3u8
+#EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/116.png", BTV2 | TH Bình Dương
+https://code.vthanhtivi.pw/getlink/tv360/e0MZSfL0J_zNtm6qr5_2wA/1699754160/43/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="binhduong4" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/118.png",Bình Dương 4
