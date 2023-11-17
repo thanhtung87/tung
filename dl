@@ -309,8 +309,7 @@ http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="btv5" group-title="THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png",BTV5-ON SPORT ACTION
-https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
-
+https://code.vthanhtivi.pw/getlink/onlive/onsportsact/87697.m3u8
 #EXTINF:0 type="stream" group-title="THỂ THAO" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/VjJLPd9/ccsctv15.webp",SCTV15
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
