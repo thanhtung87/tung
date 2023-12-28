@@ -1,19 +1,16 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.haitrieu.com/wp-content/uploads/2022/08/Logo-Tinh-Vinh-Long.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/thvl1-hd/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/N7NqUrkLsDT81Nybc_iB8Q/1703784050/25/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="🇻🇳 Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg/375px-V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 2
-https://code.vthanhtivi.pw/getlink/vieon/thvl2-hd/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/1TtMi2pxU6Jp1tqjNRO0DQ/1703784050/26/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ytimg.com/vi/xdIiFj_Ipgs/maxresdefault.jpg",VĨNH LONG 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/thvl3-hd/playlist.m3u8 
+https://code.vthanhtivi.pw/getlink/tv360/q7j0pcpwVChDfaMwkD6xZA/1703784050/219/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳 Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn_%286297673871%29.jpg",VĨNH LONG 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/thvl4-hd/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/TDuZP0oJyxb3xj4AYMtiaA/1703784050/220/playlist.m3u8
 
 #EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳 Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HẬU GIANG
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
