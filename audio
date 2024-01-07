@@ -62,6 +62,13 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8?cc
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png", VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOVGT Mekong
+https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://assets-on.akamaized.net/images/v2/event/20230603/2023060301/THUMBJOYFM1.webp", JoyFM
+https://code.vthanhtivi.pw/getlink/onlive/joyfmmhz/20231229.m3u8
+
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png",VOV1
 http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
@@ -69,10 +76,8 @@ http://media.kythuatvov.vn:7003/;stream/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
 http://media.kythuatvov.vn:7005/;stream/
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hồ Chí Minh
-http://media.kythuatvov.vn:7023/;stream/
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOVGT Mekong
-https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
+
+
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://img.btv.org.vn:81/upload/vod/10112016/1478747759_kenhbtvRadiogif.gif",Bình Dương
 https://code.vthanhtivi.pw/getlink/dp/btvradio/playlist.m3u8
