@@ -16,8 +16,8 @@ https://code.vthanhtivi.pw/getlink/tv360/TDuZP0oJyxb3xj4AYMtiaA/1703784050/220/p
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="TỔNG HỢP" tvg-logo="https://i.imgur.com/k9FyzM3.png",BTV9 - An Viên TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://code.vthanhtivi.pw/getlink/vieon/WerAUikwrSisZhGSGdI0hw/1704647375/an-vien-hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="TỔNG HỢP" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AN NINH TV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
