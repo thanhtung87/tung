@@ -4,13 +4,13 @@
 https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURnb1pmN0FsekR5TEVvL0pJZGhHMlVEYUVpQndBK0RQU2pjbE5pZ0dwbGE0aEE9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="🇻🇳 Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg/375px-V%C4%83n_Th%C3%A1nh_Mi%E1%BA%BFu_V%C4%A9nh_Long.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 2
-https://code.vthanhtivi.pw/getlink/tv360/wCaTZ3iwjbQnHwA7zgD-CA/1706121447/26/playlist.m3u8
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURnb1pmN0FsekR5TEVvL0pJZGhHMlVEYVpwWWF2b2tUdXRhTGRHZWlVdlU5Y1E9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳 Địa phương" tvg-logo="https://i.ytimg.com/vi/xdIiFj_Ipgs/maxresdefault.jpg",VĨNH LONG 3
-https://code.vthanhtivi.pw/getlink/tv360/3H2ZV3DCZ20l4hhkE-SkEQ/1706121447/219/playlist.m3u8
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURnb1pmN0FsekR5TEVvL0pJZGhHMlVEYTZmNEc5UWNTOE9NUEQwamkxUnk5Q1E9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳 Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn_%286297673871%29.jpg",VĨNH LONG 4
-https://code.vthanhtivi.pw/getlink/tv360/-8d_EPjPHGZ9pjRr9ItrMw/1706121447/220/playlist.m3u8
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURnb1pmN0FsekR5TEVvL0pJZGhHMlVEYTU5STNwM2NuZWg0d2lSc3c3Q2syR3c9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="TỔNG HỢP" tvg-logo="https://i.imgur.com/k9FyzM3.png",BTV9 - An Viên TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
