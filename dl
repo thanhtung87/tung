@@ -82,13 +82,10 @@ https://dl.dropboxusercontent.com/s/skeyka5jdesvilx/   		ㅤ |Referer=https://sc
 
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.imgur.com/BBe0UnR.png",HTV2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURncnhpWllxUVM5Y0paRXJvUjdHNTdPdVlJYlR2ZWR4MEE3UzFaNWkvamdyNFE9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.imgur.com/eCrchs1.png",HTV3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/chunks.m3u8
-
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURncnhpWllxUVM5Y0paRXJvUjdHNTdPdXo4TXZFRkRwM1MycUFRY0JQZjRuYUE9PQ==/master.m3u8
 
 #EXTINF:0 type="stream" group-title="HTV" tvg-id="htv7hd"  tvg-logo="https://i.ibb.co/bX1LD0H/cchtv7.webp",HTV7
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ 
@@ -100,28 +97,24 @@ https://coca.dl.dropboxusercontent.com/s/f66ggfxnbbtdqk1/ 																						
 https://coca.dl.dropboxusercontent.com/s/m7i7p1ag60gbojb/ 																																 ㅤ?htv9 										 													 |Referer=https://sctvonline.vn/ 
 
 #EXTINF:-1 tvg-id="htvc_thuan_viet" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/850471-ThuanViet.png" group-title="HTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURncnhpWllxUVM5Y0paRXJvUjdHNTdPdUdkdmRoaFBPRGJkTjBiQkJudThRMmt4U3d0OWhza2ZnUjdRWDl0Z29XRVE9/master.m3u8
 
 #EXTINF:0 tvg-id="htvcgiadinh" group-title="HTV" tvg-logo="https://i.imgur.com/8r89Qvf.png",GIA ĐÌNH
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURncnhpWllxUVM5Y0paRXJvUjdHNTdPdUVZLzZvdUY3ZG9ESEx2RkFJTHQ0QVFYVjhVR1FqbnFqSEw3RUQya3dCU2c9/master.m3u8
 #EXTINF:-1 tvg-id="htvcphunu" group-title="HTV" tvg-logo="https://i.imgur.com/HRNmZdU.png",HTVC Phụ Nữ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="htvcplushd" type="stream" group-title="HTV" tvg-logo="https://i.ibb.co/7QjqVJP/HTVCPlus-cc.webp",HTVC Plus
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURncnhpWllxUVM5Y0paRXJvUjdHNTdPdThSVHY0aGN3Z2FtZ3E2a1B3anlGR3J6Y3lCWm1GNExMSnM2QXpoR0IrRHc9/master.m3u8
 
+#EXTINF:0 tvg-id="htvcplushd" type="stream" group-title="HTV" tvg-logo="https://i.ibb.co/7QjqVJP/HTVCPlus-cc.webp",HTVC Plus
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURncnhpWllxUVM5Y0paRXJvUjdHNTdPdUpTOWNNK1d4SEI2b0FWcDJyTXgvR2Q0MGt6bHRJZW8ySEpUYTB3bkZZRkk9/master.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://i.imgur.com/nTF9DFR.png",DU LỊCH & CUỘC SỐNG
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURncnhpWllxUVM5Y0paRXJvUjdHNTdPdWU2akFNZXVMK29FV3djZVdLY0VtUHNiMDNGMGtReGpjdlFoTTlOdUw3blFETUZpV0RncFVwd2tzTHhiaWgxbkQ=/master.m3u8
  	
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.imgur.com/E3OjM1k.png" catchup="append" catchup-days="2 " catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV Thể Thao
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/6hvzywgjc1qkc8osjg884/ 																																		 ㅤ?.thethao 											 &rlkey=2idwtfxilqm6r4ysa59d0i0bx 
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURncVArVGlwVDlHbjRJTkFIc1pBK29sbkVrZ2FobnZWVzhDWDJEL1RwdHVCUmc9PQ==/master.m3u8 
 #EXTINF:-1 tvg-id="htvccanhachd"tvg-logo="https://i.ibb.co/Qc2PXFp/HCTVCANHAC-BEARTV.png" group-title="HTV",HTVC Ca Nhạc
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURncnhpWllxUVM5Y0paRXJvUjdHNTdPdUtZWlVEL21xZnJMNjRaeEV4QWF1SmdWNER4RzRieUdGTWtDOHE3eTBwR0U9/master.m3u8
 #EXTINF:-1 tvg-id="htvcphim"tvg-logo="https://i.ibb.co/WyXTCbC/HTVCPHIM-BEARTV.png" group-title="HTV",HTVC Phim
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURncnhpWllxUVM5Y0paRXJvUjdHNTdPdTM0SFZmQXVEbzlFTkRtVG5sc3J5TlE9PQ==/master.m3u8
 
 #EXTINF:0 type="stream" group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/y8s34Vs/ccvtv1.webp",VTV1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/
