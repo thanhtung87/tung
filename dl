@@ -13,8 +13,7 @@ https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaM
 https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURnb1pmN0FsekR5TEVvL0pJZGhHMlVEYTU5STNwM2NuZWg0d2lSc3c3Q2syR3c9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="TỔNG HỢP" tvg-logo="https://i.imgur.com/k9FyzM3.png",BTV9 - An Viên TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://code.vthanhtivi.pw/getlink/vieon/gGK5UJhCZarLTn8eoW52gQ/1706121447/an-vien-hd/playlist.m3u8
+https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURnb080OHdsd3F2ZC9QMzhBaS8xTGxDREhPOERodEJoSm5mV0FhK2ZuazhzZFE9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="TỔNG HỢP" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AN NINH TV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
