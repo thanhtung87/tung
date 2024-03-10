@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1
+https://stream.zeno.fm/4q7y9hvkp2zuv
+
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="🇻🇳 Địa phương" tvg-logo="https://cdn.haitrieu.com/wp-content/uploads/2022/08/Logo-Tinh-Vinh-Long.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VĨNH LONG 1
 https://code.vthanhtivi.pw/channel/VFpWbHpnZFN1TktPaGtHejNLVWN1cGxOK0xrcFMvY2VaMjg0NWVaQURnb1pmN0FsekR5TEVvL0pJZGhHMlVEYUVpQndBK0RQU2pjbE5pZ0dwbGE0aEE9PQ==/master.m3u8
 
