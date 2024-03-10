@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1
-https://stream.zeno.fm/4q7y9hvkp2zuv
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/GorB0bO.jpg",Nhạc Việt
 https://stream.zeno.fm/4q7y9hvkp2zuv
