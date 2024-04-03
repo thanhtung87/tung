@@ -92,9 +92,6 @@ http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="", Bình Định
 http://42.1.64.42/s4482
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="http://img.btv.org.vn:81/upload/vod/10112016/1478747759_kenhbtvRadiogif.gif", Bình Dương
-http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
-
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c5/%C4%90N-RTV.png",Đồng Nai
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8 
 
