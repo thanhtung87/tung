@@ -58,6 +58,9 @@ https://1012163901.vnns.net/bentre-FM.adm.480p.tms/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg", Cà Mau
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
 
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png", VOH AM 610Khz
+https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.ibb.co/CBr490C/voh99.png",FM 99.9Mhz
 #EXTVLCOPT:http-user-agent="Radio"
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8?cc
@@ -68,8 +71,7 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8?cc
 #EXTVLCOPT:http-user-agent="📻| Radio"
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8?cc
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png", VOH AM 610Khz
-https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOVGT Mekong
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
