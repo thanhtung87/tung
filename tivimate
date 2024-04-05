@@ -95,6 +95,11 @@ http://113.161.6.157:8085/phatthanh/QRT.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/167.png", Quảng Ngãi
 http://118.107.85.5:1935/radio/quangngai_aac/chunklist.m3u8
 
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/253.png", QNR1 - Quảng Ninh
+http://vncdn.mediatech.vn/qtvlive/qnr1.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/254.png", QNR2 - Quảng Ninh
+http://vncdn.mediatech.vn/qtvlive/qnr2.m3u8
+
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://danangtv.vn/images/radio.png",Đà Nẵng
 http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
 
