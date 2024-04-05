@@ -100,9 +100,6 @@ http://vncdn.mediatech.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/254.png", QNR2 - Quảng Ninh
 http://vncdn.mediatech.vn/qtvlive/qnr2.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="http://danangtv.vn/images/radio.png",Đà Nẵng
-http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
-
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="", Bình Định
 http://42.1.64.42/s4482
 
