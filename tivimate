@@ -43,7 +43,7 @@ https://60acee235f4d5.streamlock.net/HGTVR/hgtvradio/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/Truy%E1%BB%81n_h%C3%ACnh_%C4%90%E1%BB%93ng_Th%C3%A1p_logo_new.jpg/revision/latest?cb=20220329004220&path-prefix=vi",Đồng Tháp
 https://64d0d74b76158.streamlock.net/THDTR/thdtradio/chunklist.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://quantri.travinhtv.vn/wp-content/uploads/2022/03/HINH-NEN-WEB-RADIO.jpg", Trà Vinh
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://quantri.travinhtv.vn/wp-content/uploads/2022/03/HINH-NEN-WEB-RADIO.jpg",Trà Vinh
 https://60acee235f4d5.streamlock.net/THTVR/travinhradio/playlist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://thbt.vn/public/Home/images/radiobt.gif",Bến Tre
@@ -65,7 +65,6 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8?cc
 #EXTVLCOPT:http-user-agent="📻| Radio"
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8?cc
 
-
 #EXTINF:-1 group-title="📻| Radio" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth. me/logo/thumbs/239.png", VOV1
 http://media.kythuatvov.vn:7001/;stream/
 
@@ -81,7 +80,7 @@ http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://qrt.vn/wp-content/themes/qtitv-child/images/bg-phat-thanh.png",Quảng Nam
 http://113.161.6.157:8085/phatthanh/QRT.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/167.png", Quảng Ngãi
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/167.png",Quảng Ngãi
 http://118.107.85.5:1935/radio/quangngai_aac/chunklist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/253.png",Quảng Ninh
@@ -114,7 +113,8 @@ https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/111.png",Bắc Kạn
 http://14.224.167.97:8080/hls/radio.m3u8
 
-
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://bacninhtv.vn/images/thumbs/0000003334_a.png", Bắc Ninh
+http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/139.png",Hà Giang
 http://113.162.84.113:8081/
@@ -130,8 +130,6 @@ http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://trt.com.vn/frontend/home/images/bg_radio.jpg",Thừa Thiên Huế
 http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://bacninhtv.vn/images/thumbs/0000003334_a.png", Bắc Ninh
-http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://seotrends.com.vn/wp-content/uploads/2023/05/Hinh-nen-anh-phat-dep-24.jpg",Phật Giáo
 https://stream.zeno.fm/8456uy0bcm0uv
