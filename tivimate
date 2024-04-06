@@ -1,7 +1,3 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-
-
-
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/GorB0bO.jpg",Nhạc Việt
 https://stream.zeno.fm/4q7y9hvkp2zuv
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/Ob8NgBF.jpg",Bolero
@@ -15,10 +11,8 @@ https://stream.zeno.fm/0trm6wrnga0uv
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQidjS_wkMogEEemVubw/image/",Nhạc DJ
 https://stream.zeno.fm/ehbutdfccm0uv
 
-
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.tgdd.vn/Files/2020/01/15/1231572/cach-chon-va-trang-tri-cay-mai-dep-no-dung-ngay-tr.jpg",Nhạc Xuân
 https://stream.zeno.fm/hvtxgd85rm0uv
-
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg",Zing MP3
 https://multi-playlist-zmp3.zmdcdn.me/ktkT8IgzcQQ/zhls/playback-realtime/08aae96dd5283c766539/index.m3u8
@@ -35,7 +29,7 @@ https://vnno-pt-3-tf-multi-playlist-zmp3.zmdcdn.me/BNxcJ9nHSnI/zhls/playback-rea
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/Logo_THVL_V%C4%A9nh_Long_FM_90%2C2MHz.png/revision/latest?cb=20230701032307&path-prefix=vi",Vĩnh Long
 https://code.vthanhtivi.pw/getlink/dp/thvlradio/playlist.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/Logo_THTPCT_FM_97%2C3MHz_m%E1%BB%9Bi.png/revision/latest?cb=20230626054650&path-prefix=vi", Cần Thơ
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/Logo_THTPCT_FM_97%2C3MHz_m%E1%BB%9Bi.png/revision/latest?cb=20230626054650&path-prefix=vi",Cần Thơ
 http://sohoa.truyenthanhthongminh.vn/tpcantho
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://beta.la34.com.vn/upload/files/logo/icon_app_long_an-38.png", Long An
 https://cdn.la34.com.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
