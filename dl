@@ -372,3 +372,91 @@ https://coca.dl.dropboxusercontent.com/s/ykb1f51pffxhyyi6p4vrr/																	
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/xir7w4yye3hpr9ignjr5u/																														 ㅤ?sctvPTH 								 												 &rlkey=mrxm5xiyf5z7ih5e9ss2ofp0g|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+
+
+#EXTINF:0 tvg-id="abcaustralia" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/yIvBE2i.png",ABC Australia
+http://14.226.177.254:4025/rtp/232.84.2.244:10482
+#EXTINF:-1 tvg-id="ABCNewsLive" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News Australia
+https://ctrl.laotv.la/live/ABCA/index.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News Australia HD
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="al-jazeera-int" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/Sv8C4XK.png",Aljazeera International HD
+https://ctrl.laotv.la/live/ALJazeera/index.m3u8
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax Asia
+http://14.226.177.254:4025/rtp/232.84.1.18:8082
+#EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png",Angel TV Far East
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet Asia
+https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-id="afnhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
+https://tthd.site/360/215/index.m3u8
+#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG World
+https://ctrl.laotv.la/live/Arirang/index.m3u8
+#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG World HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+
+#EXTINF:0 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
+http://14.226.177.254:4025/rtp/232.84.3.224:11266
+#EXTINF:-1 tvg-id="CartoonNetworkAsia" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
+https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia
+http://14.226.177.254:4025/rtp/232.84.3.222:11254
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="🇨🇳| Trung Quốc" group-logo="https://i.imgur.com/lDqML4S.png" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 综合
+https://edge1.laotv.la/live/CCTV1/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 财经
+https://edge1.laotv.la/live/CCTV2/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 综艺
+https://edge1.laotv.la/live/CCTV3/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 中文国际（亚）
+https://ctrl.laotv.la/live/CCTV4A/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+ 体育赛事
+https://ctrl.laotv.la/live/CCTV5+/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="🇨🇳| Trung Quốc",CCTV-7 国防军事
+https://ctrl.laotv.la/live/CCTV7/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="🇨🇳| Trung Quốc",CCTV-8 电视剧
+https://ctrl.laotv.la/live/CCTV8/index.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CCTV-13 新闻
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="🇨🇳| Trung Quốc",CCTV-14 少儿
+https://ctrl.laotv.la/live/CCTV14/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="🇨🇳| Trung Quốc",CCTV-15 音乐
+https://ctrl.laotv.la/live/CCTV15/index.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/7j8Lnog.png",Lotus Macau TV
+https://ctrl.laotv.la/live/AomenLotus/index.m3u8
+
+#EXTINF:-1 tvg-name="湖南卫视" group-title="🇨🇳| Trung Quốc" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/SCVOw77.png",湖南卫视
+https://ctrl.laotv.la/live/Hunan/index.m3u8
+
+#EXTINF:-1 tvg-id="KPlus.sg" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/RbS0q71.png",K-Plus
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/zWcUAdb.png",KIX HD
+http://210.210.155.37/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-id="blueantent" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/PWzq0aU.png",Rock Entertainment
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-id="blueantext" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/l6lmlqG.png",Rock Action
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+#EXTINF:0 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/B9AVT2i.png",WARNER TV Asia
+http://14.226.177.254:4025/rtp/232.84.2.51:10516
+
+
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" group-logo="https://cdn.hqth.me/logo/category/itb.png" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
+https://tthd.site/360/159/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
+https://tthd.site/360/160/index.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
+https://tthd.site/360/162/index.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
+https://tthd.site/360/212/index.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
+http://14.226.177.254:4025/rtp/232.84.1.13:8052
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
+https://tthd.site/360/135/index.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
+https://tthd.site/360/163/index.m3u8
