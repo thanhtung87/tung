@@ -206,3 +206,73 @@ https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 https://tthd.site/360/55/index.m3u8
 #EXTINF:-1 tvg-id="hagiang" tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Hà Giang
 https://ott4.nethubtv.vn/live/hagiangtv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-id="kontum" tvg-logo="https://i.imgur.com/TFTkBVt.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Kon Tum
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#EXTINF:-1 tvg-id="laichau" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/n02cvKQ.png",Lai Châu
+https://ott4.nethubtv.vn/live/laichautv/chunklist_1.m3u8
+#EXTINF:-1 tvg-id="lamdong" tvg-logo="https://i.imgur.com/iaexSxL.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Lâm Đồng
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+#EXTINF:-1 tvg-id="langson" tvg-logo="https://i.imgur.com/yxz02UD.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Lạng Sơn 
+https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+#EXTINF:-1 tvg-id="laocai" tvg-logo="https://i.imgur.com/ldwQU4L.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Lào Cai
+https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+
+#EXTINF:-1 tvg-id="longan" tvg-logo="https://i.imgur.com/j6T7sqT.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Long An
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+#EXTINF:-1 tvg-id="namdinh" tvg-logo="https://i.imgur.com/juBOaJJ.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Nam Định
+https://tthd.site/360/73/index.m3u8
+#EXTINF:-1 tvg-id="nghean" tvg-logo="https://i.imgur.com/FLvFSLS.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Nghệ An
+https://vncdn.mediatech.vn/natvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="ninhbinh" tvg-logo="https://i.imgur.com/pL4NqYO.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Ninh Bình 
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ninhthuan" tvg-logo="https://i.imgur.com/9bFk5Lj.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Ninh Thuận
+https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
+#EXTINF:-1 tvg-id="phutho" tvg-logo="https://i.imgur.com/LXuRwJY.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Phú Thọ
+http://cdn.3ssoft.vn/livetv/phuthotv/phuthotv/index.m3u8
+#EXTINF:-1 tvg-id="phuyen" tvg-logo="https://i.imgur.com/DJsuiHq.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Phú Yên
+https://tthd.site/360/78/index.m3u8
+#EXTINF:-1 tvg-id="quangbinh" tvg-logo="https://i.imgur.com/JCFsITk.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Quảng Bình
+https://ott4.nethubtv.vn/live/quangbinhtv/chunklist_1.m3u8
+#EXTINF:-1 tvg-id="quangnam" tvg-logo="https://i.imgur.com/oxOSXWv.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Quảng Nam
+https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="quangngai" tvg-logo="https://i.imgur.com/FTyvVYO.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Quảng Ngãi
+http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="quangninh1" tvg-logo="https://i.imgur.com/KVia0uU.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Quảng Ninh 1
+http://vncdn.mediatech.vn/qtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/ci6kzgL.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Quảng Ninh 3
+http://vncdn.mediatech.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 tvg-id="quangtri" tvg-logo="https://i.imgur.com/xl4m2mn.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Quảng Trị
+https://vncdn.mediatech.vn/qrtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="soctrang" tvg-logo="https://i.imgur.com/VcDV4Bv.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Sóc Trăng 1
+https://lms-vnetwork-vtv.swiftfederation.com/soctrangtv/soctrangtv-720p.m3u8
+#EXTINF:-1 tvg-id="soctrang" tvg-logo="https://i.imgur.com/v8tT6KL.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Sóc Trăng 2
+https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+
+#EXTINF:-1 tvg-id="sonla" tvg-logo="https://i.imgur.com/xjkm6Zg.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Sơn La
+https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+#EXTINF:-1 tvg-id="tayninh" tvg-logo="https://i.imgur.com/8rGiYuk.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Tây Ninh
+http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
+#EXTINF:-1 tvg-id="thaibinh" tvg-logo="https://i.imgur.com/gwOQBas.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Thái Bình
+https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u8
+#EXTINF:-1 tvg-id="thainguyen" tvg-logo="https://i.imgur.com/Fse70QS.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Thái Nguyên
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 tvg-id="thanhhoa" tvg-logo="https://i.imgur.com/UwTCbZ5.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Thanh Hóa
+https://tthd.site/360/89/index.m3u8
+#EXTINF:-1 tvg-id="hue" tvg-logo="https://i.imgur.com/HQ7jCa6.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Thừa Thiên Huế
+https://tthd.site/360/63/index.m3u8
+#EXTINF:-1 tvg-id="tiengiang" tvg-logo="https://i.imgur.com/UTSrapf.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Tiền Giang
+http://123.25.238.45:1935/live/thtg/playlist.m3u8
+#EXTINF:-1 tvg-id="travinh" tvg-logo="https://i.imgur.com/IhAFIHH.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Trà Vinh
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
+
+#EXTINF:-1 tvg-id="travinh" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/FVmICGp.png",Trà Vinh 2
+https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w517483768.m3u8
+#EXTINF:-1 tvg-id="tuyenquang" tvg-logo="https://i.imgur.com/qPZeGPa.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Tuyên Quang
+https://tthd.site/360/92/index.m3u8
+#EXTINF:-1 tvg-id="vinhphuc" tvg-logo="https://i.imgur.com/CXUvMX2.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Vĩnh Phúc
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="yenbai" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/WKneY2w.png",Yên Bái
+https://live.yenbaitv.org.vn/hls/livestream.m3u8
