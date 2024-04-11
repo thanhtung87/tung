@@ -142,9 +142,13 @@ https://edge1.laotv.la/live/K+Sport2/index.m3u8
 https://tthd.site/360/32/index.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/q3fjpYc.png",THVL1
-https://tthd.site/360/25/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/1of9wrw271upco9/ 																																																												 ㅤ?thvl1							 																		 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/kcanTCT.png",THVL2
-https://tthd.site/360/26/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/wjvtjyo01o5ag3r/ 																																																												 ㅤ?thvl2							 																		 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/zS1zTpv.png",THVL3
 https://tthd.site/360/219/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/tbZo2NR.png",THVL4
