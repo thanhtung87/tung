@@ -416,3 +416,24 @@ http://14.226.177.254:4025/rtp/232.84.1.13:8052
 https://tthd.site/360/135/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
 https://tthd.site/360/163/index.m3u8
+
+
+#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/fQKFNXt/ccspo2.png",SPOTV2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/7s3eh9w2ovk2pdzm9xnsf/																														 ㅤ?spotv2 								 												 &rlkey=kwg41jk19cjmzd8egzqd9bwjx
+#https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sports Stars
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
+#https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/dMq7zy9/cc-Sportstars2.png",Sports Stars 2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
+#https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/dbbmNgN/cc-Sportstars3.png",Sports Stars 3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
+#https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd 
