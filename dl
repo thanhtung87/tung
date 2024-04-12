@@ -160,8 +160,7 @@ https://edge2.laotv.la/live/K+Sport1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2
 https://edge1.laotv.la/live/K+Sport2/index.m3u8
 
-#EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 - HiTV HD
-https://tthd.site/360/32/index.m3u8
+
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/q3fjpYc.png",THVL1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
@@ -399,7 +398,7 @@ https://coca.dl.dropboxusercontent.com/s/ykb1f51pffxhyyi6p4vrr/																	
 https://coca.dl.dropboxusercontent.com/s/xir7w4yye3hpr9ignjr5u/																														 ㅤ?sctvPTH 								 												 &rlkey=mrxm5xiyf5z7ih5e9ss2ofp0g|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX Movie¹
+#EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX Movie¹
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/9vu6o9ukcwacdefrvn578/																																 ㅤ?boxmovie1 								 												 &rlkey=bmru35pswmhyd3vnxjih47uh3|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
