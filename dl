@@ -399,6 +399,18 @@ https://coca.dl.dropboxusercontent.com/s/ykb1f51pffxhyyi6p4vrr/																	
 https://coca.dl.dropboxusercontent.com/s/xir7w4yye3hpr9ignjr5u/																														 ㅤ?sctvPTH 								 												 &rlkey=mrxm5xiyf5z7ih5e9ss2ofp0g|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
+EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX Movie¹
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/9vu6o9ukcwacdefrvn578/																																 ㅤ?boxmovie1 								 												 &rlkey=bmru35pswmhyd3vnxjih47uh3|Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="hollywoodclassics" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",HLW Classics
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/rxdoys0n7vq4vb9r98ody/																																 ㅤ?hollywoodclassics 								 												 &rlkey=9r8h2nmkv4hcrdaofxd6k6lsb|Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet Earth
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/cpgsap36mjuz5g3alipgm/																																 ㅤ?planetearth 								 												 &rlkey=ad515iwnrigxyq634emj5xncd|Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
 #EXTINF:0 tvg-id="abcaustralia" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/yIvBE2i.png",ABC Australia
 http://14.226.177.254:4025/rtp/232.84.2.244:10482
