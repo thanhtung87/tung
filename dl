@@ -417,7 +417,12 @@ https://tthd.site/360/135/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
 https://tthd.site/360/163/index.m3u8
 
-
+#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/Jpkxjv5/ccspotv.png",SPOTV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/yfghg1o9w335m4a5zo249/																														 ㅤ?spotv 								 												 &rlkey=94nxbt8c2r1mmvaf3ew7ry2tc
+#https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/fQKFNXt/ccspo2.png",SPOTV2
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://coca.dl.dropboxusercontent.com/s/7s3eh9w2ovk2pdzm9xnsf/																														 ㅤ?spotv2 								 												 &rlkey=kwg41jk19cjmzd8egzqd9bwjx
