@@ -50,8 +50,7 @@ https://coca.dl.dropboxusercontent.com/s/2nse801wb2pmd0f/ 																						
 https://tthd.site/360/180/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
 https://tthd.site/360/175/index.m3u8
-#EXTINF:0 tvg-id="vtvcab3hd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports
-http://14.226.177.254:4025/rtp/232.84.3.242:11374
+
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
 https://tthd.site/360/181/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
@@ -78,10 +77,8 @@ https://tthd.site/360/187/index.m3u8
 https://tthd.site/360/179/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
 https://tthd.site/360/188/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
-https://tthd.site/360/169/index.m3u8
-#EXTINF:-1 tvg-id="btv5hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5 - ON Sports Action
-https://tthd.site/360/2380/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳| VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
 https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8
@@ -153,12 +150,7 @@ https://tthd.site/360/13/index.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="🇻🇳| HTVC" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 https://tthd.site/360/132/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv15hd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/nKAF1ZO.png",SCTV15
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1
-https://edge2.laotv.la/live/K+Sport1/index.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2
-https://edge1.laotv.la/live/K+Sport2/index.m3u8
+
 
 
 
