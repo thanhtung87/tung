@@ -1,12 +1,18 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://akkradet.github.io/IPTV-THAI/guide.xml"
 #EXTM3U Luôn cập nhật kênh ổn định - https://tinyurl.com/VietXoTV - https://hqth.me/vietstvKIPTV
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://edge1.laotv.la/live/VTV1SD/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://tthd.site/360/3/index.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://edge1.laotv.la/live/VTV3/index.m3u8
+#EXTINF:0 type="stream" group-title="🇻🇳VTV" tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/y8s34Vs/ccvtv1.webp",VTV1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/pk0ijhdit0q280c/ 																																																											 ㅤ?vtv1							 																		 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="🇻🇳VTV" tvg-id="vtv2hd" tvg-logo="https://i.ibb.co/ZHCQSWY/ccvtv2.webp",VTV2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/c7lplr1ke566zsr/ 																																																												 ㅤ?vtv2							 																		 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="🇻🇳VTV" tvg-id="vtv3hd" tvg-logo="https://i.ibb.co/Y2WSTkx/ccvtv3.webp",VTV3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/ylb7my8but2ccwd/ 																																																												 ㅤ?vtv3							 																		 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
 #EXTINF:0 type="stream" group-title="🇻🇳VTV" tvg-id="vtv4hd" tvg-logo="https://i.ibb.co/NSSfgj5/ccvtv4.webp",VTV4
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/f1adpmzxclche14/ 																																																												 ㅤ?vtv4							 																		 |Referer=https://sctvonline.vn/ 
@@ -22,9 +28,23 @@ https://coca.dl.dropboxusercontent.com/s/x8952mvr7r6l15v/ 																						
 #EXTINF:0 type="stream" group-title="🇻🇳VTV" tvg-id="vtv5hdtnb" tvg-logo="https://i.ibb.co/tc1LK8t/vtv5tnb.png",VTV5 •TNB
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/ztuh55x09yybw40/ 																																		 ㅤ?vtvtnb 										 		 |Referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title=""🇻🇳VTV" tvg-id="vtv6hd" tvg-logo="https://i.ibb.co/hgBXGTZ/ccvtv6.webp",VTV6 •CT
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/0mdi9d3mk1movxm/ 																																		 ㅤ?vtv6 										 		 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="🇻🇳VTV" tvg-id="vtv7hd" tvg-logo="https://i.ibb.co/JjwwJCk/ccvtv7.webp",VTV7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/f3gaq8dhsbnlyut/ 																																																												 ㅤ?vtv7								 																	 |Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://tthd.site/360/8/index.m3u8
+#EXTINF:0 type="stream" group-title="🇻🇳VTV" tvg-id="vtv8hd" tvg-logo="https://i.ibb.co/6JzZNqz/ccvtv8.webp",VTV8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/ywjkllkz5d85276/ 																																																												 ㅤ?vtv8								 																	 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🇻🇳VTV" tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/FHFdRNC/ccvtv9.webp",VTV9
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/2nse801wb2pmd0f/ 																																																												 ㅤ?vtv9								 																	 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🇻🇳| VTVcab" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí 
 https://tthd.site/360/180/index.m3u8
