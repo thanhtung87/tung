@@ -426,43 +426,20 @@ https://coca.dl.dropboxusercontent.com/s/16yg9ec6hzma118rg2mjm/																	
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/5hdm9z8jahoit7npk1771/																																 ㅤ?woman 								 												 &rlkey=rvvdwxkf0v6uf6goqg73m3igu|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="man" tvg-logo="https://i.ibb.co/Yj6BTzZ/Man-cc.webp",Man
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://gg.gg/manhttps?//coca=dl.dropboxusercontent.com/s/s35gb91bxljlldo/ 																																	 ㅤ?man								 												 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="inthebox" tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",BOX
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://gg.gg/boxhttps?//coca=dl.dropboxusercontent.com/s/vb05w85t4tu7wed/ 																																	  ㅤ?box								 												 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="boxhits" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp",BOX Hits
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://gg.gg/hithttps?//coca=dl.dropboxusercontent.com/s/67k1qz14740vl5u/ 																																	 ㅤ?boxhits								 											 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 tvg-id="abcaustralia" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/yIvBE2i.png",ABC Australia
-http://14.226.177.254:4025/rtp/232.84.2.244:10482
-#EXTINF:-1 tvg-id="ABCNewsLive" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News Australia
-https://ctrl.laotv.la/live/ABCA/index.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News Australia HD
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="al-jazeera-int" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/Sv8C4XK.png",Aljazeera International HD
-https://ctrl.laotv.la/live/ALJazeera/index.m3u8
+
+
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax Asia
 http://14.226.177.254:4025/rtp/232.84.1.18:8082
-#EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png",Angel TV Far East
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet Asia
 https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 https://tthd.site/360/215/index.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG World
-https://ctrl.laotv.la/live/Arirang/index.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG World HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 
-#EXTINF:0 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
-http://14.226.177.254:4025/rtp/232.84.3.224:11266
+
+
 #EXTINF:-1 tvg-id="CartoonNetworkAsia" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:0 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia
@@ -484,7 +461,7 @@ https://ctrl.laotv.la/live/CCTV7/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="🇨🇳| Trung Quốc",CCTV-8 电视剧
 https://ctrl.laotv.la/live/CCTV8/index.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CCTV-13 新闻
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="🇨🇳| Trung Quốc",CCTV-13 新闻
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="🇨🇳| Trung Quốc",CCTV-14 少儿
 https://ctrl.laotv.la/live/CCTV14/index.m3u8
