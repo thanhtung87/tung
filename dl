@@ -369,8 +369,7 @@ https://edge1.laotv.la/live/CCTV2/index.m3u8
 https://edge1.laotv.la/live/CCTV3/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 中文国际（亚）
 https://ctrl.laotv.la/live/CCTV4A/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+ 体育赛事
-https://ctrl.laotv.la/live/CCTV5+/index.m3u8
+
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="🇨🇳| Trung Quốc",CCTV-7 国防军事
 https://ctrl.laotv.la/live/CCTV7/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="🇨🇳| Trung Quốc",CCTV-8 电视剧
@@ -442,3 +441,12 @@ https://coca.dl.dropboxusercontent.com/s/7s3eh9w2ovk2pdzm9xnsf/																	
 #EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/dbbmNgN/cc-Sportstars3.png",Sports Stars 3
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
 #https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd 
+
+#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="cctv5" tvg-logo="https://i.ibb.co/qxCDP87/cccctv5.webp",CCTV5
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/oxnohce9kclgmsh4yeh9k/ 																																	 ㅤ?cctv5      										 													 &rlkey=thde9gpuln9bmt5vvt950qmp4 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="cctv5plus" tvg-logo="https://i.ibb.co/BV7tvDd/cccctv5p.webp",CCTV5+
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/vfmbmg0revmfa8jciuiez/ 																																	 ㅤ?cctv5+      										 													 &rlkey=tatob0645y2rp3eoduyw0zdxa 
+
