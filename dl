@@ -156,7 +156,25 @@ https://coca.dl.dropboxusercontent.com/s/mvpcdcdy6yj3n22/ 																						
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
 
-
+#EXTINF:0 type="stream" group-title="HTV" tvg-id="htv2hd"  tvg-logo="https://i.ibb.co/6nmzXRT/cchtv2.webp",HTV2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/zvvz2ue7oylapg3/ 																															 ㅤ?htv2 										 		 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="HTV" tvg-id="htv3"  tvg-logo="https://i.ibb.co/8rWVRBf/cchtv3.webp",HTV3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/1duii5qorjwy6qm/ 																																  ?htv3 										 													 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="HTV" tvg-id="htvkey"  tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp",HTV4
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/9zx4rfvjecqzlxu/ 																																  ㅤ?htv4 										 													 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="HTV" tvg-id="htv7hd"  tvg-logo="https://i.ibb.co/bX1LD0H/cchtv7.webp",HTV7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/f66ggfxnbbtdqk1/ 																																  ㅤ?htv7 										 													 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="HTV" tvg-id="htv9hd"  tvg-logo="https://i.ibb.co/j6BCF0M/cchtv9.webp",HTV9
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/m7i7p1ag60gbojb/ 																																 ㅤ?htv9 										 													 |Referer=https://sctvonline.vn/ 
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳| VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
 https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8
