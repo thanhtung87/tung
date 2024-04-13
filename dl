@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://akkradet.github.io/IPTV-THAI/guide.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml
 #EXTM3U Luôn cập nhật kênh ổn định - https://tinyurl.com/VietXoTV - https://hqth.me/vietstvKIPTV
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/q3fjpYc.png",THVL1
