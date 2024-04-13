@@ -425,13 +425,7 @@ https://coca.dl.dropboxusercontent.com/s/9vu6o9ukcwacdefrvn578/																	
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/rxdoys0n7vq4vb9r98ody/																																 ㅤ?hollywoodclassics 								 												 &rlkey=9r8h2nmkv4hcrdaofxd6k6lsb|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:-1 tvg-id="HBO" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO Asia
-http://ip168.homeip.net:8086/hbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="🎬| Phim truyện",Celestial Movies
-http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxAsia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax Asia
-http://ip168.homeip.net:8086/cinemax.m3u8
 #EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet Earth
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/cpgsap36mjuz5g3alipgm/																																 ㅤ?planetearth 								 												 &rlkey=ad515iwnrigxyq634emj5xncd|Referer=https://sctvonline.vn/ 
@@ -460,15 +454,21 @@ https://coca.dl.dropboxusercontent.com/s/5hdm9z8jahoit7npk1771/																	
 
 
 
+#EXTINF:-1 tvg-id="HBO" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO Asia
+http://ip168.homeip.net:8086/hbo.m3u8
 
-#EXTINF:-1 tvg-id="KPlus.sg" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/RbS0q71.png",K-Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="🎬| Phim truyện",Celestial Movies
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAsia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax Asia
+http://ip168.homeip.net:8086/cinemax.m3u8
+#EXTINF:-1 tvg-id="KPlus.sg" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/RbS0q71.png",K-Plus
 http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/zWcUAdb.png",KIX HD
+#EXTINF:-1 tvg-id="kix" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/zWcUAdb.png",KIX HD
 http://210.210.155.37/dr9445/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-id="blueantent" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/PWzq0aU.png",Rock Entertainment
+#EXTINF:-1 tvg-id="blueantent" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/PWzq0aU.png",Rock Entertainment
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-id="blueantext" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/l6lmlqG.png",Rock Action
+#EXTINF:-1 tvg-id="blueantext" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/l6lmlqG.png",Rock Action
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
 
