@@ -19,6 +19,17 @@ https://live.canthotv.vn/live/tv_web/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="caobang" tvg-logo="https://i.ibb.co/wWgP3xk/cccaobang.webp",ㅤ Cao Bằng
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8 
+
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhphuc" tvg-logo="https://i.ibb.co/9YtVjcy/ccvinhphuc.webp",Vĩnh Phúc
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vungtau" tvg-logo="https://i.ibb.co/ThYZvSW/ccvungtau.webp",ㅤ Vũng Tàu
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://stream.brt.vn:8081/live/tv2.stream/chunklist.m3u8 
+
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="bentre" tvg-logo="https://i.ibb.co/xhSTHBj/ccbentre.webp",Bến Tre
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://1012163901.vnns.net/bentre.adm.480p.tms/chunks.m3u8 
 #EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="danang1" tvg-logo="https://i.ibb.co/zRTmjRZ/ccdanang1.webp",🇩 Đà Nẵng 1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8 
