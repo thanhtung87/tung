@@ -53,10 +53,10 @@ https://stream.brt.vn:8081/live/tv2.stream/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="🇻🇳| Kênh Địa phương" tvg-id="bentre" tvg-logo="https://i.ibb.co/xhSTHBj/ccbentre.webp",Bến Tre
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://1012163901.vnns.net/bentre.adm.480p.tms/chunks.m3u8 
-#EXTINF:0 type="stream" group-title="🇻🇳| Kênh Địa phương" tvg-id="danang1" tvg-logo="https://i.ibb.co/zRTmjRZ/ccdanang1.webp",🇩 Đà Nẵng 1
+#EXTINF:0 type="stream" group-title="🇻🇳| Kênh Địa phương" tvg-id="danang1" tvg-logo="https://i.ibb.co/zRTmjRZ/ccdanang1.webp", Đà Nẵng 1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8 
-#EXTINF:0 type="stream" group-title="🇻🇳| Kênh Địa phương" tvg-id="danang2" tvg-logo="https://i.ibb.co/89GWvQL/ccdanang2.webp",ㅤ Đà Nẵng 2
+#EXTINF:0 type="stream" group-title="🇻🇳| Kênh Địa phương" tvg-id="danang2" tvg-logo="https://i.ibb.co/89GWvQL/ccdanang2.webp",ㅤĐà Nẵng 2
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8 
 #EXTINF:0 type="stream" group-title="🇻🇳| Kênh Địa phương" tvg-id="daklak" tvg-logo="https://i.ibb.co/PNzprxr/ccdaklak.webp",ㅤ Đăk Lăk
@@ -140,24 +140,26 @@ https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w517483768.m3u8
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 tvg-id="yenbai" group-title="🇻🇳| Kênh Địa phương" tvg-logo="https://i.imgur.com/WKneY2w.png",Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
-#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="hagiang" tvg-logo="https://i.ibb.co/2tJgRCq/cchagiang.webp",ㅤ Hà Giang
+#EXTINF:0 type="stream" group-title="🇻🇳| Kênh Địa phương" tvg-id="hagiang" tvg-logo="https://i.ibb.co/2tJgRCq/cchagiang.webp",ㅤ Hà Giang
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni 
-#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="hatinh" tvg-logo="https://i.ibb.co/G7tnzWx/cchatinh.webp",ㅤ Hà Tĩnh
+#EXTINF:0 type="stream" group-title="🇻🇳| Kênh Địa phương" tvg-id="hatinh" tvg-logo="https://i.ibb.co/G7tnzWx/cchatinh.webp",ㅤ Hà Tĩnh
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="haiduong" tvg-logo="https://i.ibb.co/MZHbjxw/cchaiduong.webp",ㅤ Hải Dương
+#EXTINF:0 type="stream" group-title="🇻🇳| Kênh Địa phương" tvg-id="haiduong" tvg-logo="https://i.ibb.co/MZHbjxw/cchaiduong.webp",ㅤ Hải Dương
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=medium&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11.hni
-#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="haugiang" tvg-logo="https://i.ibb.co/ZVsNkSs/cchaugiang.webp",ㅤ Hậu Giang
+#EXTINF:0 type="stream" group-title="🇻🇳| Kênh Địa phương" tvg-id="haugiang" tvg-logo="https://i.ibb.co/ZVsNkSs/cchaugiang.webp",ㅤHậu Giang
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8 
-#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="hoabinh" tvg-logo="https://i.ibb.co/YbHHR7W/cchoabinh.webp",ㅤ Hòa Bình
+#EXTINF:0 type="stream" group-title="🇻🇳| Kênh Địa phương" tvg-id="hoabinh" tvg-logo="https://i.ibb.co/YbHHR7W/cchoabinh.webp",ㅤHòa Bình
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://hbtvlive.3ssoft.vn/hoabinhtv/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="hue" tvg-logo="https://i.ibb.co/9yc6TL4/cchue.webp",ㅤ Huế
+#EXTINF:0 type="stream" group-title="🇻🇳| Kênh Địa phương" tvg-id="hue" tvg-logo="https://i.ibb.co/9yc6TL4/cchue.webp",Thừa Thiên Huế
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8 
+
+
 
 #EXTINF:0 type="stream" group-title="🇻🇳VTV" tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/y8s34Vs/ccvtv1.webp",VTV1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
