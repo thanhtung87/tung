@@ -412,7 +412,12 @@ https://coca.dl.dropboxusercontent.com/s/ykb1f51pffxhyyi6p4vrr/																	
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/xir7w4yye3hpr9ignjr5u/																														 ㅤ?sctvPTH 								 												 &rlkey=mrxm5xiyf5z7ih5e9ss2ofp0g|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-
+#EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https:// i.imgur.com/odiBT9V.png",Animals planet asia
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1 group-title="🎁 BOX" tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",In The Box
+https://live-bd2.tv360.vn/5alks4rRWNVyn5X8ewREEA/1713051648/manifest/IntheBox_HD/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=71043469
+#EXTINF:0 tvg-id="boxhits" group-title=""🎁 BOX" group-logo="https://cdn.hqth.me/logo/category/itb.png" tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
+https://live-bd2.tv360.vn/a8bNFSNHLW43Jq_lWvsC3w/1713053094/manifest/BoxHits_HD/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=71043469
 #EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX Movie¹
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/9vu6o9ukcwacdefrvn578/																																 ㅤ?boxmovie1 								 												 &rlkey=bmru35pswmhyd3vnxjih47uh3|Referer=https://sctvonline.vn/ 
@@ -421,6 +426,14 @@ https://coca.dl.dropboxusercontent.com/s/9vu6o9ukcwacdefrvn578/																	
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/rxdoys0n7vq4vb9r98ody/																																 ㅤ?hollywoodclassics 								 												 &rlkey=9r8h2nmkv4hcrdaofxd6k6lsb|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:-1 tvg-id="HBO" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO Asia
+http://ip168.homeip.net:8086/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="🎬| Phim truyện",Celestial Classic Movies
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="🎬| Phim truyện",Celestial Movies
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAsia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax Asia
+http://ip168.homeip.net:8086/cinemax.m3u8
 #EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet Earth
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/cpgsap36mjuz5g3alipgm/																																 ㅤ?planetearth 								 												 &rlkey=ad515iwnrigxyq634emj5xncd|Referer=https://sctvonline.vn/ 
