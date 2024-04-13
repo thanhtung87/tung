@@ -414,12 +414,9 @@ https://coca.dl.dropboxusercontent.com/s/ykb1f51pffxhyyi6p4vrr/																	
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/xir7w4yye3hpr9ignjr5u/																														 ㅤ?sctvPTH 								 												 &rlkey=mrxm5xiyf5z7ih5e9ss2ofp0g|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https:// i.imgur.com/odiBT9V.png",Animals planet asia
+#EXTINF:-1 tvg-id="animalhd" group-title="🎁 BOX" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https:// i.imgur.com/odiBT9V.png",Animals planet asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 group-title="🎁 BOX" tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",In The Box
-https://live-bd2.tv360.vn/5alks4rRWNVyn5X8ewREEA/1713051648/manifest/IntheBox_HD/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=71043469
-#EXTINF:0 tvg-id="boxhits" group-title=""🎁 BOX" group-logo="https://cdn.hqth.me/logo/category/itb.png" tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
-https://live-bd2.tv360.vn/a8bNFSNHLW43Jq_lWvsC3w/1713053094/manifest/BoxHits_HD/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=71043469
+
 #EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX Movie¹
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/9vu6o9ukcwacdefrvn578/																																 ㅤ?boxmovie1 								 												 &rlkey=bmru35pswmhyd3vnxjih47uh3|Referer=https://sctvonline.vn/ 
@@ -430,8 +427,7 @@ https://coca.dl.dropboxusercontent.com/s/rxdoys0n7vq4vb9r98ody/																	
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="HBO" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO Asia
 http://ip168.homeip.net:8086/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="🎬| Phim truyện",Celestial Classic Movies
-http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="🎬| Phim truyện",Celestial Movies
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxAsia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax Asia
@@ -441,6 +437,9 @@ http://ip168.homeip.net:8086/cinemax.m3u8
 https://coca.dl.dropboxusercontent.com/s/cpgsap36mjuz5g3alipgm/																																 ㅤ?planetearth 								 												 &rlkey=ad515iwnrigxyq634emj5xncd|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+
+#EXTINF:0 tvg-id="boomerang" group-title="🎁 BOX" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia
+http://14.226.177.254:4025/rtp/232.84.3.222:11254
 #EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="happykids" tvg-logo="https://i.ibb.co/72jD6nC/Happy-Kids-cc.webp",Happy Kids
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/x08buwgjzg671u4w9zs7j/																																 ㅤ?happykids 								 												 &rlkey=qdv5fkevf7l758fu273f4s8y2|Referer=https://sctvonline.vn/ 
@@ -458,49 +457,9 @@ https://coca.dl.dropboxusercontent.com/s/5hdm9z8jahoit7npk1771/																	
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
 
-#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax Asia
-http://14.226.177.254:4025/rtp/232.84.1.18:8082
-
-
-#EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet Asia
-https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
-#EXTINF:-1 tvg-id="afnhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
-https://tthd.site/360/215/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="CartoonNetworkAsia" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
-https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
-#EXTINF:0 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia
-http://14.226.177.254:4025/rtp/232.84.3.222:11254
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="🇨🇳| Trung Quốc" group-logo="https://i.imgur.com/lDqML4S.png" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 综合
-https://edge1.laotv.la/live/CCTV1/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 财经
-https://edge1.laotv.la/live/CCTV2/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 综艺
-https://edge1.laotv.la/live/CCTV3/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 中文国际（亚）
-https://ctrl.laotv.la/live/CCTV4A/index.m3u8
-
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="🇨🇳| Trung Quốc",CCTV-7 国防军事
-https://ctrl.laotv.la/live/CCTV7/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="🇨🇳| Trung Quốc",CCTV-8 电视剧
-https://ctrl.laotv.la/live/CCTV8/index.m3u8
-
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="🇨🇳| Trung Quốc",CCTV-13 新闻
-https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="🇨🇳| Trung Quốc",CCTV-14 少儿
-https://ctrl.laotv.la/live/CCTV14/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="🇨🇳| Trung Quốc",CCTV-15 音乐
-https://ctrl.laotv.la/live/CCTV15/index.m3u8
-#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/7j8Lnog.png",Lotus Macau TV
-https://ctrl.laotv.la/live/AomenLotus/index.m3u8
-
-#EXTINF:-1 tvg-name="湖南卫视" group-title="🇨🇳| Trung Quốc" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/SCVOw77.png",湖南卫视
-https://ctrl.laotv.la/live/Hunan/index.m3u8
 
 #EXTINF:-1 tvg-id="KPlus.sg" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/RbS0q71.png",K-Plus
 http://210.210.155.37/uq2663/h/h08/index.m3u8
