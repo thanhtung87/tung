@@ -307,11 +307,11 @@ https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
-#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/YtZGuSy.png",KÊNH 7 — Truyền Hình Quốc Hội Việt Nam
+#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội VN
 http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV — Truyền Hình Công An Nhân Dân
+#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV — Công An Nhân Dân
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews — Truyền Hình Thông Tấn Xã Việt Nam
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews - TTX VN
 https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/7zgsFIK.png",Truyền Hình Nhân Dân
 https://arpt.tvic.vn/live/nhandan720/chunklist.m3u8
@@ -378,7 +378,7 @@ https://coca.dl.dropboxusercontent.com/s/5waw3taixtseyvt2ajjoe/																	
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/q7821y2kn6kyd4u1mo299/																														 ㅤ?sctv14 								 												 &rlkey=1r5y7qygazs8enp41fk0xzdg0|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/VjJLPd9/ccsctv15.webp",SCTV15 📍²
+#EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/VjJLPd9/ccsctv15.webp",SCTV15
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/ws41mvmst85mofx4iro27/															 ㅤ?sctv15 								 		 &rlkey=svtiiclbeb7as4y5vadlfppki|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -386,7 +386,7 @@ https://coca.dl.dropboxusercontent.com/s/ws41mvmst85mofx4iro27/															 �
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/jb8dwui3477ckxz0ft0yz/																															 ㅤ?sctv16 								 												 &rlkey=nhhenl1xaa2v05o2o1kj9iyv1|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv17hd" tvg-logo="https://i.ibb.co/bv5J3hr/ccsctv17.webp",SCTV17 📍
+#EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv17hd" tvg-logo="https://i.ibb.co/bv5J3hr/ccsctv17.webp",SCTV17
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/p9xnve61unjomwgh07qdi/															 ㅤ?sctv17 									 	 &rlkey=kii2wj8qjyjw3x5m6rvms2vyx|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -432,8 +432,6 @@ https://coca.dl.dropboxusercontent.com/s/cpgsap36mjuz5g3alipgm/																	
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:0 tvg-id="boomerang" group-title="🎁 BOX" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia
-http://14.226.177.254:4025/rtp/232.84.3.222:11254
 #EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="happykids" tvg-logo="https://i.ibb.co/72jD6nC/Happy-Kids-cc.webp",Happy Kids
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/x08buwgjzg671u4w9zs7j/																																 ㅤ?happykids 								 												 &rlkey=qdv5fkevf7l758fu273f4s8y2|Referer=https://sctvonline.vn/ 
