@@ -10,6 +10,11 @@ https://coca.dl.dropboxusercontent.com/s/1of9wrw271upco9/ 																						
 https://coca.dl.dropboxusercontent.com/s/wjvtjyo01o5ag3r/ 																																																												 ㅤ?thvl2							 																		 |Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Kênh Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png",THVL3
+thvl/thvl3-hd
+
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Kênh Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png",THVL4
+thvl/thvl4-hd
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://hanoicab.net/data/media/1133/files/55_1464859115_591574ff9eb7c192.png" tvg-logo="https://anvientv.com.vn/uploads/avatar/1643247141_logoanvien3.png", An Viên TV
 tv360/151
