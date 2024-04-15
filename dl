@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml
 #EXTM3U Luôn cập nhật kênh ổn định - https://tinyurl.com/VietXoTV - https://hqth.me/vietstvKIPTV
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="10.Địa phương" group-logo="https://seeklogo.com/images/V/viet-nam-logo-3D78D597F9-seeklogo.com.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD | TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="10.Địa phương" group-logo="https://seeklogo.com/images/V/viet-nam-logo-3D78D597F9-seeklogo.com.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png",THVL1 HD | TH Vĩnh Long
 thvl/thvl1-hd
 
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="10.Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD | TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="10.Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png",THVL2 HD | TH Vĩnh Long
 thvl/thvl2-hd
 
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="10.Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD | TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="10.Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png",THVL3 HD | TH Vĩnh Long
 thvl/thvl3-hd
 
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="10.Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD | TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="10.Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png",THVL4 HD | TH Vĩnh Long
 thvl/thvl4-hd
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/q3fjpYc.png",THVL1
