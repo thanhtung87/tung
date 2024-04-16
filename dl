@@ -453,10 +453,12 @@ https://coca.dl.dropboxusercontent.com/s/5hdm9z8jahoit7npk1771/																	
 #EXTINF:-1 tvg-id="HBO" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO Asia
 http://ip168.homeip.net:8086/hbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="🎬| Phim truyện",Celestial Movies
-http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxAsia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax Asia
 http://ip168.homeip.net:8086/cinemax.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="🎬| Phim truyện",Celestial Movies
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+
 #EXTINF:-1 tvg-id="KPlus.sg" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/RbS0q71.png",K-Plus
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/zWcUAdb.png",KIX HD
@@ -493,7 +495,3 @@ https://coca.dl.dropboxusercontent.com/s/7s3eh9w2ovk2pdzm9xnsf/																	
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://coca.dl.dropboxusercontent.com/s/oxnohce9kclgmsh4yeh9k/ 																																	 ㅤ?cctv5      										 													 &rlkey=thde9gpuln9bmt5vvt950qmp4 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="cctv5plus" tvg-logo="https://i.ibb.co/BV7tvDd/cccctv5p.webp",CCTV5+
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/vfmbmg0revmfa8jciuiez/ 																																	 ㅤ?cctv5+      										 													 &rlkey=tatob0645y2rp3eoduyw0zdxa 
-
