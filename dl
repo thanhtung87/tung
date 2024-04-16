@@ -1,18 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 client-ip=103.199.33.188
 
-#EXTINF:-1 tvg-id="antvhd" group-title="06.HanoiCab" group-logo="https://hanoicab.net/data/media/1133/files/55_1464859115_591574ff9eb7c192.png" tvg-logo= "https://anvientv.com.vn/uploads/avatar/1643247141_logoanvien3.png", An Viên TV
-tv360/151
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="10.Địa phương" group-logo="https://seeklogo.com/images/V/viet-nam-logo-3D78D597F9-seeklogo.com.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png",THVL1 HD | TH Vĩnh Long
-thvl/thvl1-hd
 
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="10.Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png",THVL2 HD | TH Vĩnh Long
-thvl/thvl2-hd
-
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="10.Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png",THVL3 HD | TH Vĩnh Long
-thvl/thvl3-hd
-https://mytv.com.vn/truyen-hinh/425/?type=1
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="10.Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png",THVL4 HD | TH Vĩnh Long
-thvl/thvl4-hd
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/q3fjpYc.png",THVL1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
@@ -23,14 +11,7 @@ https://coca.dl.dropboxusercontent.com/s/1of9wrw271upco9/ 																						
 https://coca.dl.dropboxusercontent.com/s/wjvtjyo01o5ag3r/ 																																																												 ㅤ?thvl2							 																		 |Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Kênh Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png",THVL3
-thvl/thvl3-hd
 
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Kênh Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png",THVL4
-thvl/thvl4-hd
-
-#EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://hanoicab.net/data/media/1133/files/55_1464859115_591574ff9eb7c192.png" tvg-logo="https://anvientv.com.vn/uploads/avatar/1643247141_logoanvien3.png", An Viên TV
-tv360/151
 #EXTINF:0 type="stream" group-title="🇻🇳| Kênh Địa phương" tvg-id="haugiang" tvg-logo="https://i.ibb.co/ZVsNkSs/cchaugiang.webp",Hậu Giang
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8 
@@ -38,8 +19,6 @@ https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://live.canthotv.vn/live/tv_web/chunklist.m3u8 
 
-#EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Kênh Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/125.png" catchup-type="default" catchup-days="2" catchup-source="tv360/46/xemlai/${start}-${offset}", CTV HD | TH Cà Mau
-tv360/46
 
 #EXTINF:-1 tvg-id="bacgiang" tvg-logo="https://i.imgur.com/j9lbGel.png" group-title="🇻🇳| Kênh Địa phương",Bắc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
