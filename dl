@@ -407,7 +407,7 @@ https://coca.dl.dropboxusercontent.com/s/itd0n548z2obkuo9ghoh4/																	
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/103g7991j3f9zdpukjsy8/																														 ㅤ?sctv21 								 												 &rlkey=lg6u4em0gr5xt0sb0jumq72rd|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv22hd" tvg-logo="https://i.ibb.co/HtK3MyT/ccsctv22.webp",SCTV22 📍¹
+#EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv22hd" tvg-logo="https://i.ibb.co/HtK3MyT/ccsctv22.webp",SCTV22
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/ykb1f51pffxhyyi6p4vrr/																														 ㅤ?sctv22 								 												 &rlkey=7v0iifn6tm81nvvhy9s61j2sr|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -415,36 +415,36 @@ https://coca.dl.dropboxusercontent.com/s/ykb1f51pffxhyyi6p4vrr/																	
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/xir7w4yye3hpr9ignjr5u/																														 ㅤ?sctvPTH 								 												 &rlkey=mrxm5xiyf5z7ih5e9ss2ofp0g|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:-1 tvg-id="animalhd" group-title="🎁 BOX" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https:// i.imgur.com/odiBT9V.png",Animals planet asia
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc tế"tvg-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https:// i.imgur.com/odiBT9V.png",Animals planet asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 
-#EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX Movie¹
+#EXTINF:0 type="stream" group-title="Quốc tế "tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX Movie¹
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/9vu6o9ukcwacdefrvn578/																																 ㅤ?boxmovie1 								 												 &rlkey=bmru35pswmhyd3vnxjih47uh3|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="hollywoodclassics" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",HLW Classics
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="hollywoodclassics" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",HLW Classics
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/rxdoys0n7vq4vb9r98ody/																																 ㅤ?hollywoodclassics 								 												 &rlkey=9r8h2nmkv4hcrdaofxd6k6lsb|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet Earth
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet Earth
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/cpgsap36mjuz5g3alipgm/																																 ㅤ?planetearth 								 												 &rlkey=ad515iwnrigxyq634emj5xncd|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="happykids" tvg-logo="https://i.ibb.co/72jD6nC/Happy-Kids-cc.webp",Happy Kids
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="happykids" tvg-logo="https://i.ibb.co/72jD6nC/Happy-Kids-cc.webp",Happy Kids
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/x08buwgjzg671u4w9zs7j/																																 ㅤ?happykids 								 												 &rlkey=qdv5fkevf7l758fu273f4s8y2|Referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="musicbox" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",Music Box
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="musicbox" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",Music Box
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/ccaoar2sa7j77yfat3hqa/																																 ㅤ?boxmusic 								 												 &rlkey=tldonjjihp1dt5hzmrahgpj6b|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="drfithd" tvg-logo="https://i.ibb.co/n0DZ21g/ccdrfit.webp",Dr. Fit
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="drfithd" tvg-logo="https://i.ibb.co/n0DZ21g/ccdrfit.webp",Dr. Fit
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/16yg9ec6hzma118rg2mjm/																																 ㅤ?drfit 								 												 &rlkey=gjveqalcyl4bioy87s25mr988|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="🎁 BOX" tvg-id="woman" tvg-logo="https://i.ibb.co/MGcnhnG/Woman-cc.png",Woman
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="woman" tvg-logo="https://i.ibb.co/MGcnhnG/Woman-cc.png",Woman
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/5hdm9z8jahoit7npk1771/																																 ㅤ?woman 								 												 &rlkey=rvvdwxkf0v6uf6goqg73m3igu|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -453,23 +453,23 @@ https://coca.dl.dropboxusercontent.com/s/5hdm9z8jahoit7npk1771/																	
 
 
 
-#EXTINF:-1 tvg-id="HBO" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO Asia
+#EXTINF:-1 tvg-id="HBO" group-title="Quốc tế" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO Asia
 http://ip168.homeip.net:8086/hbo.m3u8
 
-#EXTINF:-1 tvg-id="CinemaxAsia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax Asia
+#EXTINF:-1 tvg-id="CinemaxAsia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax Asia
 http://ip168.homeip.net:8086/cinemax.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="🎬| Phim truyện",Celestial Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Quốc tế",Celestial Movies
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 
-#EXTINF:-1 tvg-id="KPlus.sg" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/RbS0q71.png",K-Plus
+#EXTINF:-1 tvg-id="KPlus.sg" group-title="Quốc tế" tvg-logo="https://i.imgur.com/RbS0q71.png",K-Plus
 http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/zWcUAdb.png",KIX HD
+#EXTINF:-1 tvg-id="kix" group-title="Quốc tế" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/zWcUAdb.png",KIX HD
 http://210.210.155.37/dr9445/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-id="blueantent" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/PWzq0aU.png",Rock Entertainment
+#EXTINF:-1 tvg-id="blueantent" group-title="Quốc tế" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/PWzq0aU.png",Rock Entertainment
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-id="blueantext" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/l6lmlqG.png",Rock Action
+#EXTINF:-1 tvg-id="blueantext" group-title="Quốc tế" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/l6lmlqG.png",Rock Action
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
 
