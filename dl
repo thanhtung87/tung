@@ -1,8 +1,18 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 client-ip=103.199.33.188
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 client-ip=103.199.32.75
+#-*--VTV--*-#
 
-EXTINF:-1 tvg-id="" group-title="11.Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRT World
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="01.VTV" group-logo="https://yt3.googleusercontent.com/z7ovoHXE5ZGjVfTnTXc5BwkPBufEe1ylUENPUxbPLzvEqhqYhla1NyApg8WOCgbleXRB1e8RlQ=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup-type="default" catchup-days="2" catchup-source="mytv/210/xemlai/${start}-${offset}", VTV1
+vtvgo/1
 
+#EXTINF:-1 tvg-id="vtv2hd" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup-type="default" catchup-days="2" catchup-source="tv360/3/xemlai/${start}-${offset}", VTV2
+vtvgo/2
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup-type="default" catchup-days="2" catchup-source="mytv/211/xemlai/${start}-${offset}", VTV3
+vtvgo/3
+#EXTINF:-1 tvg-id="vtv4hd" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup-type="default" catchup-days="2" catchup-source="tv360/108/xemlai/${start}-${offset}", VTV4
+vtvgo/4
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="01.VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup-type="default" catchup-days="2" catchup-source="tv360/110/xemlai/${start}-${offset}", 
 
 
 
