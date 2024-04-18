@@ -254,6 +254,18 @@ https://coca.dl.dropboxusercontent.com/s/9hrxpvyp9v50xfu/ 																						
 https://coca.dl.dropboxusercontent.com/s/mvpcdcdy6yj3n22/ 																																 ㅤ?cab20 										 													 |Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
+#EXTINF:0  type="stream" group-title="⭕" tvg-id="hd" tvg-logo="https://i.ibb.co/Lx86J3b/ccVcine.png",V-cine
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/Cine360/playlist_1080p.m3u8
+#EXTINF:0  type="stream" group-title="⭕" tvg-id="hd" tvg-logo="https://i.ibb.co/rcRvvZj/cc-Vdongbao.png",V-đồng bào
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/vung-cao/playlist_1080p.m3u8
+#EXTINF:0  type="stream" group-title="⭕" tvg-id="hd" tvg-logo="https://i.ibb.co/C51z3SC/cuulong.png",tv360
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8 
+#https://coca.dl.dropboxusercontent.com/s/hf0wbs9ey0sij4xihcto7/ 																																															 ㅤ?tv360 										 														 &rlkey=ve86k4hertixsed3ymp8d6l1g 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+
 
 #EXTINF:0 type="stream" group-title="HTV" tvg-id="htv2hd"  tvg-logo="https://i.ibb.co/6nmzXRT/cchtv2.webp",HTV2
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
