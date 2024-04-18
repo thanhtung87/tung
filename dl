@@ -532,11 +532,22 @@ https://coca.dl.dropboxusercontent.com/s/ywn9aqtjaleey0dju0sn5/ 																
 https://coca.dl.dropboxusercontent.com/s/258ukaecuvi9veg67seym/ 																																	 ㅤ?truesports3      										 													 &rlkey=1a9wlw7yn38pez6ivushrbeg8 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
+#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="truesports6" tvg-logo="https://i.ibb.co/VjbYNFz/cctruesport6.png",TRUE Sports 6
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/3z7pych9uj098ghfjhpe9/ 																																	 ㅤ?truesports6      										 													 &rlkey=xf8lsrgr9d2kq0r497d8san8z 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="truesportss7" tvg-logo="https://i.ibb.co/TWGK4C7/cctrue7.png",TRUE Sports 7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/vpmcolq07wdy9ws9s7dyz/ 																																	 ㅤ?truesports7      										 													 &rlkey=xb5y9s2nt3zt8p46ium4zjwvt 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+
 #EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="cctv5" tvg-logo="https://i.ibb.co/qxCDP87/cccctv5.webp",CCTV5
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://coca.dl.dropboxusercontent.com/s/oxnohce9kclgmsh4yeh9k/ 																																	 ㅤ?cctv5      										 													 &rlkey=thde9gpuln9bmt5vvt950qmp4 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-
+#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="cctv5plus" tvg-logo="https://i.ibb.co/BV7tvDd/cccctv5p.webp",CCTV5+
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/vfmbmg0revmfa8jciuiez/ 																																	 ㅤ?cctv5+      										 													 &rlkey=tatob0645y2rp3eoduyw0zdxa 
 
 #EXTINF:0 type="stream" group-title="🐣 Kids" tvg-id="pbskids" tvg-logo="https://i.ibb.co/r09Gfwy/cckidstv.png",Kids TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
