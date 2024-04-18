@@ -435,10 +435,7 @@ https://coca.dl.dropboxusercontent.com/s/cpgsap36mjuz5g3alipgm/																	
 #EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="happykids" tvg-logo="https://i.ibb.co/72jD6nC/Happy-Kids-cc.webp",Happy Kids
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/x08buwgjzg671u4w9zs7j/																																 ㅤ?happykids 								 												 &rlkey=qdv5fkevf7l758fu273f4s8y2|Referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="musicbox" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",Music Box
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://coca.dl.dropboxusercontent.com/s/ccaoar2sa7j77yfat3hqa/																																 ㅤ?boxmusic 								 												 &rlkey=tldonjjihp1dt5hzmrahgpj6b|Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+
 #EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="drfithd" tvg-logo="https://i.ibb.co/n0DZ21g/ccdrfit.webp",Dr. Fit
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/16yg9ec6hzma118rg2mjm/																																 ㅤ?drfit 								 												 &rlkey=gjveqalcyl4bioy87s25mr988|Referer=https://sctvonline.vn/ 
@@ -471,9 +468,18 @@ http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="Quốc tế" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/l6lmlqG.png",Rock Action
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="musicbox" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",Music Box
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/ccaoar2sa7j77yfat3hqa/																																 ㅤ?boxmusic 								 												 &rlkey=tldonjjihp1dt5hzmrahgpj6b|Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="mtv" tvg-logo="https://i.ibb.co/7QX16RW/1HDmusic.png",1HD Music
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#https://sc.id-tv.kz/1hd_36_37.m3u8 
 
-
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="mtv" tvg-logo="https://i.ibb.co/x7x3cH9/Clubbing-TV.png",Clubbing TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8 
 
 #EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/MSSKTB9/redbull.png",RedBull
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -516,3 +522,35 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 https://bkm.beetv.kz/btv/live/hls/000000333.m3u8
 #https://coca.dl.dropboxusercontent.com/s/2ccayp82uqk4ku2/ 																																 ㅤ?da-vinci 										 													 |Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+
+#EXTINF:0 type="stream" group-title="📰 News" tvg-id="cna" tvg-logo="https://i.ibb.co/k3hSRw4/cccna.png",CNA
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8 
+#https://oipf0znpmnliv.vcdn.cloud/hls/cna/index.m3u8
+#EXTINF:0 type="stream" group-title="📰 News" tvg-id="cnn" tvg-logo="https://i.ibb.co/bPfyxx2/cccnn.webp",CNN
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/zxcg9dlnqgphthqjtzjwd/ 																																  ㅤ?cnn 										 													 &rlkey=74bv9u2kkcfo7oe7hkzrb3lbd 
+
+#EXTINF:0 type="stream" group-title="📰 News" tvg-id="cnbc" tvg-logo="https://i.ibb.co/5xzxzHY/cccnbc.png",CNBC
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/ozyk2waz9h8dgyomlphxt/ 																																  ㅤ?cnbc 										 													 &rlkey=mxc0jzdccebfcm15962juibcs 
+
+#EXTINF:0 type="stream" group-title="📰 News" tvg-id="dw" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png",DW
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8 
+#https://oipf0znpmnliv.vcdn.cloud/hls/dw/index.m3u8
+
+#EXTINF:0 type="stream" group-title="📰 News" tvg-id="bloomberg" tvg-logo="https://i.ibb.co/XY4258P/ccbloomberg.png",Bloomberg
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/jitz4hveqxm9pfsgeyz4d/ 																																  ㅤ?bloomberg 										 													 &rlkey=xsgf4hl9xxmsq9n8kim18v49w
+
+#EXTINF:0 type="stream" group-title="📰 News" tvg-id="abcnews" tvg-logo="https://i.ibb.co/yRTh6nf/Australia.png",ABC News
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8 
+#EXTINF:0 type="stream" group-title="📰 News" tvg-id="trtworld" tvg-logo="https://i.ibb.co/zR6w8yn/cctrtworld-svg.png",TRT World
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+
+#EXTINF:0 type="stream" group-title="📰 News" tvg-id="oan" tvg-logo="https://i.ibb.co/f9thdzn/oan.webp",OAN
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8
