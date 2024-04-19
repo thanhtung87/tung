@@ -183,10 +183,7 @@ https://coca.dl.dropboxusercontent.com/s/f1adpmzxclche14/ 																						
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/dbbao3l4g5lixbx/ 																																		 ㅤ?vtv5 										 		 |Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="VTV" tvg-id="vtv5hdtn" tvg-logo="https://i.ibb.co/SffsRYs/ccvtv5tn.webp",VTV5 •TN
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://coca.dl.dropboxusercontent.com/s/x8952mvr7r6l15v/ 																																		 ㅤ?vtvtn 										 		 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+
 #EXTINF:0 type="stream" group-title="VTV" tvg-id="vtv5hdtnb" tvg-logo="https://i.ibb.co/tc1LK8t/vtv5tnb.png",VTV5 •TNB
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/ztuh55x09yybw40/ 																																		 ㅤ?vtvtnb 										 		 |Referer=https://sctvonline.vn/ 
@@ -533,11 +530,6 @@ https://coca.dl.dropboxusercontent.com/s/7s3eh9w2ovk2pdzm9xnsf/																	
 #EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/PTnQPdp/ccEdge.png",Edge Sport
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/TLCxCQY/ccracing.png",Racing
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
 #EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="truesports" tvg-logo="https://i.ibb.co/qmWSVsj/cctruesports1.webp",TRUE Sports 1
