@@ -330,7 +330,10 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews - TTX VN
-https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/03.m3u8 
+#https://coca.dl.dropboxusercontent.com/s/syxb4jtufkvjhu1hk980i/ 																															 ㅤ?vnews      										 													 &rlkey=j41wj4qwmctzblsmc1odr37ji 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="nhandan" group-title="Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/7zgsFIK.png",TH Nhân Dân
 https://arpt.tvic.vn/live/nhandan720/chunklist.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN — Quốc Phòng VN
