@@ -270,6 +270,8 @@ http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_108
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
 
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
+https://htvc271120.cdn.vnns.io/05bc5bd6cfd5e31c3bd49cff615493811714006356/htv1.720p.nimble.tms/playlist.m3u8
 #EXTINF:0 type="stream" group-title="HTV" tvg-id="htv2hd"  tvg-logo="https://i.ibb.co/6nmzXRT/cchtv2.webp",HTV2
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/zvvz2ue7oylapg3/ 																															 ㅤ?htv2 										 		 |Referer=https://sctvonline.vn/ 
