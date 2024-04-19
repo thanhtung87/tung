@@ -87,6 +87,16 @@ https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
 https://cloudstreamqh.tek4tv.vn/live/HN1_1080p.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",Hà Nội 2
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w453988425_b3128000_slen.m3u8
+
+#EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="hagiang" tvg-logo="https://i.ibb.co/2tJgRCq/cchagiang.webp",Hà Giang
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni 
+#EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="hatinh" tvg-logo="https://i.ibb.co/G7tnzWx/cchatinh.webp",Hà Tĩnh
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
+#EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="haiduong" tvg-logo="https://i.ibb.co/MZHbjxw/cchaiduong.webp",Hải Dương
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=medium&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="haiphong" tvg-logo="https://i.imgur.com/iq9JLb9.png" group-title="Kênh Địa phương",Hải Phòng
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/ui0sjEz.png",Hải Phòng+
@@ -120,8 +130,7 @@ http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
 http://vncdn.mediatech.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/ci6kzgL.png" group-title="Kênh Địa phương",Quảng Ninh 3
 http://vncdn.mediatech.vn/qtvlive/tv3live.m3u8
-#EXTINF:-1 tvg-id="quangtri" tvg-logo="https://i.imgur.com/xl4m2mn.png" group-title="Kênh Địa phương",Quảng Trị
-https://vncdn.mediatech.vn/qrtvlive/tv1live.m3u8
+
 #EXTINF:-1 tvg-id="soctrang" tvg-logo="https://i.imgur.com/VcDV4Bv.png" group-title="Kênh Địa phương",Sóc Trăng 1
 https://lms-vnetwork-vtv.swiftfederation.com/soctrangtv/soctrangtv-720p.m3u8
 
@@ -129,12 +138,21 @@ https://lms-vnetwork-vtv.swiftfederation.com/soctrangtv/soctrangtv-720p.m3u8
 https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 tvg-id="tayninh" tvg-logo="https://i.imgur.com/8rGiYuk.png" group-title="Kênh Địa phương",Tây Ninh
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
+
+#EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="hoabinh" tvg-logo="https://i.ibb.co/YbHHR7W/cchoabinh.webp",Hòa Bình
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://hbtvlive.3ssoft.vn/hoabinhtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="thaabinh" tvg-logo="https://i.imgur.com/gwOQBas.png" group-title="Kênh Địa phương",Thái Bình
 https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u8
 #EXTINF:-1 tvg-id="thainguyen" tvg-logo="https://i.imgur.com/Fse70QS.png" group-title="Kênh Địa phương",Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" tvg-logo="https://i.imgur.com/UwTCbZ5.png" group-title="Kênh Địa phương",Thanh Hóa
 http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg12.hni
+
+#EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="hue" tvg-logo="https://i.ibb.co/9yc6TL4/cchue.webp",Thừa Thiên Huế
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://live.trt.com.vn/TRT-Online/chunklist.m3u8 
+
 #EXTINF:-1 tvg-id="tiengiang" tvg-logo="https://i.imgur.com/UTSrapf.png" group-title="Kênh Địa phương",Tiền Giang
 http://123.25.238.45:1935/live/thtg/playlist.m3u8
 #EXTINF:-1 tvg-id="travinh" tvg-logo="https://i.imgur.com/IhAFIHH.png" group-title="Kênh Địa phương",Trà Vinh
@@ -145,22 +163,10 @@ https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w517483768.m3u8
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 tvg-id="yenbai" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/WKneY2w.png",Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
-#EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="hagiang" tvg-logo="https://i.ibb.co/2tJgRCq/cchagiang.webp",Hà Giang
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni 
-#EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="hatinh" tvg-logo="https://i.ibb.co/G7tnzWx/cchatinh.webp",Hà Tĩnh
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="haiduong" tvg-logo="https://i.ibb.co/MZHbjxw/cchaiduong.webp",Hải Dương
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=medium&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11.hni
 
-#EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="hoabinh" tvg-logo="https://i.ibb.co/YbHHR7W/cchoabinh.webp",Hòa Bình
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://hbtvlive.3ssoft.vn/hoabinhtv/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="hue" tvg-logo="https://i.ibb.co/9yc6TL4/cchue.webp",Thừa Thiên Huế
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://live.trt.com.vn/TRT-Online/chunklist.m3u8 
+
+
+
 
 
 #EXTINF:0 type="stream" group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/y8s34Vs/ccvtv1.webp",VTV1
