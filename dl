@@ -67,6 +67,9 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="dienbien" tvg-logo="https://i.ibb.co/wgGDnCV/ccdienbien-svg.png",Điện Biên
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni 
+
+#EXTINF:-1 tvg-id="dongnai1" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/oQyioVa.png",Đồng Nai 1
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="dongnai2" tvg-logo="https://i.ibb.co/0sm75cC/ccdongnai2.webp",Đồng Nai 2
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_b1384000.m3u8 
