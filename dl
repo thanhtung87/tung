@@ -585,22 +585,6 @@ https://bkm.beetv.kz/btv/live/hls/000000333.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8 
 #https://oipf0znpmnliv.vcdn.cloud/hls/cna/index.m3u8
-#EXTINF:0 type="stream" group-title="📰 News" tvg-id="cnn" tvg-logo="https://i.ibb.co/bPfyxx2/cccnn.webp",CNN
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/zxcg9dlnqgphthqjtzjwd/ 																																  ㅤ?cnn 										 													 &rlkey=74bv9u2kkcfo7oe7hkzrb3lbd 
-
-#EXTINF:0 type="stream" group-title="📰 News" tvg-id="cnbc" tvg-logo="https://i.ibb.co/5xzxzHY/cccnbc.png",CNBC
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/ozyk2waz9h8dgyomlphxt/ 																																  ㅤ?cnbc 										 													 &rlkey=mxc0jzdccebfcm15962juibcs 
-
-#EXTINF:0 type="stream" group-title="📰 News" tvg-id="dw" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png",DW
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8 
-#https://oipf0znpmnliv.vcdn.cloud/hls/dw/index.m3u8
-
-#EXTINF:0 type="stream" group-title="📰 News" tvg-id="bloomberg" tvg-logo="https://i.ibb.co/XY4258P/ccbloomberg.png",Bloomberg
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/jitz4hveqxm9pfsgeyz4d/ 																																  ㅤ?bloomberg 										 													 &rlkey=xsgf4hl9xxmsq9n8kim18v49w
 
 #EXTINF:0 type="stream" group-title="📰 News" tvg-id="abcnews" tvg-logo="https://i.ibb.co/yRTh6nf/Australia.png",ABC News
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
