@@ -436,33 +436,10 @@ https://coca.dl.dropboxusercontent.com/s/xir7w4yye3hpr9ignjr5u/																	
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc tế"tvg-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https:// i.imgur.com/odiBT9V.png",Animals planet asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 
-#EXTINF:0 type="stream" group-title="Quốc tế "tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX Movie¹
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://coca.dl.dropboxusercontent.com/s/9vu6o9ukcwacdefrvn578/																																 ㅤ?boxmovie1 								 												 &rlkey=bmru35pswmhyd3vnxjih47uh3|Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="hollywoodclassics" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",HLW Classics
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://coca.dl.dropboxusercontent.com/s/rxdoys0n7vq4vb9r98ody/																																 ㅤ?hollywoodclassics 								 												 &rlkey=9r8h2nmkv4hcrdaofxd6k6lsb|Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/YfRCdT8/Planet-Earth-cc.webp",Planet Earth
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://coca.dl.dropboxusercontent.com/s/cpgsap36mjuz5g3alipgm/																																 ㅤ?planetearth 								 												 &rlkey=ad515iwnrigxyq634emj5xncd|Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="happykids" tvg-logo="https://i.ibb.co/72jD6nC/Happy-Kids-cc.webp",Happy Kids
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://coca.dl.dropboxusercontent.com/s/x08buwgjzg671u4w9zs7j/																																 ㅤ?happykids 								 												 &rlkey=qdv5fkevf7l758fu273f4s8y2|Referer=https://sctvonline.vn/ 
 
-#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="drfithd" tvg-logo="https://i.ibb.co/n0DZ21g/ccdrfit.webp",Dr. Fit
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://coca.dl.dropboxusercontent.com/s/16yg9ec6hzma118rg2mjm/																																 ㅤ?drfit 								 												 &rlkey=gjveqalcyl4bioy87s25mr988|Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="woman" tvg-logo="https://i.ibb.co/MGcnhnG/Woman-cc.png",Woman
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://coca.dl.dropboxusercontent.com/s/5hdm9z8jahoit7npk1771/																																 ㅤ?woman 								 												 &rlkey=rvvdwxkf0v6uf6goqg73m3igu|Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+
 
 
 
@@ -487,10 +464,7 @@ http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="Quốc tế" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/l6lmlqG.png",Rock Action
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
-#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="musicbox" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",Music Box
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://coca.dl.dropboxusercontent.com/s/ccaoar2sa7j77yfat3hqa/																																 ㅤ?boxmusic 								 												 &rlkey=tldonjjihp1dt5hzmrahgpj6b|Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+
 
 #EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="mtv" tvg-logo="https://i.ibb.co/7QX16RW/1HDmusic.png",1HD Music
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -500,10 +474,7 @@ https://coca.dl.dropboxusercontent.com/s/ccaoar2sa7j77yfat3hqa/																	
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8 
 
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="wwe" tvg-logo="https://i.ibb.co/16XgK4q/ccwwe.png",WWE Network
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/o533qythlw4puohucfgcs/ 																																	 ㅤ?wwe      										 													 &rlkey=97nudefgkbqk5gese9er2eknk 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
+
 
 #EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/Lv7QW7j/ccFN.jpg",Fight Network
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -515,53 +486,17 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/Jpkxjv5/ccspotv.png",SPOTV
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/yfghg1o9w335m4a5zo249/																														 ㅤ?spotv 								 												 &rlkey=94nxbt8c2r1mmvaf3ew7ry2tc
-#https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/fQKFNXt/ccspo2.png",SPOTV2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/7s3eh9w2ovk2pdzm9xnsf/																														 ㅤ?spotv2 								 												 &rlkey=kwg41jk19cjmzd8egzqd9bwjx
-#https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+
+
 
 #EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/PTnQPdp/ccEdge.png",Edge Sport
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="truesports" tvg-logo="https://i.ibb.co/qmWSVsj/cctruesports1.webp",TRUE Sports 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/ejhib9kwy1gdjozhhu29x/ 																																	 ㅤ?truesports1      										 													 &rlkey=sy5u72xr011ysw2pfhsa6okv2 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="truesports2" tvg-logo="https://i.ibb.co/CbqCmLt/cctruesport2.webp",TRUE Sports 2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/ywn9aqtjaleey0dju0sn5/ 																																	 ㅤ?truesports2      										 													 &rlkey=pedgfgja7kzgtjkgcrqub6znj 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="truesports3" tvg-logo="https://i.ibb.co/ZT4b5Fn/cctruesport3.webp",TRUE Sports 3
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/258ukaecuvi9veg67seym/ 																																	 ㅤ?truesports3      										 													 &rlkey=1a9wlw7yn38pez6ivushrbeg8 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="truesports6" tvg-logo="https://i.ibb.co/VjbYNFz/cctruesport6.png",TRUE Sports 6
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/3z7pych9uj098ghfjhpe9/ 																																	 ㅤ?truesports6      										 													 &rlkey=xf8lsrgr9d2kq0r497d8san8z 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="truesportss7" tvg-logo="https://i.ibb.co/TWGK4C7/cctrue7.png",TRUE Sports 7
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/vpmcolq07wdy9ws9s7dyz/ 																																	 ㅤ?truesports7      										 													 &rlkey=xb5y9s2nt3zt8p46ium4zjwvt 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="cctv5" tvg-logo="https://i.ibb.co/qxCDP87/cccctv5.webp",CCTV5
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/oxnohce9kclgmsh4yeh9k/ 																																	 ㅤ?cctv5      										 													 &rlkey=thde9gpuln9bmt5vvt950qmp4 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-id="cctv5plus" tvg-logo="https://i.ibb.co/BV7tvDd/cccctv5p.webp",CCTV5+
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/vfmbmg0revmfa8jciuiez/ 																																	 ㅤ?cctv5+      										 													 &rlkey=tatob0645y2rp3eoduyw0zdxa 
+
 
 #EXTINF:0 type="stream" group-title="🐣 Kids" tvg-id="pbskids" tvg-logo="https://i.ibb.co/r09Gfwy/cckidstv.png",Kids TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
