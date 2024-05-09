@@ -28,6 +28,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/btv2/index.m3u8
 #EXTINF:-1 tvg-id="binhphuoc1" tvg-logo="https://i.imgur.com/sXQHPZM.png" group-title="Kênh Địa phương",Bình Phước 1
 http://vncdn.mediatech.vn/bptvlive/tv1live.m3u8
+
 #EXTINF:-1 tvg-id="hometvbptv2" tvg-logo="https://i.imgur.com/7WTixVS.png" group-title="Kênh Địa phương",Bình Phước 2
 https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
 #EXTINF:-1 tvg-id="binhthuan" tvg-logo="https://i.imgur.com/tW0pGBM.png" group-title="Kênh Địa phương",Bình Thuận
