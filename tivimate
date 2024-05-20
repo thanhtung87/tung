@@ -83,8 +83,8 @@ http://118.107.85.5:1935/radio/quangngai_aac/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/253.png",Quảng Ninh
 http://vncdn.mediatech.vn/qtvlive/qnr1.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="", Bình Định
-http://42.1.64.42/s4482
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/150.png", Khánh Hòa
+http://210.245.20.94/hls/radio.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://baobinhphuoc.com.vn/upload/files/logo/audio_poster.jpg",Bình Phước
 https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
