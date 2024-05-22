@@ -1,7 +1,10 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 
-
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1
+https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2
+https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 #EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="haugiang" tvg-logo="https://i.ibb.co/ZVsNkSs/cchaugiang.webp",Hậu Giang
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8 
