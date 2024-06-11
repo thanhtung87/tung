@@ -133,3 +133,70 @@ http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://seotrends.com.vn/wp-content/uploads/2023/05/Hinh-nen-anh-phat-dep-24.jpg",Phật Giáo
 https://stream.zeno.fm/8456uy0bcm0uv
+
+
+HDVietnam - Hơn cả đam mê
+Đăng nhập
+ Truyền hình HDTV
+[MyTV] Danh sách kênh không chính thức cho VLC cập nhật 28/12/2011
+ Bắt đầuexinesi  Ngày bắt đầu28/12/11
+NHVL
+New Member
+16/2/13
+#141
+Re: Ðề: [MyTV] Danh sách kênh không chính thức cho VLC cập nhật 28/12/2011
+
+Punto_keanz đã viết:
+Mình lắp mạng FPT mà xem không được :(
+
+Mạng FPT mà đòi xem IPTV của VNPT, vãi thật =))
+dtsexpert
+Active Member
+3/7/13
+#142
+Ðề: Re: [MyTV] Danh sách kênh không chính thức cho VLC cập nhật 28/12/2011
+
+Thảo Trần đã viết:
+mình xài saigontv thì xem được cả list kênh mytv lẫn digitv ( rtp , udp )
+đây là link FOX SPORT HD trên digitv
+udp://@239.1.1.177:5500
+Mình đang kiếm list mytv với digitv chung luôn, bác nào có share dùm 1 chút
+NHVL
+New Member
+10/7/13
+#143
+Chùm kênh HCTV và HTV trên MyTV
+#EXTINF:10,HTV2 HD
+rtp://@232.84.1.222:9306
+#EXTINF:10,HTV7 HD
+rtp://@232.84.1.223:9312
+#EXTINF:10,HTV9 HD
+rtp://@232.84.1.224:9318
+#EXTINF:10,HTV 1
+rtp://@232.84.1.35:8184
+#EXTINF:10,HTV 2
+rtp://@232.84.1.36:8190
+#EXTINF:10,HTV3
+rtp://@232.84.1.104:8598
+#EXTINF:10,HTV 4
+rtp://@232.84.1.25:8124
+#EXTINF:10,HTV 7
+rtp://@232.84.1.21:8100
+#EXTINF:10,HTV 9
+rtp://@232.84.1.31:8160
+#EXTINF:10,HTVC Ca Nhạc
+rtp://@232.84.1.126:8730
+#EXTINF:10,HTVC Du Lịch & Cuộc Sống
+rtp://@232.84.1.221:9300
+#EXTINF:10,HTVC Gia Đình
+rtp://@232.84.1.170:8994
+#EXTINF:10,HTVC Home Shopping
+rtp://@232.84.1.229:9348
+#EXTINF:10,HTVC Phim
+rtp://@232.84.1.105:8604
+#EXTINF:10,HTVC Phụ Nữ
+rtp://@232.84.1.127:8736
+#EXTINF:10,HTVC Thể Thao
+rtp://@232.84.1.24:8118
+#EXTINF:10,HTVC Thuần Việt
+rtp://@232.84.1.22:8106
