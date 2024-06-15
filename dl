@@ -160,28 +160,10 @@ https://live.tuyenquangtv.vn/hls/ttv.m3u8
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://vtc301220.cdn.vnns.io/VTV1HD.stream/playlist.m3u8
+
 #EXTINF:0 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://apps3.101vn.com/cl.php?id=3&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://apps3.101vn.com/cl.php?id=4&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://apps3.101vn.com/cl.php?id=5&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://apps3.101vn.com/cl.php?id=7&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-https://apps3.101vn.com/cl.php?id=163&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-https://apps3.101vn.com/cl.php?id=6&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-https://apps3.101vn.com/cl.php?id=27&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://apps3.101vn.com/cl.php?id=36&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://apps3.101vn.com/cl.php?id=39&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
+
 
 
 
@@ -237,17 +219,7 @@ https://coca.dl.dropboxusercontent.com/s/9hrxpvyp9v50xfu/ 																						
 https://coca.dl.dropboxusercontent.com/s/mvpcdcdy6yj3n22/ 																																 ㅤ?cab20 										 													 |Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:0  type="stream" group-title="⭕" tvg-id="hd" tvg-logo="https://i.ibb.co/Lx86J3b/ccVcine.png",V-cine
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/Cine360/playlist_1080p.m3u8
-#EXTINF:0  type="stream" group-title="⭕" tvg-id="hd" tvg-logo="https://i.ibb.co/rcRvvZj/cc-Vdongbao.png",V-đồng bào
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/vung-cao/playlist_1080p.m3u8
-#EXTINF:0  type="stream" group-title="⭕" tvg-id="hd" tvg-logo="https://i.ibb.co/C51z3SC/cuulong.png",tv360
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8 
-#https://coca.dl.dropboxusercontent.com/s/hf0wbs9ey0sij4xihcto7/ 																																															 ㅤ?tv360 										 														 &rlkey=ve86k4hertixsed3ymp8d6l1g 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+
 
 
 #EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
@@ -264,22 +236,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=256
 https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://vc.101vn.com/htv/htvcmb.php?id=31973
-#EXTINF:0 tvg-id="htvthethaohd" group-title="🇻🇳| HTV" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
-http://171.238.180.25:18080/304.m3u8
-#EXTINF:0 tvg-id="htvccanhachd" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
-https://1011154949.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
-https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
-https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="htvcphimhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
-https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
-https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
-https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="htvcplushd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
-https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
 https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc2hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
