@@ -1,7 +1,6 @@
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/GorB0bO.jpg",Nhạc Việt
 https://stream.zeno.fm/4q7y9hvkp2zuv
 
-http://media.kythuatvov.vn:7005/;stream/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/Ob8NgBF.jpg",Bolero
 https://multi-playlist-zmp3.zmdcdn.me/BtRvAOtW5jk/zhls/playback-realtime/e3b9f87ec43b2d65742a/index.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/pS3S4vW.jpg",Nhạc Vàng
@@ -66,7 +65,8 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8?cc
 
 #EXTINF:-1 group-title="📻| Radio" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth. me/logo/thumbs/239.png", VOV1
 http://media.kythuatvov.vn:7001/;stream/
-
+#EXTINF:-1 group-title="📻| Radio" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth. me/logo/thumbs/239.png", VOV3
+http://media.kythuatvov.vn:7005/;stream/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOVGT Mekong
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
 
