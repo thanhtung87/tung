@@ -9,7 +9,8 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8 
 
-#EXTINF:-1 tvg-id="dongthap" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="Kênh Địa phương",Đồng Tháp 1
+#EXTINF:-1 tvg-id="dongthap" tvg-logo="https://i.imgur.com/TqAz7ET.png"
+group-title="Kênh Địa phương",Đồng Tháp 1
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:0 type="stream"  tvg-id="mientay" tvg-logo="https://i.ibb.co/CVdMzC3/ccmientay.webp",Đồng Tháp 2
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
