@@ -218,9 +218,11 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV — An ninh TV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN — Truyền Hình Quốc Phòng Việt Nam
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN — Quốc Phòng Việt Nam
 https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 
+#EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/YtZGuSy.png",Truyền Hình Quốc Hội 
+https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/7zgsFIK.png",TH Nhân Dân
 https://arpt.tvic.vn/live/nhandan720/chunklist.m3u8
 
