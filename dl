@@ -77,8 +77,7 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_b1384000.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8 
 #https://live.hanamtv.vn/thhnlive/tv1live.m3u8 
-#EXTINF:-1 tvg-id="hanoi1" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/Je3K25E.png",Hà Nội 1
-https://cloudstreamqh.tek4tv.vn/live/HN1_1080p.m3u8
+
 #EXTINF:-1 tvg-id="hanoi2" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",Hà Nội 2
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w453988425_b3128000_slen.m3u8
 
