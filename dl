@@ -12,6 +12,8 @@ http://thvip.site/360/220/index.m3u8?thvl4
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd"  tvg-logo="https://i.imgur.com/MsHdGNZ.png" group-title="Kênh Địa phương",THVL2
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",Hậu Giang
+https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dongthap1"  tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/TH%C4%90T1_logo_2016-nay_b%E1%BA%A3n_3.png/revision/latest?cb=20231122220804&path-prefix=vi" group-title="Kênh Địa phương",Đồng Tháp 1
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
