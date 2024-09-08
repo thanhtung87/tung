@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-id="vinhlong1hd"  tvg-logo="https://i.imgur.com/pTVybK6.png" group-title="Kênh Địa phương",THVL1
+https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd"  tvg-logo="https://i.imgur.com/MsHdGNZ.png" group-title="Kênh Địa phương",THVL2
+https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 client-ip=103.199.33.188
 #-*--VTV--*-#
 
