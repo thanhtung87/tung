@@ -19,6 +19,10 @@ https://vnno-zn-8-tf-multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-rea
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.ibb.co/sWpmw6F/ko-loi.jpg",Nhạc Không Lời
 https://vnno-pt-6-tf-multi-playlist-zmp3.zmdcdn.me/4WEUr_3aq8I/zhls/playback-realtime/1f36d59ae9df008159ce/index.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/tieng-nuroc.png",Tiếng Nước Tôi
+https://cast4.servcast.net/proxy/longpham2/stream/1/
+
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/pt-thvl.png",Vĩnh Long
 https://202x.io.vn/online/vinhlong.php
 
@@ -43,15 +47,8 @@ http://sohoa.truyenthanhthongminh.vn/fmdongthap
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://quantri.travinhtv.vn/wp-content/uploads/2022/03/HINH-NEN-WEB-RADIO.jpg",Trà Vinh
 https://60acee235f4d5.streamlock.net/THTVR/travinhradio/playlist.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/soc-trang.png",Sóc Trăng
-https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamf.m3u8
-
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/THBT_RADIO_logo_new.png/revision/latest?cb=20220319152606&path-prefix=vi",Bến Tre
 http://sohoa.truyenthanhthongminh.vn/sohoabentre
-
-
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/tieng-nuroc.png",Tiếng Nước Tôi
-https://cast4.servcast.net/proxy/longpham2/stream/1/
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png",VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
