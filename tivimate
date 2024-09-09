@@ -77,15 +77,6 @@ https://202x.io.vn/online/vungtau.php
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://baobinhphuoc.com.vn/upload/files/logo/audio_poster.jpg",Bình Phước
 https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="http://qrt.vn/wp-content/themes/qtitv-child/images/bg-phat-thanh.png",Quảng Nam
-http://113.161.6.157:8085/phatthanh/QRT.m3u8
-
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/167.png",Quảng Ngãi
-http://118.107.85.5:1935/radio/quangngai_aac/chunklist.m3u8
-
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/05t6W7v.png",Bắc Giang
-http://live.mediatech.vn/live/28584e20827396945f5a4fd57fadd4be21a/chunklist.m3u8
-
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c5/%C4%90N-RTV.png",Đồng Nai
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8 
 
@@ -94,6 +85,19 @@ https://618b88f69e53b.streamlock.net/NTVR/ntvradio/chunklist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png",Bình Thuận
 https://64d0d74b76158.streamlock.net:443/BTVR/binhthuanradio/playlist.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="http://qrt.vn/wp-content/themes/qtitv-child/images/bg-phat-thanh.png",Quảng Nam
+http://113.161.6.157:8085/phatthanh/QRT.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/167.png",Quảng Ngãi
+http://118.107.85.5:1935/radio/quangngai_aac/chunklist.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/170.png",Quảng Trị
+http://quangtritv.vn/audios/audiovnpt2024.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/05t6W7v.png",Bắc Giang
+http://live.mediatech.vn/live/28584e20827396945f5a4fd57fadd4be21a/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://dug0nmhkbevod.vcdn.cloud/MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110831/110832_z3846211079342_aa59839f019726c4b788 c89d47e06ff5.jpg ", FM Hà Nội 90
 http://14.162.146.90:8000/HANOI90
