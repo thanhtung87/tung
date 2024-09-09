@@ -50,6 +50,9 @@ https://60acee235f4d5.streamlock.net/THTVR/travinhradio/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/THBT_RADIO_logo_new.png/revision/latest?cb=20220319152606&path-prefix=vi",Bến Tre
 http://sohoa.truyenthanhthongminh.vn/sohoabentre
 
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/soc-trang.png",Sóc Trăng
+https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamf.m3u8
+
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png",VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 
