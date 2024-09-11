@@ -67,7 +67,7 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8?cc
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8?cc
 
 
-#EXTINF:-1 group-title="📻| Radio" group-logo="https://play-lh.googleusercontent.com/zLznPGtwByzju41j3Eq-Xu2p7LfjQc0XwR8SBS1ajnW3epvuArHAQQMNm6zJgWi0iiY", VOV1
+#EXTINF:-1 group-title="📻| Radio" group-logo="https://play-lh.googleusercontent.com/zLznPGtwByzju41j3Eq-Xu2p7LfjQc0XwR8SBS1ajnW3epvuArHAQQMNm6zJgWi0iiY",VOV1
 http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 group-title="📻| Radio" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-hN3C6ATo9lr6CHzvyv7xCDIIbd9DTwixA&usqp=CAU", VOV3
 http://media.kythuatvov.vn:7005/;stream/
