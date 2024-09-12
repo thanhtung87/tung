@@ -233,16 +233,17 @@ https://vc.101vn.com/htv/htvcmb.php?id=2667
 https://vc.101vn.com/htv/htvcmb.php?id=31973
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
 http://thvip.site/360/195/index.m3u8?htvtt
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
 http://thvip.site/360/133/index.m3u8?dulich
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
 http://thvip.site/360/11/index.m3u8?giadinh
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
 http://thvip.site/360/12/index.m3u8?phunu
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
 http://thvip.site/360/13/index.m3u8?thuanviet
-#EXTINF:0 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
+#EXTINF:0 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 http://thvip.site/360/132/index.m3u8?htvcplus
+
 #EXTINF:0 tvg-id="vtv2hd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết yếu" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
