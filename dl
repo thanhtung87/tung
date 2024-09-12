@@ -372,45 +372,34 @@ https://coca.dl.dropboxusercontent.com/s/xir7w4yye3hpr9ignjr5u/																	
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc tế"tvg-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https:// i.imgur.com/odiBT9V.png",Animals planet asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/Lv7QW7j/ccFN.jpg",Fight Network
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-logo="https://i.ibb.co/Lv7QW7j/ccFN.jpg",Fight Network
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:0 type="stream" group-title="🥊 Sports" tvg-logo="https://i.ibb.co/MSSKTB9/redbull.png",RedBull
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-logo="https://i.ibb.co/MSSKTB9/redbull.png",RedBull
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
 
 
-#EXTINF:0 type="stream" group-title="🐣 Kids" tvg-id="pbskids" tvg-logo="https://i.ibb.co/r09Gfwy/cckidstv.png",Kids TV
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="pbskids" tvg-logo="https://i.ibb.co/r09Gfwy/cckidstv.png",Kids TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/8bdab347-30fe-4eea-a9bd-4b89b8ea462e/2.m3u8 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
-#EXTINF:0 type="stream" group-title="🐣 Kids" tvg-id="pbskids" tvg-logo="https://i.ibb.co/71h2JvS/ccpbskids.webp",PBS Kids
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="pbskids" tvg-logo="https://i.ibb.co/71h2JvS/ccpbskids.webp",PBS Kids
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
 
-
-#EXTINF:0 type="stream" group-title="🐣 Kids" tvg-id="davinci" tvg-logo="https://i.ibb.co/L8HbvdF/ccdavinci.webp",Da Vinci
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://bkm.beetv.kz/btv/live/hls/000000333.m3u8
-#https://coca.dl.dropboxusercontent.com/s/2ccayp82uqk4ku2/ 																																 ㅤ?da-vinci 										 													 |Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-
-#EXTINF:0 type="stream" group-title="📰 News" tvg-id="cna" tvg-logo="https://i.ibb.co/k3hSRw4/cccna.png",CNA
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="cna" tvg-logo="https://i.ibb.co/k3hSRw4/cccna.png",CNA
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8 
 #https://oipf0znpmnliv.vcdn.cloud/hls/cna/index.m3u8
 
-#EXTINF:0 type="stream" group-title="📰 News" tvg-id="abcnews" tvg-logo="https://i.ibb.co/yRTh6nf/Australia.png",ABC News
+#EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="abcnews" tvg-logo="https://i.ibb.co/yRTh6nf/Australia.png",ABC News
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-
-#EXTINF:0 type="stream" group-title="📰 News" tvg-id="oan" tvg-logo="https://i.ibb.co/f9thdzn/oan.webp",OAN
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8
