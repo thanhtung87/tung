@@ -497,3 +497,21 @@ https://64d0d74b76158.streamlock.net:443/BTVR/binhthuanradio/playlist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://qrt.vn/wp-content/themes/qtitv-child/images/bg-phat-thanh.png",Quảng Nam
 http://113.161.6.157:8085/phatthanh/QRT.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/167.png",Quảng Ngãi
+http://118.107.85.5:1935/radio/quangngai_aac/chunklist.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/170.png",Quảng Trị
+http://quangtritv.vn/audios/audiovnpt2024.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/05t6W7v.png",Bắc Giang
+http://live.mediatech.vn/live/28584e20827396945f5a4fd57fadd4be21a/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://marketingvietnam.com.vn/wp-content/uploads/2019/07/logo-raido-hn.jpg", FM Hà Nội 90
+http://14.162.146.90:8000/HANOI90
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMpyIHhH7c94FzjIeop0cTJsewC7rDiTkrVphXl1fCuQ&s", FM Hà Nội 96
+http://222.252.21.96:8000/HANOI96
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/140.png",Hà Nam
+https://cdn.hanamtv.vn/live/285ead66b13795f434bb2e4834a98cbf17b/playlist.m3u8
