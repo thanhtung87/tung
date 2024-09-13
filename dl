@@ -419,3 +419,20 @@ https://stream.zeno.fm/hvtxgd85rm0uv
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/ULBQOTG.jpeg",VPop
 https://vnno-zn-8-tf-multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/7NBitPR.jpeg",Nhạc DJ
+https://stream.zeno.fm/ehbutdfccm0uv
+
+
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/WoNK9km.jpeg",Nhạc Không Lời
+https://vnno-pt-6-tf-multi-playlist-zmp3.zmdcdn.me/4WEUr_3aq8I/zhls/playback-realtime/1f36d59ae9df008159ce/index.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/tieng-nuroc.png",Tiếng Nước Tôi (hải ngoại)
+https://cast4.servcast.net/proxy/longpham2/stream/1/
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/pt-thvl.png",Vĩnh Long
+https://202x.io.vn/online/vinhlong.php
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8Znbz4eb1Dw6wUlxrC--XRC6CRIZ5Mgqhg&s",An Giang
+http://42.1.64.42/490
