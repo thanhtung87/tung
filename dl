@@ -515,3 +515,22 @@ http://222.252.21.96:8000/HANOI96
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/140.png",Hà Nam
 https://cdn.hanamtv.vn/live/285ead66b13795f434bb2e4834a98cbf17b/playlist.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/139.png",Hà Giang
+http://113.162.84.113:8081/
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://media.thhp.vn/upload/channel/96d1dabfb11c66bffbad690f1ac083ae.jpg",Hải Phòng
+https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/111.png",Bắc Kạn
+http://14.224.167.97:8080/hls/radio.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://bacninhtv.vn/images/thumbs/0000003334_a.png", Bắc Ninh
+http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/155.png",Lâm Đồng
+http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
+
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://seotrends.com.vn/wp-content/uploads/2023/05/Hinh-nen-anh-phat-dep-24.jpg",Phật Giáo
+https://stream.zeno.fm/8456uy0bcm0uv
