@@ -403,3 +403,19 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="abcnews" tvg-logo="https://i.ibb.co/yRTh6nf/Australia.png",ABC News
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/GorB0bO.jpg",Nhạc Việt
+https://stream.zeno.fm/4q7y9hvkp2zuv
+
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/I7X3x2V.jpg",Nhạc Vàng
+https://stream.zeno.fm/x2z45v7d84zuv
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/pS3S4vW.jpg",Cải Lương
+https://stream.zeno.fm/0trm6wrnga0uv
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/VyIf497.jpeg",Nhạc Xuân
+https://stream.zeno.fm/hvtxgd85rm0uv
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/ULBQOTG.jpeg",VPop
+https://vnno-zn-8-tf-multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8
