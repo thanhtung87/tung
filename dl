@@ -59,10 +59,7 @@ https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_b3128000_slen
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8 
 
-#EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="vinhphuc" tvg-logo="https://i.ibb.co/9YtVjcy/ccvinhphuc.webp",Vĩnh Phúc
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist.m3u8 
- 
+
 #EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="dienbien" tvg-logo="https://i.ibb.co/wgGDnCV/ccdienbien-svg.png",Điện Biên
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni 
