@@ -51,6 +51,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/btv2/index.m3u8
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/sXQHPZM.png",Bình Phước 1
 http://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+
 #EXTINF:-1 tvg-id="hometvbptv2" tvg-logo="https://i.imgur.com/7WTixVS.png" group-title="Kênh Địa phương",Bình Phước 2
 https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
 #EXTINF:-1 tvg-id="binhthuan" tvg-logo="https://i.imgur.com/tW0pGBM.png" group-title="Kênh Địa phương",Bình Thuận
@@ -79,8 +80,6 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_b1384000.m3u8
 https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8 
 #https://live.hanamtv.vn/thhnlive/tv1live.m3u8 
 
-#EXTINF:-1 tvg-id="hanoi2" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",Hà Nội 2
-https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w453988425_b3128000_slen.m3u8
 
 #EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="hagiang" tvg-logo="https://i.ibb.co/2tJgRCq/cchagiang.webp",Hà Giang
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
