@@ -399,10 +399,6 @@ https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png",Man
 http://thvip.site/360/237/index.m3u8?mantv
-#EXTINF:0 type="stream" group-title="Quốc tế" tvg-logo="https://i.ibb.co/Lv7QW7j/ccFN.jpg",Fight Network
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
 #EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="pbskids" tvg-logo="https://i.ibb.co/r09Gfwy/cckidstv.png",Kids TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
