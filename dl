@@ -394,9 +394,6 @@ https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png",Man
 http://thvip.site/360/237/index.m3u8?mantv
 
-#EXTINF:-1 tvg-id="happykids" group-title="Quốc tế" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
-https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="pbskids" tvg-logo="https://i.ibb.co/r09Gfwy/cckidstv.png",Kids TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/8bdab347-30fe-4eea-a9bd-4b89b8ea462e/2.m3u8 
