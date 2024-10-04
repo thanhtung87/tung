@@ -54,9 +54,6 @@ http://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="binhthuan" tvg-logo="https://i.imgur.com/tW0pGBM.png" group-title="Kênh Địa phương",Bình Thuận
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="daknong" tvg-logo="https://i.imgur.com/pP17qVw.png" group-title="Kênh Địa phương",Đắk Nông
-https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_b3128000_sleng.m3u8
-
 #EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="caobang" tvg-logo="https://i.ibb.co/wWgP3xk/cccaobang.webp",Cao Bằng
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8 
