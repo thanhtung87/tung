@@ -34,8 +34,6 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/l8Ae26m.png",Bến Tre
 http://thvip.site/360/40/index.m3u8?bentre
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/Soe6MC8.png",Bình Dương
-https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
 
 #EXTINF:-1 tvg-id="bacgiang" tvg-logo="https://i.imgur.com/j9lbGel.png" group-title="Kênh Địa phương",Bắc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
