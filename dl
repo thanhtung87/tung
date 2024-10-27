@@ -29,8 +29,6 @@ https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://live.canthotv.vn/live/tv_web/chunklist.m3u8 
 
-#EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="Kênh Địa phương",An Giang
-https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/l8Ae26m.png",Bến Tre
 http://thvip.site/360/40/index.m3u8?bentre
