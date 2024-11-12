@@ -12,6 +12,13 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=219
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=220
+
+#EXTINF: -1 tvg-id = "binhduong6" group-title = "Kênh Địa phương" tvg-logo = "https://apigw.mytv.vn/api/v1/channel/static/channel/479.png?ver=6",Bình Dương 9 HD
+#EXTVLCOPT: http-user-agent = KhichTivi
+#EXTVLCOPT: http-user-agent = KhichTivi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://thvip.site/anvien/index.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 
