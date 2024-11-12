@@ -1,14 +1,17 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1
-http://thvip.site/360/25/index.m3u8?thvl1
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2
-http://thvip.site/360/26/index.m3u8?thvl2
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3
-http://thvip.site/360/219/index.m3u8?thvl3
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4
-http://thvip.site/360/220/index.m3u8?thvl4
-
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=25
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=26
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=219
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=220
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 
