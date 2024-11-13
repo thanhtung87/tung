@@ -3,6 +3,7 @@
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=25
+https://catchup.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE4ZDkwMmQ0LTAyZGItNDNlMi05MDMxLTE2NGY0MTgyM2ZmZSIsImV4cCI6MTczMTUxMDk0OCwidXJpIjoiL3JhZGlvIiwiaWF0IjoxNzMxNDg5MzQ4fQ.WaOFNIbBe40epyR4Cwqe84ZjqIBzK8HBdC9KiKoG0ko-/radio/chunks.m3u8
 #EXTINF:0 tvg-id="vinhlong2hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=26
