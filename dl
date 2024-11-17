@@ -1,4 +1,4 @@
-y#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
