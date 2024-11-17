@@ -218,8 +218,15 @@ https://coca.dl.dropboxusercontent.com/s/103g7991j3f9zdpukjsy8/																	
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/ykb1f51pffxhyyi6p4vrr/																														 ㅤ?sctv22 								 												 &rlkey=7v0iifn6tm81nvvhy9s61j2sr|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV"tvg-logo="https://i.ibb.co/Yj69Z4j/VTV1-logo-khichtivi.png",VTV1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (L
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_640_360.png",VTV2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/
+https://live.fptplay53.net//fnxch2/vtv2hd_abr.smil/chunklist_b3000000.m3u8.m3u8
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV"tvg-logo="https://i.ibb.co/Yj69Z4j/VTV1-logo-khichtivi.png",VTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (L
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8|Referer=http://sctvonline.vn/
