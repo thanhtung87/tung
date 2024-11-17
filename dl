@@ -170,10 +170,7 @@ https://coca.dl.dropboxusercontent.com/s/hykn6ri6oyydo9j7uzn79/																	
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
 #EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv9hd" tvg-logo="https://i.ibb.co/Vt8Kwdr/ccsctv9.webp",SCTV9
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://coca.dl.dropboxusercontent.com/s/t0in7cayh3dpyrhs2roy2/																														 ㅤ?sctv9 								 												 &rlkey=0o2kmtjl48lm3mofftqnsnpth|Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv10hd" tvg-logo="https://i.ibb.co/4sN9Rnm/ccsctv10.webp",SCTV10
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/pkfysf3z6x9t40lotxsp3/																														 ㅤ?sctv10 								 												 &rlkey=3j9dpg1rv9ym8h22lhs5e0wcw|Referer=https://sctvonline.vn/ 
