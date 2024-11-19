@@ -239,35 +239,7 @@ https://live.fptplay53.net//fnxch2/vtv4hd_abr.smil/chunklist_b3000000.m3u8.m3u8
 
 
 
-VTC
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
-http://thvip.site/360/16/index.m3u8?vtc1
-#EXTINF:-1 tvg-id="vtc2hd" group-title="VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
-http://thvip.site/360/196/index.m3u8?vtc2
-#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
-http://thvip.site/360/197/index.m3u8?vtc3
-#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
-http://thvip.site/360/198/index.m3u8?vtc4
-
-#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
-http://thvip.site/360/199/index.m3u8?vtc5
-#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
-http://thvip.site/360/200/index.m3u8?vtc6
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
-http://thvip.site/360/201/index.m3u8?vtc7
-#EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
-http://thvip.site/360/202/index.m3u8?vtc8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9
-http://thvip.site/360/203/index.m3u8?vtc9
-#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10
-http://thvip.site/360/204/index.m3u8?vtc10
-#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
-http://thvip.site/360/205/index.m3u8?vtc11
-#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14
-http://thvip.site/360/17/index.m3u8?vtc14
-#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16
-http://thvip.site/360/18/index.m3u8?vtc16
 
 #EXTINF:0 type="stream" group-title="VTVcab" tvg-id="vtvcab1hd"  tvg-logo="https://i.ibb.co/16NbdbF/cccab1.webp",ON Vie Giải trí
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
