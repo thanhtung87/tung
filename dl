@@ -246,7 +246,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8|Referer=http://sctvonl
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv6/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV"tvg-logo="https://i.ibb.co/NNXFYRh/vtv7-hd-khichtv.png",VTV7
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png",VTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://bom.so/khichtivi-live-VTV7_index-m3u8|Referer=http://sctvonline.vn/
