@@ -10,11 +10,14 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8|Referer=http://sctvon
 https://e8.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vinhlong3hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/B8S0dyG.png",Vĩnh Long 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=219
+https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/xYalJzh.png", Vĩnh Long 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=220
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",Hậu Giang
@@ -122,19 +125,10 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="yenbai" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/WKneY2w.png",Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://i.imgur.com/RYzjU7I.jpg",Vĩnh Long 1
-#EXTVLCOPT:http-user-agent=khichtivi
 
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://i.imgur.com/8MxUNWR.jpg",Vĩnh Long 2
 
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://i.imgur.com/jH0nW25.jpg",Vĩnh Long 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://i.imgur.com/9IldS0L.jpg",Vĩnh Long 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+
+
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 https://vc.101vn.com/htv/htvcmb.php?id=2631
