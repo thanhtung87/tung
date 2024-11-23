@@ -109,9 +109,6 @@ https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
 #EXTINF:-1 tvg-id="quangnam" tvg-logo="https://i.imgur.com/oxOSXWv.png" group-title="Kênh Địa phương",Quảng Nam
 https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-id="quangngai" tvg-logo="https://i.imgur.com/FTyvVYO.png" group-title="Kênh Địa phương",Quảng Ngãi
-http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="sonla" tvg-logo="https://i.imgur.com/xjkm6Zg.png" group-title="Kênh Địa phương",Sơn La
 https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 
