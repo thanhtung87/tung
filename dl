@@ -341,10 +341,12 @@ https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
 https://arpt.tvic.vn/live/nhandan720/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="hbo" group-title="Quốc tế"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" tvg-logo="https:// i.imgur.com/odiBT9V.png",HBO
+#EXTINF:-1 tvg-id="hbo" group-title="Quốc tế"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png",HBO
 http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="animalhd" group-title="Quốc tế"tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" tvg-logo="https:// i.imgur.com/odiBT9V.png",Animals planet asia
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc tế"
+tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.jpg",Animals planet asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 
 
