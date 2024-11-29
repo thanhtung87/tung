@@ -398,6 +398,9 @@ https://stream.zeno.fm/ehbutdfccm0uv
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/WoNK9km.jpeg",Nhạc Không Lời
 https://vnno-pt-6-tf-multi-playlist-zmp3.zmdcdn.me/4WEUr_3aq8I/zhls/playback-realtime/1f36d59ae9df008159ce/index.m3u8
 
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://seotrends.com.vn/wp-content/uploads/2023/05/Hinh-nen-anh-phat-dep-24.jpg",Phật Giáo
+https://stream.zeno.fm/8456uy0bcm0uv
+
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/tieng-nuroc.png",Tiếng Nước Tôi (hải ngoại)
 https://cast4.servcast.net/proxy/longpham2/stream/1/
 
@@ -501,5 +504,4 @@ http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://seotrends.com.vn/wp-content/uploads/2023/05/Hinh-nen-anh-phat-dep-24.jpg",Phật Giáo
-https://stream.zeno.fm/8456uy0bcm0uv
+
