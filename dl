@@ -47,7 +47,8 @@ https://live.canthotv.vn/live/tv_web/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/l8Ae26m.png",Bến Tre
 #EXTVLCOPT: http-user-agent = KhichTivi
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=40
-
+#EXTINF:0 tvg-id="baclieu" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/FoAzh3R.png",Bạc Liêu
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.61/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="bacninh" tvg-logo="https://i.imgur.com/sPyR9t6.png" group-title="Kênh Địa phương",Bắc Ninh
 http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1055472684_b1384000.m3u8
 #EXTINF:-1 tvg-id="backan" tvg-logo="https://i.imgur.com/6HQeLRw.png" group-title="Kênh Địa phương",Bắc Kạn
@@ -118,8 +119,6 @@ https://hbtvlive.3ssoft.vn/hoabinhtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="thaabinh" tvg-logo="https://i.imgur.com/gwOQBas.png" group-title="Kênh Địa phương",Thái Bình
 https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="thainguyen" tvg-logo="https://i.imgur.com/Fse70QS.png" group-title="Kênh Địa phương",Thái Nguyên
-https://streaming.thainguyentv.vn/hls/livestream.m3u8
 
 
 #EXTINF:-1 tvg-id="yenbai" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/WKneY2w.png",Yên Bái
