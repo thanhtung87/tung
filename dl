@@ -346,8 +346,22 @@ http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" group-title="Quốc tế" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg", Animals Planet
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-
-
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.231/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="animaxhd" group-title="Quốc tế"
+tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.135/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="afnhd" group-title="Quốc tế"
+tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.198/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="axnhd" group-title="Quốc tế"
+tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.225/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.134/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="bbcearth" group-title="Quốc tế" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.24/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc tế" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.52/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="drfithd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
 https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
 
