@@ -329,21 +329,21 @@ https://stream1.freetv.fun/vtc1-2.m3u8
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV — An ninh TV
+#EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/QztqOe0.png",An ninh TV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN — Quốc Phòng Việt Nam
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",Quốc Phòng Việt Nam
 https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 
-#EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/YtZGuSy.png",Truyền Hình Quốc Hội 
+#EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/YtZGuSy.png",TH Quốc Hội 
 https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/7zgsFIK.png",TH Nhân Dân
 https://arpt.tvic.vn/live/nhandan720/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="hbo" group-title="Quốc tế" tvg-logo="https://w7.pngwing.com/pngs/973/890/png-transparent-hbo-television-cinemax-film-warner-one-television-text-logo-thumbnail.png",HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://w7.pngwing.com/pngs/973/890/png-transparent-hbo-television-cinemax-film-warner-one-television-text-logo-thumbnail.png",HBO
 http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="drfithd" group-title="Quốc tế" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg", Animals Planet
+#EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg", Animal Planet
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.231/test/123/playlist.mpegts
 #EXTINF:0 tvg-id="animaxhd" group-title="Quốc tế"
 tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
