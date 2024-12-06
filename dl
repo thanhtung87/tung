@@ -340,7 +340,7 @@ https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
 https://arpt.tvic.vn/live/nhandan720/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="drfithd" group-title="Quốc tế" tvg-logo="https://w7.pngwing.com/pngs/973/890/png-transparent-hbo-television-cinemax-film-warner-one-television-text-logo-thumbnail.png",HBO
+#EXTINF:-1 tvg-id="hbo" group-title="Quốc tế" tvg-logo="https://w7.pngwing.com/pngs/973/890/png-transparent-hbo-television-cinemax-film-warner-one-television-text-logo-thumbnail.png",HBO
 http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" group-title="Quốc tế" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg", Animals Planet
