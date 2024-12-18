@@ -266,6 +266,50 @@ https://bom.so/khichtv-vtv8-hd?/index.m3u8|Referer=http://sctvonline.vn/
 https://bom.so/khichtv-live-vtv9-hd?/index.m3u8?|Referer=http://sctvonline.vn/
 
 
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_VTC1HD.png",VTC1
+https://stream1.freetv.fun/vtc1-2.m3u8
+
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vtc/vtc2.png",VTC2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/vstv522/xemden29012025/vtc2/index.m3u8
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vtc/vtc3.png",VTC3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/vstv522/xemden29012025/vtc3/index.m3u8
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vtc/vtc4.png",VTC4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/vstv522/xemden29012025/vtc4/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vtc/vtc5.png",VTC5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/vstv522/xemden29012025/vtc5/index.m3u8
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vtc/vtc6.png",VTC6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/vstv522/xemden29012025/vtc6/index.m3u8
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vtc/vtc7.png",VTC7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/vstv522/xemden29012025/vtc7/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vtc/vtc8.png",VTC8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/vstv522/xemden29012025/vtc8/index.m3u8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vtc/vtc9.png",VTC9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/vstv522/xemden29012025/vtc9/index.m3u8
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vtc/vtc10.png",VTC10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/vstv522/xemden29012025/vtc10/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vtc/vtc11.png",VTC11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/vstv522/xemden29012025/vtc11/index.m3u8
+#EXTINF:-1 tvg-id="vtc14" group-title="VTC" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vtc/vtc14.png",VTC14
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/vstv522/xemden29012025/vtc14/index.m3u8
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vtc/vtc16.png",VTC16
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott1.sgchill.io.vn/vstv522/xemden29012025/vtc16/index.m3u8
+
+
 #EXTINF:0 type="stream" group-title="VTVcab" tvg-id="vtvcab1hd"  tvg-logo="https://i.ibb.co/16NbdbF/cccab1.webp",ON Vie Giải trí
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/xpui148aitwka7s/ 																																 ㅤ?cab1 										 													 |Referer=https://sctvonline.vn/ 
@@ -319,8 +363,6 @@ https://coca.dl.dropboxusercontent.com/s/mvpcdcdy6yj3n22/ 																						
 
 
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="Thiết yếu" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_VTC1HD.png",VTC1
-https://stream1.freetv.fun/vtc1-2.m3u8
 
 #EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết yếu" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
