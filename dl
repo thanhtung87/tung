@@ -456,9 +456,6 @@ http://sohoa.truyenthanhthongminh.vn/fmdongthap
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://quantri.travinhtv.vn/wp-content/uploads/2022/03/HINH-NEN-WEB-RADIO.jpg",Trà Vinh
 https://60acee235f4d5.streamlock.net/THTVR/travinhradio/playlist.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/THBT_RADIO_logo_new.png/revision/latest?cb=20220319152606&path-prefix=vi",Bến Tre
-https://202x.io.vn/online/bentre.php
-
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png",VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 
