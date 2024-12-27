@@ -2,8 +2,7 @@
 
 
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gvPtTR2.png",Vĩnh Long 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=25
+https://tv.TruyenHinh.Click/CoBan/htvl1/TuyetDoiKhongKinhDoanh
 
 #EXTINF:0 tvg-id="vinhlong2hd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/wYadDFn.png",Vĩnh Long 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
