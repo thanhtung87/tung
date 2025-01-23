@@ -163,9 +163,8 @@ https://coca.dl.dropboxusercontent.com/s/km7cjwxjwjzkyh5mnx62u/																	
 https://coca.dl.dropboxusercontent.com/s/wrofz1q0zj1j982zag110/																														 ㅤ?sctv5 								 												 &rlkey=568xsie0eimg483uy8uk2s9w7|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv6hd" tvg-logo="https://i.ibb.co/3NRzyxG/ccsctv6.webp",SCTV6
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://coca.dl.dropboxusercontent.com/s/o5fl3l5bma92ihbpfl0d5/																														 ㅤ?sctv6 								 												 &rlkey=stxiemsybum7uertd5gf2vdpl|Referer=https://sctvonline.vn/ 
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" group-title="SCTV" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/k9Jzkbw/ccsctv7.webp",SCTV7
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
 https://coca.dl.dropboxusercontent.com/s/6b8pqko3qwp0x3h3niidc/																														 ㅤ?sctv7 								 												 &rlkey=0wp9xwbuyc7uwn8nx6m73bx0p|Referer=https://sctvonline.vn/ 
