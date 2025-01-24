@@ -111,9 +111,7 @@ https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="sonla" tvg-logo="https://i.imgur.com/xjkm6Zg.png" group-title="Kênh Địa phương",Sơn La
 https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 
-#EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="hoabinh" tvg-logo="https://i.ibb.co/YbHHR7W/cchoabinh.webp",Hòa Bình
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://hbtvlive.3ssoft.vn/hoabinhtv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="thaabinh" tvg-logo="https://i.imgur.com/gwOQBas.png" group-title="Kênh Địa phương",Thái Bình
 https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u8
 
