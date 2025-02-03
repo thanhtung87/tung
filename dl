@@ -266,7 +266,8 @@ https://coca.dl.dropboxusercontent.com/s/mvpcdcdy6yj3n22/ 																						
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
 
-
+#EXTINF:-1 tvg-id="HiTV" group-title="VTV" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/185.HiTV/KenhCoBan",HiTV
+https://tv.TruyenHinh.Click/CoBan/185.HiTV/TuyetDoiKhongKinhDoanh
 
 
 
