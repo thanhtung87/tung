@@ -31,6 +31,10 @@ https://cdn.netxua.cf/1739587901/radio_live/vinhlongradio/index.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8Znbz4eb1Dw6wUlxrC--XRC6CRIZ5Mgqhg&s",An Giang
 http://42.1.64.42/490
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/THBT_RADIO_logo_new.png/revision/latest?cb=20220319152606&path-prefix=vi",Bến Tre
+#EXTVLCOPT:http-user-agent=ZalTV
+https://cdn.netxua.cf/1739587901/radio_live/bentreradio/index.m3u8
+#http://sohoa.huuvinh.cf/sohoabentre
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/Logo_THTPCT_FM_97%2C3MHz_m%E1%BB%9Bi.png/revision/latest?cb=20230626054650&path-prefix=vi",Cần Thơ
 http://sohoa.truyenthanhthongminh.vn/tpcantho
@@ -50,8 +54,6 @@ http://sohoa.truyenthanhthongminh.vn/fmdongthap
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://quantri.travinhtv.vn/wp-content/uploads/2022/03/HINH-NEN-WEB-RADIO.jpg",Trà Vinh
 https://60acee235f4d5.streamlock.net/THTVR/travinhradio/playlist.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/THBT_RADIO_logo_new.png/revision/latest?cb=20220319152606&path-prefix=vi",Bến Tre
-https://202x.io.vn/online/bentre.php
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png",VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
