@@ -51,12 +51,13 @@ https://cdn.la34.com.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/FM96_2.jpg",Tiền Giang
 http://123.25.238.45:1935/live/radio/chunklist.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/Truy%E1%BB%81n_h%C3%ACnh_%C4%90%E1%BB%93ng_Th%C3%A1p_logo_new.jpg/revision/latest?cb=20220329004220&path-prefix=vi",Đồng Tháp
-http://sohoa.truyenthanhthongminh.vn/fmdongthap
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://quantri.travinhtv.vn/wp-content/uploads/2022/03/HINH-NEN-WEB-RADIO.jpg",Trà Vinh
 https://60acee235f4d5.streamlock.net/THTVR/travinhradio/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://img.zaltv.gq/logo/mobi-radio.gif" group-title="📻|  Radio",Tây Ninh FM 103.1 MHz
+#EXTVLCOPT:http-user-agent=ZalTV
+#https://cdn.netxua.cf/1739587901/radio_live/tayninhradio/index.m3u8
+http://smatec.com.vn:1724/DaiTayNinh
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png",VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
