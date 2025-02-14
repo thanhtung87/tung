@@ -221,6 +221,9 @@ https://coca.dl.dropboxusercontent.com/s/103g7991j3f9zdpukjsy8/																	
 https://coca.dl.dropboxusercontent.com/s/ykb1f51pffxhyyi6p4vrr/																														 ㅤ?sctv22 								 												 &rlkey=7v0iifn6tm81nvvhy9s61j2sr|Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 
+#EXTINF:-1 tvg-id="kkidshd" group-title="SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+ KIDS
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_VTV1_HD.png/640px-Logo_VTV1_HD.png",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_640_360.png",VTV2
