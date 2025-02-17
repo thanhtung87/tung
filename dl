@@ -282,6 +282,15 @@ https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="hollywoodclassichd" group-title="Quốc tế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/hollywoodclassichd/KenhCoBan",Hollywood Classic HD
 https://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh
 
+#EXTINF:-1 tvg-id="inthebox" group-title="Quốc tế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/inthebox/KenhCoBan",In The Box
+https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="womanhd" group-title="Quốc tế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/womanhd/KenhCoBan",Woman
+https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="man" group-title="Quốc tế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/man/KenhCoBan",Man
+https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="happykidshd" group-title="Quốc tế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/happykidshd/KenhCoBan",Happy Kids
+https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
 #EXTINF:0 type="stream" group-title="Quốc tế" tvg-id="pbskids" tvg-logo="https://i.ibb.co/71h2JvS/ccpbskids.webp",PBS Kids
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
