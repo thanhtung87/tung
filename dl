@@ -19,11 +19,7 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="antvhd" group-title="Kênh Địa phương" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/QztqOe0.png",An ninh TV
-https://tv.TruyenHinh.Click/CoBan/antvhd/TuyetDoiKhongKinhDoanh
- 
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/UIGZw0y.png",Quốc Phòng VN
-https://tv.TruyenHinh.Click/CoBan/qpvnhd/TuyetDoiKhongKinhDoanh
+
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 
