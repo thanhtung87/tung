@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-
+#EXTINF:-1 group-title="VIỆT NAM",KIEN GIANG FM (FM99.4MHz)
+http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8
+#EXTINF:-1 group-title="VIỆT NAM",BAC LIEU FM (FM93.8MHz)
+https://tv.thbl.vn/live/radio/radio.m3u8
+#EXTINF:-1 group-title="VIỆT NAM",CA MAU FM (FM94.6MHz)
+http://tv.ctvcamau.vn/live/radio/radio.m3u8
 
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="Kênh Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_thvl1_2016-nay.png",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
