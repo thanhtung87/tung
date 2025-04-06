@@ -40,10 +40,7 @@ https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Kênh Địa phương" tvg-id="cantho" tvg-logo="https://i.ibb.co/7tG6M3v/cccantho.png",Cần Thơ
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://live.canthotv.vn/live/tv_web/chunklist.m3u8 
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/GeOj5K5.png",Kiên Giang 
-https://tv.kgtv.vn/live/kgtv/kgtv.m3u8 
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/TUUW6qB.png",Kiên Giang 1
-http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+
 #EXTINF:-1 group-title=" Kênh Địa phương" tvg-logo="https://i.imgur.com/Soe6MC8.png",Bình Dương 1
 https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8 
 #EXTINF:-1 group-title=" Kênh Địa phương" tvg-logo="https://i.imgur.com/pEaPECX.png",Bình Dương 2
