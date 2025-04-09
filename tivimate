@@ -98,6 +98,9 @@ http://113.161.6.157:8085/phatthanh/QRT.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/167.png",Quảng Ngãi
 http://118.107.85.5:1935/radio/quangngai_aac/chunklist.m3u8
 
+#EXTINF:-1 group-title="📻| Radio",Bình Định
+http://14.224.130.186:8000/binhdinh
+
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/05t6W7v.png",Bắc Giang
 http://live.mediatech.vn/live/28584e20827396945f5a4fd57fadd4be21a/chunklist.m3u8
 
