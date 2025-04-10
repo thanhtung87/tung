@@ -95,8 +95,10 @@ https://64d0d74b76158.streamlock.net:443/BTVR/binhthuanradio/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://qrt.vn/wp-content/themes/qtitv-child/images/bg-phat-thanh.png",Quảng Nam
 http://113.161.6.157:8085/phatthanh/QRT.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/167.png",Quảng Ngãi
-http://118.107.85.5:1935/radio/quangngai_aac/chunklist.m3u8
+#EXTINF:-1 group-title="📻| Radio",Quảng Ninh 1
+https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
+#EXTINF:-1 group-title="📻| Radio"https://live.baoquangninh.vn/qtvlive/qnr2.m3u8,Quảng Ninh 2
+https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
 
 #EXTINF:-1 group-title="📻| Radio",Bình Định
 http://14.224.130.186:8000/binhdinh
@@ -119,12 +121,8 @@ http://113.162.84.113:8081/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://media.thhp.vn/upload/channel/96d1dabfb11c66bffbad690f1ac083ae.jpg",Hải Phòng
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
 
-
-
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://bacninhtv.vn/images/thumbs/0000003334_a.png", Bắc Ninh
 http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/155.png",Lâm Đồng
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
-
-
