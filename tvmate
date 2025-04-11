@@ -73,18 +73,20 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1  tvg-id="vtvctt2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg/1200px-Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=212&time=${start}&offset=${duration}",VTV Cần Thơ
-http://p1.cvtv.xyz/vtvct?token=live
-
-#EXTINF:0 tvg-id="vtv7hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png",VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv7hd"  tvg-logo="https://i.ytimg.com/vi/hWt5JN_B66Y/maxresdefault.jpg" Catchup="default" Catchup-days="2" Catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}, VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv8hd"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8
+#EXTINF:-1 tvg-id="vtv8hd"  tvg-logo="https://i.ytimg.com/vi/UlvAQNOuZwo/hq720.jpg" Catchup="default" Catchup-days="2" Catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=380&time=${start}&offset=${duration}, VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv9hd"  tvg-logo="https://i.ytimg.com/vi/APl10jiVAlQ/maxresdefault.jpg" Catchup="default" Catchup-days="2" Catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}", VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv9hd"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/9e/VTV9_HD.png",VTV9
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://bom.so/khichtv-live-vtv9-hd?/index.m3u8?|Referer=http://sctvonline.vn/
+
+
 
 #EXTINF:-1 tvg-id="htv1"  group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 https://vc.101vn.com/htv/htvcmb.php?id=2631
