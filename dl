@@ -33,7 +33,8 @@ https://1011154949.vnns.net/CDN-FPT02/BENTRE-SD-ABR/playlist.m3u8
 https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dongthap1"  tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/TH%C4%90T1_logo_2016-nay_b%E1%BA%A3n_3.png/revision/latest?cb=20231122220804&path-prefix=vi" ,Đồng Tháp 1
-https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/PfETBEp.png",Đồng Tháp 2
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
