@@ -117,7 +117,10 @@ https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="ON Life"  tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/ON_Life.png/revision/latest/scale-to-width-down/1200?cb=20221211044714&path-prefix=vi",ON Life https://sctv.locket.website/box.m3u8?protected=cCXBghfoFEl1tbaPwMU2TuRm88GAy%2FG2gtg6FixbpV5MfVcEiGEdXDdPI1IYIWIumrVH4c2DBLCbdMMuW4fKmw%3D%3D&channel=onlife 
+
+#EXTINF:-1 tvg-id="onlife" tvg-logo="https://w7.pngwing.com/pngs/973/890/png-transparent-hbo-television-cinemax-film-warner-one-television-text-logo-thumbnail.png",On Life
+https://sctv.locket.website/box.m3u8?protected=cCXBghfoFEl1tbaPwMU2TuRm88GAy%2FG2gtg6FixbpV5MfVcEiGEdXDdPI1IYIWIumrVH4c2DBLCbdMMuW4fKmw%3D%3D&channel=onlife
+
 
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6
 #EXTVLCOPT:http-user-agent=VThanhTivi
