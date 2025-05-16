@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
-#EXTINF:0 tvg-id="SCTV1"   tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/1_cc823220.jpg",SCTV1 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) https://sctv.locket.website/sctvonline.m3u8?protected=TSXDmLMjdv7KdXX%2BGP8dwv6fpnb219q9nkDjn6g2oi2w3B3x%2Fv5Iego8S4LBFghCZkl%2BeIXTSqDp%2FNm5Z2wjhQ%3D%3D&channel=sctv1&tvfree=true 
+
 #EXTINF:0 tvg-id="vinhlong1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_thvl1_2016-nay.png",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzch2/vinhlong1_vhls.smil/chunklist_b1000000.m3u8
@@ -119,6 +119,10 @@ https://vc.101vn.com/htv/htvcmb.php?id=2528
 https://vc.101vn.com/htv/htvcmb.php?id=256
 #EXTINF:-1 tvg-id="htv9hd"  tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 https://vc.101vn.com/htv/htvcmb.php?id=2667
+
+#EXTINF:-1 tvg-id="htvthethaohd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}", HTV Thể Thao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://p1.cvtv.xyz/htvtt?token=live
 
 #EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_640_360.png" Catchup="append" Catchup-days="2" Catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-du-lich-cuoc-song/${start}/${offset}", Du lịch Cuộc sống
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
