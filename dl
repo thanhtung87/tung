@@ -1,5 +1,12 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 - Today TV
+https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg", SCTV3 - XEM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
 
 #EXTINF:0 tvg-id="vinhlong1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_thvl1_2016-nay.png",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
