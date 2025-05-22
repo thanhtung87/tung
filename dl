@@ -78,8 +78,7 @@ https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/
 https://live.fptplay53.net//fnxch2/vtv2hd_abr.smil/chunklist_b3000000.m3u8.m3u8
 #EXTINF:0 tvg-id="vtv3hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822363854/4e5e7832df14_640_360.png",VTV3
-http://p1.cvtv.xyz/vtv3?token=live
-
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtv4hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_640_360.png",VTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Khichtivi) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
