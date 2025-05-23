@@ -84,7 +84,9 @@ https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net//fnxch2/vtv4hd_abr.smil/chunklist_b3000000.m3u8.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_640_360.png",VTV5
-http://p1.cvtv.xyz/vtv5?token=live
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
+
 #EXTINF:-1 tvg-id="vtv5hdtnb"  tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn"  tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
