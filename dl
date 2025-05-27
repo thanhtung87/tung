@@ -154,9 +154,7 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_Chosun_Logo_%28English%29.svg/1280px-TV_Chosun_Logo_%28English%29.svg.png", TV Chosun
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.bntnews.co.kr/data/bnt/image/201811/ab30063c0cd3b45d2fec9cd829c428e5.jpg", TV Chosun 2
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png", TVN
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
