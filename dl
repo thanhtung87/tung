@@ -65,9 +65,9 @@ https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/WEMfHas.png",Bà Rịa Vũng Tàu
 https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/EdXvjrH.png",DaNangTV1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/EdXvjrH.png",Đà Nẵng TV1
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6SujuqZ.png",DaNangTV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6SujuqZ.png",Đà Nẵng TV2
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_VTV1_HD.png/640px-Logo_VTV1_HD.png",VTV1
