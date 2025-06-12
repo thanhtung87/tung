@@ -41,8 +41,6 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/PfETBEp.png",Đồng Tháp 2
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tiengiang"  tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294006586/8a758247ea33_640_360.png",Tiền Giang
-https://sgchill.io.vn/360/90/index.m3u8
 
 #EXTINF:-1 tvg-id="travinh" tvg-logo="https://i.imgur.com/IhAFIHH.png" ,Trà Vinh
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
