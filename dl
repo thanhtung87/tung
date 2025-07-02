@@ -27,12 +27,8 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.TruyenHinh.Click/CoBan/150/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 2
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l8Ae26m.png",Bến Tre
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/CoBan/128/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="dongthap1"  tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/TH%C4%90T1_logo_2016-nay_b%E1%BA%A3n_3.png/revision/latest?cb=20231122220804&path-prefix=vi" ,Đồng Tháp 1
 #EXTVLCOPT:http-user-agent=ANTmedia
@@ -44,11 +40,17 @@ https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="travinh" tvg-logo="https://i.imgur.com/IhAFIHH.png" ,Trà Vinh
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
-#EXTINF:-1 tvg-id="travinh"  tvg-logo="https://i.imgur.com/FVmICGp.png",Trà Vinh 2
-https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w517483768.m3u8
 
-#EXTINF:-1 tvg-id="longan" tvg-logo="https://i.imgur.com/j6T7sqT.png",Long An
+
+#EXTINF:-1 tvg-id="longan" tvg-logo="https://i.imgur.com/j6T7sqT.png",Tây Ninh 1
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tayninh" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/18/16/1689671794662/6aa80147b7af_640_360.png",Tây Ninh 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://sgchill.io.vn/360/86/index.m3u8
+#EXTINF:-1 tvg-id="camau"  tvg-logo="https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg",Cà Mau
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgchill.io.vn/360/38/index.m3u8
 
 #EXTINF:0 type="stream"  tvg-id="cantho" tvg-logo="https://i.ibb.co/7tG6M3v/cccantho.png",Cần Thơ
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
