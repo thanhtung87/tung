@@ -23,10 +23,6 @@ https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="haugiang"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822218536/1f7b8a33f2db_640_360.png",Hậu Giang
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.TruyenHinh.Click/CoBan/150/TuyetDoiKhongKinhDoanh.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 2
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 
