@@ -38,7 +38,7 @@ https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
 
 
-#EXTINF:-1 tvg-id="longan" tvg-logo="https://i.imgur.com/j6T7sqT.png",Tây Ninh 1
+#EXTINF:-1 tvg-id="longan" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV1.jpg",Tây Ninh 1
 https://sgchill.io.vn/360/72/index.m3u8
 
 #EXTINF:-1 tvg-id="tayninh" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/18/16/1689671794662/6aa80147b7af_640_360.png",Tây Ninh 2
