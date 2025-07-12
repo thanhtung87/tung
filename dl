@@ -34,20 +34,6 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="travinh" tvg-logo="https://i.imgur.com/IhAFIHH.png" ,Trà Vinh
-https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
-
-
-#EXTINF:-1 tvg-id="longan" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV1.jpg",Tây Ninh 1
-https://sgchill.io.vn/360/72/index.m3u8
-
-#EXTINF:-1 tvg-id="tayninh" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV2.png",Tây Ninh 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://sgchill.io.vn/360/86/index.m3u8
-#EXTINF:-1 tvg-id="camau"  tvg-logo="https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg",Cà Mau
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.io.vn/360/38/index.m3u8
-
 #EXTINF:0 type="stream"  tvg-id="cantho" tvg-logo="https://i.ibb.co/7tG6M3v/cccantho.png",Cần Thơ
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://live.canthotv.vn/live/tv_web/chunklist.m3u8 
