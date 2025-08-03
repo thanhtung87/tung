@@ -79,9 +79,6 @@ http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://quantri.ninhthuantv.vn/wp-content/uploads/2021/12/5.png",Ninh Thuận
 https://618b88f69e53b.streamlock.net/NTVR/ntvradio/chunklist.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png",Bình Thuận
-https://64d0d74b76158.streamlock.net:443/BTVR/binhthuanradio/playlist.m3u8
-
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://qrt.vn/wp-content/themes/qtitv-child/images/bg-phat-thanh.png",Đà Nẵng 
 http://113.161.6.157:8085/phatthanh/QRT.m3u8
 
@@ -114,3 +111,6 @@ http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/155.png",Lâm Đồng
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png",Bình Thuận
+https://64d0d74b76158.streamlock.net:443/BTVR/binhthuanradio/playlist.m3u8
