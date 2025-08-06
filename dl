@@ -35,9 +35,7 @@ https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 
 
 #EXTINF:0 type="stream"  tvg-id="cantho" tvg-logo="https://i.ibb.co/7tG6M3v/cccantho.png",Cần Thơ
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://live.canthotv.vn/live/tv_web/chunklist.m3u8 
-
+https://xem.hoiquan.Click/Coban/can-tho/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Soe6MC8.png",Bình Dương 1
 https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8 
 
