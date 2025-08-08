@@ -30,6 +30,16 @@ https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=ANTmedia
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="cantho"  tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png",Cần Thơ 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://xem.hoiquan.Click/CoBan/can-tho/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="haugiang"  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT2HD.png",Cần Thơ 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://xem.hoiquan.Click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="soctrang"  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3.jpg",Cần Thơ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgchill.io.vn/v1/b522/stv1/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Soe6MC8.png",Bình Dương 1
 https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8 
 
