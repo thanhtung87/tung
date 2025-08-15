@@ -109,5 +109,4 @@ http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/155.png",Lâm Đồng
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png",Bình Thuận
-https://64d0d74b76158.streamlock.net:443/BTVR/binhthuanradio/playlist.m3u8
+
