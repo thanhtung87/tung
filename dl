@@ -31,7 +31,8 @@ https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="mientay"  tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/mien-tay.png",Đồng Tháp 2
-https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="cantho"  tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png",Cần Thơ 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
