@@ -30,7 +30,7 @@ https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=ANTmedia
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="mientay"  tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/mien-tay.png",Đồng Tháp 2
+#EXTINF:-1 tvg-id="mientay"  tvg-logo="https://logos.fandom.com/vi/wiki/TH%C4%90T2_-_Mi%E1%BB%81n_T%C3%A2y?file=Mi%E1%BB%81n_T%C3%A2y_TH%C4%90T2_logo_ident_2013.png",Đồng Tháp 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 
