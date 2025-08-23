@@ -54,9 +54,9 @@ https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/EdXvjrH.png",Đà Nẵng TV1
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/DNRT1_logo_04-05.07.2025.png/revision/latest?cb=20250704121617&path-prefix=vi",Đà Nẵng TV1
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6SujuqZ.png",Đà Nẵng TV2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/DNRT2_logo_08-07-2025.png/revision/latest?cb=20250715083316&path-prefix=vi",Đà Nẵng TV2
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_VTV1_HD.png/640px-Logo_VTV1_HD.png",VTV1
