@@ -34,7 +34,7 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="cantho"  tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png",Cần Thơ 1
+#EXTINF:-1 tvg-id="cantho"  tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a0/THTPCT1_logo.png/revision/latest?cb=20250731171444&path-prefix=vi",Cần Thơ 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.io.vn/v1/b521/47/index.m3u8
 #EXTINF:-1 tvg-id="haugiang"  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT2HD.png",Cần Thơ 2
