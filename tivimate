@@ -14,7 +14,7 @@ https://stream.zeno.fm/hvtxgd85rm0uv
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/1/4/6/b/146b49d11cc9b3bc591823bfedb8bce2.jpg",Nhạc trẻ
 https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/7NBitPR.jpeg",Nhạc DJ
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/7NBitPR.jpeg",Nhạc DJ
 https://stream.zeno.fm/ehbutdfccm0uv
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/f/3/b/bf3bf87a788a5d0b8719c6feee774a2e.jpg",Nhạc Thiếu Nhi
@@ -45,9 +45,10 @@ http://123.25.238.45:1935/live/radio/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg", Cà Mau
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
 
-#EXTINF:-1  group-title="📻| Radio" radio=true,TÂY NINH 1 (FM96.9MHz)
+#EXTINF:-1  group-title="📻| Radio" ,Tây Ninh 1 (FM96.9MHz)
 https://live.la34.com.vn/la34/radio-transmux.m3u8
-#EXTINF:-1  radio=true,TÂY NINH 2 (FM103.1MHz)
+
+#EXTINF:-1  group-title="📻| Radio", Tây Ninh 2 (FM103.1MHz)
 http://118.69.83.22:1935/radio11/tnradio/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png",VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
