@@ -183,6 +183,13 @@ https://sgchill.io.vn/v1/b521/186/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.io.vn/v1/b521/177/index.m3u8
 
+#EXTINF:-1 tvg-id="onechannel"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}", ON E- Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgchill.io.vn/v1/b521/182/index.m3u8
+#EXTINF:-1 tvg-id="ono2tv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgchill.io.vn/v1/b521/136/index.m3u8
+
 #EXTINF:-1 tvg-id="onvfamily" type="stream"  tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgchill.io.vn/v1/b521/187/index.m3u8
