@@ -178,7 +178,7 @@ https://liveh12.seenow.vn/hls/SCTV18/03.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/188/index.m3u8
 
-#EXTINF:-1 tvg-id="afnhd"  tvg-logo="https://i.vimeocdn.com/video/852785228-36403e3d29153c02a4acfcf0ca4182b0be0bef3e5b43355eafc33614ee972a9b-d?f=webp", Asian Food Network
+#EXTINF:-1 tvg-id="afnhd"  tvg-logo="https://en.m.wikipedia.org/wiki/File:Asian_Food_Network.svg", Asian Food Network
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 
