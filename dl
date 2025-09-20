@@ -1,4 +1,4 @@
-http://lichphatsong.site/schedule/epg.xml
+#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml"
 
 #EXTINF:0 tvg-id="vinhlong1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_thvl1_2016-nay.png",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
