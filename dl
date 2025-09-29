@@ -54,6 +54,9 @@ https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/DNRT2_logo_08-07-2025.png/revision/latest?cb=20250715083316&path-prefix=vi",Đà Nẵng TV2
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
 
+#EXTINF:0 tvg-id="hue"   tvg-logo="https://i.imgur.com/29px2Qy.png",Thừa Thiên Huế
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:0 tvg-id="hungyen"  tvg-logo="https://i.imgur.com/deNnP9h.png",Hưng Yên
 https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
 
