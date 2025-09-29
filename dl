@@ -63,6 +63,12 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hungyen"  tvg-logo="https://i.imgur.com/deNnP9h.png",Hưng Yên
 https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:0 tvg-id="laocai"  tvg-logo="https://i.imgur.com/QAVSUBu.png",Lào Cai
+https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="dienbien"  tvg-logo="https://i.imgur.com/Rky1N5S.png",Điện Biên
+https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:0 tvg-id="sonla"  tvg-logo="https://i.imgur.com/QZT6GIh.png",Sơn La
 https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
 
