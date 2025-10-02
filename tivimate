@@ -70,9 +70,6 @@ https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOVGT Mekong
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.ibb.co/xtm41Yyp/486609043-9668733523179342-2092789379023659257-n.jpg" radio="true",VOVGT Hà Nội
-https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
-
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c5/%C4%90N-RTV.png",Đồng Nai
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8 
 
@@ -82,6 +79,8 @@ https://618b88f69e53b.streamlock.net/NTVR/ntvradio/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://qrt.vn/wp-content/themes/qtitv-child/images/bg-phat-thanh.png",Đà Nẵng 
 http://113.161.6.157:8085/phatthanh/QRT.m3u8
 
+#EXTINF:-1 group-title="📻| Radio" radio=true,NGHE AN (FM99.6MHz)
+https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Radio",Quảng Ninh 1
 https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="📻| Radio"https://live.baoquangninh.vn/qtvlive/qnr2.m3u8,Quảng Ninh 2
