@@ -88,7 +88,7 @@ https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="📻| Radio"https://live.baoquangninh.vn/qtvlive/qnr2.m3u8,Quảng Ninh 2
 https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
 
-#EXTINF:-1 group-title="📻| Radio",Bình Định
+#EXTINF:-1 group-title="📻| Radio",Gia Lai
 http://14.224.130.186:8000/binhdinh
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/05t6W7v.png",Bắc Giang
