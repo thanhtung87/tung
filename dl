@@ -47,7 +47,7 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_nen_tang_so_TTV_vien_den.png",Tây Ninh 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/TTV1_TayNinhTV_b%E1%BA%A3n_2.png/revision/latest?cb=20250905044046&path-prefix=vi",Tây Ninh 1
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:0 tvg-id="tayninh"  tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/TTV2_Tay_Ninh_TV_03-07-2025.png/revision/latest?cb=20250907041523&path-prefix=vi",Tây Ninh 2
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
