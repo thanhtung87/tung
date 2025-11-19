@@ -53,10 +53,10 @@ https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:0 tvg-id="dongnai1"  tvg-logo="https://i.imgur.com/blOZQPI.png",Đồng Nai 1
+#EXTINF:0 tvg-id="dongnai1"  tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fc/%C4%90NNRTV1_logo.png/revision/latest/scale-to-width-down/250?cb=20250822064023&path-prefix=vi",Đồng Nai 1
 https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="dongnai2"  tvg-logo="https://i.imgur.com/tIvmaaX.png",Đồng Nai 2
+#EXTINF:0 tvg-id="dongnai2"  tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/%C4%90NNRTV2_logo.png/revision/latest/scale-to-width-down/250?cb=20250822064118&path-prefix=vi",Đồng Nai 2
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hòa 
