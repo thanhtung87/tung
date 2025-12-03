@@ -264,10 +264,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ono2tv"  tvg-logo="https://i.imgur.com/nqwVkmM.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}",ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 
-#EXTINF:-1 tvg-id="onvfamily" type="stream"  tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=187&token=BLjOIlaKSsUaZvtX
-
 #EXTINF:-1 tvg-id="oninfotv"  tvg-logo="https://i.imgur.com/jp57P0v.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}",ON Info TV
 https://freem3u.xyz/api/live/play.m3u8?vid=189
 #EXTINF:-1 tvg-id="oncine"  tvg-logo="https://i.imgur.com/6f9ngwY.png" Catchup="append" Catchup-days="2" Catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}",ON Cine
