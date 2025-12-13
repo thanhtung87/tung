@@ -250,4 +250,14 @@ https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 #EXTINF:-1 tvg-id="sctv18hd"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg", SCTV18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.seenow.vn/hls/SCTV18/03.m3u8
-#EXTINF:-1 tvg-id="sctv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV19
+https://liveh34.seenow.vn/hls/SCTV19/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV20
+https://liveh34.seenow.vn/hls/SCTV20/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV21
+https://liveh34.seenow.vn/hls/SCTV21/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV22
+https://liveh34.seenow.vn/hls/SCTV22/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV Phim TH
+https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
