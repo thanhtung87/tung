@@ -312,7 +312,7 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="kbsworld"  tvg-logo="https://img.lichphatsong.xyz/logo/kbsworld.jpg",KBS World
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="dw"  tvg-logo="https://img.lichphatsong.xyz/logo/dw.jpg",DW
+#EXTINF:-1 tvg-id="dw"  tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/DW_2012.png/revision/latest?cb=20230418025243&path-prefix=vi",DW
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="arirang"  tvg-logo="https://img.lichphatsong.xyz/logo/arirang.png",Arirang
