@@ -321,7 +321,7 @@ https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="france24eng"  tvg-logo="https://img.lichphatsong.xyz/logo/france24eng.png",France 24 English
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="tv5monde"  tvg-logo="https://img.lichphatsong.xyz/logo/tv5monde.png",TV5 Monde
+#EXTINF:-1 tvg-id="tv5monde"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_TV5Monde_2025.svg",TV5 Monde
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="cnbc"  tvg-logo="",CNBC
