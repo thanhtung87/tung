@@ -309,7 +309,7 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9OI15BbwGr7oN439kcSAKWP84P48XnLbqAU9qfvQ56_J4QUgLnUcifFd&s=10",AFN
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="kbsworld"  tvg-logo="https://img.lichphatsong.xyz/logo/kbsworld.jpg",KBS World
+#EXTINF:-1 tvg-id="kbsworld"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png",NHK World
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="dw"  tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/DW_2012.png/revision/latest?cb=20230418025243&path-prefix=vi",DW
