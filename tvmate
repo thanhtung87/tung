@@ -324,7 +324,7 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnbc"  tvg-logo="https://yt3.googleusercontent.com/sS9OtcPLL1vQNfGnRudALfNzfpHVy7qwRRKTYF4HEfyICGTfXfHsfP2hhIPgKK0iBxW7p1lH1g=s900-c-k-c0x00ffffff-no-rj",CNBC
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="cna"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest?cb=20230219122811",CNA
+#EXTINF:-1 tvg-id="cna"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/revision/latest?cb=20161028005656",CNA
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 
 
