@@ -32,10 +32,14 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2b/ATV2.png/revision/latest?cb=20250729034031&path-prefix=vi",An Giang 2
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="cantho"  tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/B%C3%A1o_C%E1%BA%A7n_Th%C6%A1_09-2025.png/revision/latest?cb=20250830084610&path-prefix=vi",Cần Thơ
+#EXTINF:0 tvg-id="cantho"  tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/B%C3%A1o_C%E1%BA%A7n_Th%C6%A1_09-2025.png/revision/latest?cb=20250830084610&path-prefix=vi",Cần Thơ 1
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
 
-
+#EXTINF:-1 tvg-id="cantho2"  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho2.png", Cần Thơ 2
+https://freem3u.xyz/api/live/play.m3u8?vid=61
+#EXTINF:-1 tvg-id="cantho3"  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho3.png", Cần Thơ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=84
 #EXTINF:0 tvg-id="camau"  tvg-logo="https://i.imgur.com/cYqXh3i.png",Cà Mau
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
 
