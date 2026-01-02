@@ -12,7 +12,7 @@ https://live.fptplay53.net/epzhd2/vinhlong2_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:0 tvg-id="vinhlong4hd"  tvg-logo="https://ibb.co/9Bv1C5z",Vĩnh Long 4
+#EXTINF:0 tvg-id="vinhlong4hd"  tvg-logo="https://i.ibb.co/whWRD32h/blob.jpg",Vĩnh Long 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
