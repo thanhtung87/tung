@@ -51,8 +51,8 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="tayninh"  tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/TTV2_Tay_Ninh_TV_03-07-2025.png/revision/latest?cb=20250907041523&path-prefix=vi",Tây Ninh 2
-https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="tayninh"  tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/TTV2_Tay_Ninh_TV_03-07-2025.png/revision/latest?cb=20250907041523&path-prefix=vi",Tây Ninh
+https://freem3u.xyz/api/live/play.m3u8?vid=72
 
 
 #EXTINF:0 tvg-id="dongnai1"  tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fc/%C4%90NNRTV1_logo.png/revision/latest/scale-to-width-down/250?cb=20250822064023&path-prefix=vi",Đồng Nai 1
