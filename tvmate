@@ -388,7 +388,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png",Redbull TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712",Redbull TV
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/vn/en/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_plain_55537aef6c.png&w=375&q=100",Bein SportXtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
