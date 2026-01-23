@@ -135,8 +135,6 @@ https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="laichau"  tvg-logo="https://i.imgur.com/we3GCjr.png",Lai Châu
 https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="caobang"  tvg-logo="https://i.imgur.com/YCrYT2p.png",Cao Bằng
-https://freem3u.xyz/api/live/play.m3u8?vid=48
 
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/VTV1_08.10.2019%2C_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20250110114239&path-prefix=vi",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
