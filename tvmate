@@ -138,7 +138,7 @@ https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/VTV1_08.10.2019%2C_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20250110114239&path-prefix=vi",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:0 tvg-id="vtv2hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_640_360.png",VTV2
+#EXTINF:0 tvg-id="vtv2hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/2/20/VTV2_21.11.2024-nay.png/revision/latest?cb=20250110115127&path-prefix=vi",VTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/
 https://live.fptplay53.net//fnxch2/vtv2hd_abr.smil/chunklist_b3000000.m3u8.m3u8
