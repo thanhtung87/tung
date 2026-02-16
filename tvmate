@@ -245,10 +245,10 @@ https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv11hd"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg", SCTV11
+#EXTINF:-1 tvg-id="sctv11hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b0/SCTV11_logo_2011.png/revision/latest?cb=20240914225857&path-prefix=vi", SCTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
-#EXTINF:-1 tvg-id="sctv12hd"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SCTV12.jpg", SCTV12
+#EXTINF:-1 tvg-id="sctv12hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2e/SCTV12_logo_2011.png/revision/latest?cb=20240917043942&path-prefix=vi", SCTV12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
 
