@@ -358,10 +358,7 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-news-live-hz-us.png",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xBLLYyx.png",BBC News
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Bloomberg%20Television.png",Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
