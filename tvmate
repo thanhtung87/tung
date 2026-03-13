@@ -247,7 +247,7 @@ https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
 #EXTINF:-1 tvg-id="sctv11hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/SCTV11_logo_19-01-2023_b%E1%BA%A3n_2.png/revision/latest?cb=20240621041412&path-prefix=vi", SCTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
-#EXTINF:-1 tvg-id="sctv12hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2e/SCTV12_logo_2011.png/revision/latest?cb=20240917043942&path-prefix=vi", SCTV12
+#EXTINF:-1 tvg-id="sctv12hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/3/39/SCTV12_logo_12-02-2026_b%E1%BA%A3n_2.png/revision/latest?cb=20260301111326&path-prefix=vi", SCTV12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
 
