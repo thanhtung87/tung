@@ -21,11 +21,11 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",An Ninh TV
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_640_360.png",An Ninh TV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="qpvnhd"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Quốc Phòng VN
+#EXTINF:-1 tvg-id="qpvnhd"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png", Quốc Phòng VN
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -191,16 +191,16 @@ https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_640_360.png" Catchup="append" Catchup-days="2" Catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-du-lich-cuoc-song/${start}/${offset}", Du lịch Cuộc sống
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_640_360.png", Du lịch Cuộc sống
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Htvcthuanviet.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
+#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Htvcthuanviet.jpg", HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/160082347056/e8ce9503d96a_640_360.png", HTVC Gia đình
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvcphunuhd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-phu-nu/${start}/${offset}", HTVC Phụ nữ
+#EXTINF:-1 tvg-id="htvcphunuhd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_640_360.png", HTVC Phụ nữ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 
@@ -232,7 +232,7 @@ https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv6hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/SCTV6_logo_12-02-2026_b%E1%BA%A3n_2.png/revision/latest?cb=20260301103750&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
+#EXTINF:-1 tvg-id="sctv6hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/SCTV6_logo_12-02-2026_b%E1%BA%A3n_2.png/revision/latest?cb=20260301103750&path-prefix=vi", SCTV6
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
