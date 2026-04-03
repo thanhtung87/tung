@@ -54,6 +54,9 @@ https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="tayninh"  tvg-logo="https://media.vov.vn/sites/default/files/styles/large/public/2025-12/logo_tn_nen_tang_so_co_vien.jpg",Tây Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=72
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hòa 
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
+
 
 #EXTINF:0 tvg-id="dongnai1"  tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fc/%C4%90NNRTV1_logo.png/revision/latest/scale-to-width-down/250?cb=20250822064023&path-prefix=vi",Đồng Nai 1
 https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
@@ -61,18 +64,17 @@ https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dongnai2"  tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/%C4%90NNRTV2_logo.png/revision/latest/scale-to-width-down/250?cb=20250822064118&path-prefix=vi",Đồng Nai 2
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hòa 
-https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/DNRT1_logo_04-05.07.2025.png/revision/latest?cb=20250704121617&path-prefix=vi",Đà Nẵng TV1
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/DNRT2_logo_08-07-2025.png/revision/latest?cb=20250715083316&path-prefix=vi",Đà Nẵng TV2
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="hanoi1"  tvg-logo="https://i.imgur.com/mwCTDMj.png",Hà Nội 1
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2"  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png",Hà Nội 2
 https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/DNRT1_logo_04-05.07.2025.png/revision/latest?cb=20250704121617&path-prefix=vi",Đà Nẵng TV1
-https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/DNRT2_logo_08-07-2025.png/revision/latest?cb=20250715083316&path-prefix=vi",Đà Nẵng TV2
-https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
+
 
 #EXTINF:0 tvg-id="hue"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/LogoHueTV_2025.png",Thừa Thiên Huế
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
