@@ -84,6 +84,10 @@ https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://yt3.googleusercontent.com/3FpAai8v4Ad25R_bqVLvcp2Urv5I8TTV5Vn8CBaGBDvI4HDU-QYgnpLkk9QH-D6WIkVeIIj58u0=s900-ck-c0x00ffffff-no-rj" radio=true,HƯNG YÊN (FM92.7MHz)
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
 
-
+#EXTINF:0 tvg-id="vinhlong1hd" tvg-logo="https://i.imgur.com/VyIf497.jpeg",Vĩnh Long 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzch2/vinhlong1_vhls.smil/chunklist_b1000000.m3u8
+#EXTINF:0 tvg-id="vinhlong2hd"  tvg-logo="https://i.imgur.com/WoNK9km.jpeg",Vĩnh Long 2
+https://live.fptplay53.net/epzhd2/vinhlong2_hls.smil/chunklist.m3u8
 
 
