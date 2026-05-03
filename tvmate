@@ -278,10 +278,12 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 
 #EXTINF:-1 tvg-id="tvbvn" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="LIVE
 
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
+
+#EXTINF:-1 tvg-id="onviegiaitri"  tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg", ON Vie Giải Trí
+https://vietanhtv.id.vn/tv360/180/index.m3u8
+#EXTINF:-1 tvg-id="onphimviet"  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ONPHIMVIET.png", ON Phim Việt
 https://vietanhtv.id.vn/tv360/175/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
