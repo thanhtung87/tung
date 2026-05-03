@@ -282,8 +282,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=31
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
 https://vietanhtv.id.vn/tv360/175/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
-https://freem3u.xyz/api/live/play.m3u8?vid=181
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
 https://vietanhtv.id.vn/tv360/176/index.m3u8
@@ -309,11 +307,14 @@ https://vietanhtv.id.vn/tv360/185/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vietanhtv.id.vn/tv360/186/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
-https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vietanhtv.id.vn/tv360/177/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
-https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vietanhtv.id.vn/tv360/187/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids
-https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vietanhtv.id.vn/tv360/179/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
 https://vietanhtv.id.vn/tv360/178/index.m3u8
