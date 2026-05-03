@@ -283,7 +283,7 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 
 #EXTINF:-1 tvg-id="onviegiaitri"  tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg", ON Vie Giải Trí
 https://vietanhtv.id.vn/tv360/180/index.m3u8
-#EXTINF:-1 tvg-id="onphimviet"  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ONPHIMVIET.png", ON Phim Việt
+#EXTINF:-1 tvg-id="onphimviet"  tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/ON_Phim_Vi%E1%BB%87t_14-10-2021.png/revision/latest?cb=20230606020648&path-prefix=vi", ON Phim Việt
 https://vietanhtv.id.vn/tv360/175/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
