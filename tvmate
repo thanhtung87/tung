@@ -60,6 +60,9 @@ https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e9/B%C3%A1o_v%C3%A0_PT-TH_Kh%C3%A1nh_Ho%C3%A0_logo_2026.png/revision/latest?cb=20260101114913&path-prefix=vi",Khánh Hòa 
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="khanhhoa1"  tvg-logo="https://i.imgur.com/OckyNsp.png",Khánh Hòa 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="dongnai1"  tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fc/%C4%90NNRTV1_logo.png/revision/latest/scale-to-width-down/250?cb=20250822064023&path-prefix=vi",Đồng Nai 1
 https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
