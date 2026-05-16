@@ -326,6 +326,12 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
 
 *-QUỐC TẾ-*
+#EXTINF:-1 tvg-name="100011"  tvg-logo="https://i.imgur.com/kx8metk.png",CCTV4
+https://dash.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://i.imgur.com/Mut2omN.png",CCTV5
+http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://i.imgur.com/UNjmQVS.png",CCTV5+
+http://74.91.26.218:82/live/cctv5p.m3u8
 
 #EXTINF:-1 tvg-id="kix"  tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest?cb=20211017094335&path-prefix=vi", KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
