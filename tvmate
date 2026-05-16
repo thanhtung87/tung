@@ -139,6 +139,9 @@ https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="quangninh3"  tvg-logo="https://i.imgur.com/4hadYbw.png",Quảng Ninh 3
 https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="bacninh"  tvg-logo="https://i.imgur.com/CoYqQa5.png",Bắc Ninh
+https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
+
 #EXTINF:0 tvg-id="phutho"  tvg-logo="https://i.imgur.com/5OZ2hAB.png",Phú Thọ
 https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
 
