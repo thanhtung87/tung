@@ -187,7 +187,12 @@ https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-id="vtvctt2" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/VTV10_logo_%282026-nay%29.png/revision/latest?cb=20260330082515&path-prefix=vi" ,VTV10
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
-
+#EXTINF:-1 tvg-id="hitv"  tvg-logo="https://i.imgur.com/gMeGXeL.png",HiTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgclient.duckdns.org/source/tv360.m3u8?id=32
+#EXTINF:-1 tvg-id="youtv"  tvg-logo="https://i.imgur.com/3d4Hfh8.png",YouTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgclient.duckdns.org/source/tv360.m3u8?id=31
 
 #EXTINF:-1 tvg-id="htv1"  group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
