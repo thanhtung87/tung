@@ -81,6 +81,25 @@ https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/DNRT2_logo_08-07-2025.png/revision/latest?cb=20250715083316&path-prefix=vi",Đà Nẵng TV2
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
 
+#EXTINF:0 tvg-id="quangngai"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/67/QNGTV_logo2026.webp",Quảng Ngãi 1
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="quangngai2"  tvg-logo="https://i.postimg.cc/0j90HbNC/QNg-TV2.png",Quảng Ngãi 2
+https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
+
+#EXTINF:0 tvg-id="quangninh1"  tvg-logo="https://i.imgur.com/sGcRJVP.png",Quảng Ninh 1
+https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="quangninh3"  tvg-logo="https://i.imgur.com/4hadYbw.png",Quảng Ninh 3
+https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="quangtri"  tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/QTTV.png/revision/latest?cb=20250705100526&path-prefix=vi",Quảng Trị
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="gialai"  tvg-logo="https://i.imgur.com/9qGzykW.png",Gia Lai
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:0 tvg-id="hanoi1"  tvg-logo="https://i.imgur.com/mwCTDMj.png",Hà Nội 1
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 
@@ -99,15 +118,6 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hatinh"  tvg-logo="https://i.imgur.com/sESKlNO.png",Hà Tĩnh
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="quangngai"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/67/QNGTV_logo2026.webp",Quảng Ngãi 1
-https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="quangngai2"  tvg-logo="https://i.postimg.cc/0j90HbNC/QNg-TV2.png",Quảng Ngãi 2
-https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
-
-#EXTINF:0 tvg-id="quangtri"  tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/QTTV.png/revision/latest?cb=20250705100526&path-prefix=vi",Quảng Trị
-https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="daklak"  tvg-logo="https://i.imgur.com/H2LOZ2A.png",Đăk Lăk
 https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
@@ -128,7 +138,6 @@ https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="haiphong"  tvg-logo="https://i.imgur.com/StFk4PA.png",Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
 
-
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/THP3_2026.png/revision/latest?cb=20260101113817&path-prefix=vi",Hải Phòng 3
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
 
@@ -140,12 +149,6 @@ https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="thainguyen"  tvg-logo="https://i.imgur.com/UBcqMiY.png",Thái Nguyên
 https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="quangninh1"  tvg-logo="https://i.imgur.com/sGcRJVP.png",Quảng Ninh 1
-https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="quangninh3"  tvg-logo="https://i.imgur.com/4hadYbw.png",Quảng Ninh 3
-https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="bacninh"  tvg-logo="https://i.imgur.com/CoYqQa5.png",Bắc Ninh
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
