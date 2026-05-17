@@ -360,7 +360,7 @@ https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv5monde"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqhpUFHp-iJez1rDqrf2Oqc-r2-WgSkebudMmHS2-jw&s=10",TV5 Monde
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="cnbc"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png",CNA
+#EXTINF:-1 tvg-id="cna"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png",CNA
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="cnbc"  tvg-logo="https://yt3.googleusercontent.com/sS9OtcPLL1vQNfGnRudALfNzfpHVy7qwRRKTYF4HEfyICGTfXfHsfP2hhIPgKK0iBxW7p1lH1g=s900-c-k-c0x00ffffff-no-rj",CNBC
