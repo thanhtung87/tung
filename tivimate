@@ -60,6 +60,13 @@ https://media-audio.vov.vn/vov2.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
 https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
 
+#EXTINF:-1 tvg-id="vovgthcm" 
+group-title="📻| Radio" tvg-logo="https://i.imgur.com/Wu8zN9H.png" radio="true",VOV GIAO THÔNG TP.HCM
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+#EXTINF:-1 tvg-id="vovgtmekong" 
+group-title="📻| Radio" tvg-logo="https://i.imgur.com/2tMmok6.png" radio="true",VOV GIAO THÔNG MÊ KÔNG
+https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
+
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c5/%C4%90N-RTV.png",Đồng Nai
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8 
 
