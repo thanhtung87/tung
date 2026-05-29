@@ -84,9 +84,6 @@ https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="quangngai"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/67/QNGTV_logo2026.webp",Quảng Ngãi 1
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="quangngai2"  tvg-logo="https://i.postimg.cc/0j90HbNC/QNg-TV2.png",Quảng Ngãi 2
-https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
-
 #EXTINF:0 tvg-id="quangninh1"  tvg-logo="https://i.imgur.com/sGcRJVP.png",Quảng Ninh 1
 https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
 
