@@ -42,7 +42,6 @@ http://tv.ctvcamau.vn/live/radio/radio.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/27/thumbnail-dai-dong-thap-app-102539.jpg", Đồng Tháp
 https://64d0d74b76158.streamlock.net/THDTR/thdtradio/chunklist.m3u8
-
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png",VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 
