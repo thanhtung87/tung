@@ -1,4 +1,8 @@
+#EXTINF:-1 tvg-id="sctv16hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/7/74/SCTV16_PNNDS_logo.png/revision/latest?cb=20251220102023&path-prefix=vi",SCTV16
+https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 
+#EXTINF:-1 tvg-id="sctv18hd"  tvg-logo="https://i.imgur.com/FfUSlgI.png",SCTV18
+https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
 #EXTINF:-1 tvg-id="sctv8hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/SCTV8_2017-2018.png/revision/latest?cb=20230630083156&path-prefix=vi", SCTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
