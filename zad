@@ -1,3 +1,22 @@
+
+#EXTINF:-1 tvg-id="sctv8hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/SCTV8_2017-2018.png/revision/latest?cb=20230630083156&path-prefix=vi", SCTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
+
+#EXTINF:-1 tvg-id="sctv11hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/SCTV11_logo_19-01-2023_b%E1%BA%A3n_2.png/revision/latest?cb=20240621041412&path-prefix=vi", SCTV11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
+#EXTINF:-1 tvg-id="sctv12hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/3/39/SCTV12_logo_12-02-2026_b%E1%BA%A3n_2.png/revision/latest?cb=20260301111326&path-prefix=vi", SCTV12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
+
+#EXTINF:-1 tvg-id="sctv13hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/SCTV13_logo_12-02-2026_b%E1%BA%A3n_2.png/revision/latest?cb=20260301111544&path-prefix=vi", SCTV13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
+#EXTINF:-1 tvg-id="sctv14hd"  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv14.png", SCTV14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
+
 #EXTINF:-1 tvg-id="sctv3hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/SCTV3_See_TV_logo_19-01-2023.png/revision/latest?cb=20240222060520&path-prefix=vi", SCTV3 - SEE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
