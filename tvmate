@@ -264,24 +264,13 @@ https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="sctv1hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV1_logo_2022.png/revision/latest?cb=20220427230925&path-prefix=vi", SCTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 tvg-id="sctv2hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/SCTV2_2017.png/revision/latest?cb=20220223141539&path-prefix=vi",SCTV2 - TODAY TV
 https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
-
-
-#EXTINF:-1 tvg-id="sctv4hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/SCTV4_logo_2008-2011.png/revision/latest?cb=20240914042833&path-prefix=vi", SCTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
 
 #EXTINF:-1 tvg-id="sctv6hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/SCTV6_logo_12-02-2026_b%E1%BA%A3n_2.png/revision/latest?cb=20260301103750&path-prefix=vi", SCTV6
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="sctvhdpth"  tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_logo_2021.png/revision/latest?cb=20230323070555&path-prefix=vi", SCTV Phim Tổng Hợp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 
 #EXTINF:-1 tvg-id="tvbvn" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
