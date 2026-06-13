@@ -35,6 +35,12 @@ https://blvbatman.dpdns.org/kenh/angiang1.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2b/ATV2.png/revision/latest?cb=20250729034031&path-prefix=vi",An Giang 2
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="angiang3"  tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang3.png",An Giang 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://blvbatman.dpdns.org/kenh/angiang3.m3u8
+
+
+
 #EXTINF:0 tvg-id="cantho"  tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/C%E1%BA%A7nTh%C6%A11_logo.png/revision/latest?cb=20260310000013&path-prefix=vi",Cần Thơ 1
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
 
