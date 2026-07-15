@@ -27,8 +27,16 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png", Quốc Phòng VN
 https://qpvn.vn/live/qpvn/1080p.m3u8
 
+#EXTINF:-1 tvg-id="angiang1"  tvg-logo="https://i.imgur.com/mgp6RAU.png",An Giang 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1  tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang2.png",An Giang 2
 https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="angiang3"  tvg-logo="https://i.imgur.com/gZUV4z8.png",An Giang 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="cantho"  tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/C%E1%BA%A7nTh%C6%A11_logo.png/revision/latest?cb=20260310000013&path-prefix=vi",Cần Thơ 1
 https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8
@@ -43,9 +51,6 @@ https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="dongthap1"  tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/TH%C4%90T1_logo_2016-nay_b%E1%BA%A3n_3.png/revision/latest?cb=20231122220804&path-prefix=vi" ,Đồng Tháp 1
 https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="mientay"  tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/Mi%E1%BB%81n_T%C3%A2y_TH%C4%90T2_logo_ident_2013.png/revision/latest?cb=20250718123832&path-prefix=vi",Đồng Tháp 2
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="tayninh1"  tvg-logo="https://i.imgur.com/HFm3hbC.png",Tây Ninh
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
