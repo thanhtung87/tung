@@ -395,10 +395,3 @@ http://198.204.228.26/live/cctv16hd.m3u8
 
 #EXTINF:-1 tvg-id="CCTV17"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv17.png" , CCTV 17
 http://198.204.228.26/live/cctv17hd.m3u8
-
-#EXTINF:-1 tvg-id="CCTV4K"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv4k.png" , CCTV 4K
-http://198.204.240.250:82/live/cctv4k.m3u8
-
-#EXTINF:-1 tvg-id="CCTV8K"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv8k.png" , CCTV 8K
-http://198.204.240.250:82/live/cctv8k.m3u8
-
