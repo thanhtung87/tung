@@ -197,12 +197,8 @@ https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=1
 https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 
-#EXTINF:-1 tvg-id="hitv"  tvg-logo="https://i.imgur.com/gMeGXeL.png",HiTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=32
-#EXTINF:-1 tvg-id="youtv"  tvg-logo="https://i.imgur.com/3d4Hfh8.png",YouTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=31
+
+
 
 #EXTINF:-1 tvg-id="htv1"  group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
