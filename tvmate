@@ -167,7 +167,7 @@ https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/VTV1_08.10.2019%2C_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20250110114239&path-prefix=vi",VTV1
-https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD
 
 #EXTINF:0 tvg-id="vtv2hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/2/20/VTV2_21.11.2024-nay.png/revision/latest?cb=20250110115127&path-prefix=vi",VTV2
 https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
