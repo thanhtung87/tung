@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml"
 
-"https://vnepg.site/epg.xml.gz"
+"http://epg.blaosolar.vn/schedule/epg.xml"
 
 
 #EXTINF:0 tvg-id="vinhlong1hd" tvg-logo="https://i.imgur.com/VyIf497.jpeg",Vĩnh Long 1
