@@ -27,7 +27,21 @@ https://stream.zeno.fm/8456uy0bcm0uv
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/tieng-nuroc.png",Tiếng Nước Tôi (hải ngoại)
 https://cast4.servcast.net/proxy/longpham2/stream/1/
-
+#EXTINF:-1 tvg-id="voh999" group-title="📻| Radio" tvg-logo="https://ravimedia.vn/wp-content/uploads/2021/06/ravimedia-voh99.9mhz.jpg", VOH FM 99.9Mhz
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=10037
+#EXTINF:-1 tvg-id="voh956" group-title="📻| Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/voh-fm-95-6.png", VOH FM 95.6Mhz
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=10039
+#EXTINF:-1 tvg-id="voh877" group-title="📻| Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm877-512x512-110237.png", VOH FM 87.7Mhz
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=10038
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-am610-512x512-104316.png", VOH AM 610Khz
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=10036
+#EXTINF:-1 tvg-id="voh925" group-title="📻| Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png", VOH FM 92 - 92.5 MHz
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=10040
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8Znbz4eb1Dw6wUlxrC--XRC6CRIZ5Mgqhg&s",An Giang
 http://42.1.64.42/490
 
