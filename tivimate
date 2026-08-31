@@ -45,17 +45,12 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10040
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8Znbz4eb1Dw6wUlxrC--XRC6CRIZ5Mgqhg&s",An Giang
 http://42.1.64.42/490
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/Logo_THTPCT_FM_97%2C3MHz_m%E1%BB%9Bi.png/revision/latest?cb=20230626054650&path-prefix=vi",Cần Thơ
-https://live.canthotv.vn/live/radio/chunklist_w1780522487.m3u8
 
 #EXTINF:-1 tvg-id="canthoradio2" group-title="📻| Radio" tvg-logo="https://canthoplus.vn/storage/channels/d18742e3-5735-43ea-9001-77678b4ef751.png", Cần Thơ Radio 2
 https://live.canthotv.vn/live/radiocs2/chunklist_w790093430.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg", Cà Mau
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
-
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/27/thumbnail-dai-dong-thap-app-102539.jpg", Đồng Tháp
-https://64d0d74b76158.streamlock.net/THDTR/thdtradio/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tayninhradio" group-title="📻| Radio" tvg-logo="https://w.ladicdn.com/s450x400/5ec394fc3354ff26568e1124/logo-fm1031mhz-20211008162127.png", Tây Ninh
 https://live-hq.evgcdn.net/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3u8
@@ -69,13 +64,6 @@ https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/Wu8zN9H.png" radio="true",VOV GIAO THÔNG MeKong
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
-
-
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c5/%C4%90N-RTV.png",Đồng Nai
-http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8 
-
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="http://qrt.vn/wp-content/themes/qtitv-child/images/bg-phat-thanh.png",Đà Nẵng 
-http://113.161.6.157:8085/phatthanh/QRT.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" radio=true,NGHE AN (FM99.6MHz)
 https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
