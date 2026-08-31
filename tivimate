@@ -61,11 +61,11 @@ https://64d0d74b76158.streamlock.net/THDTR/thdtradio/chunklist.m3u8
 https://live-hq.evgcdn.net/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3u8
 
 #EXTINF:-1  group-title="📻| Radio" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
-https://media-audio.vov.vn/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
-https://media-audio.vov.vn/vov2.sdp_aac/playlist.m3u8
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
-https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/Wu8zN9H.png" radio="true",VOV GIAO THÔNG TP.HCM
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
