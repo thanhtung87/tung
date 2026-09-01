@@ -75,9 +75,6 @@ http://14.224.130.186:8000/binhdinh
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://marketingvietnam.com.vn/wp-content/uploads/2019/07/logo-raido-hn.jpg", FM Hà Nội 90
 http://14.162.146.90:8000/HANOI90
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMpyIHhH7c94FzjIeop0cTJsewC7rDiTkrVphXl1fCuQ&s", FM Hà Nội 96
-http://222.252.21.96:8000/HANOI96
-
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://media.thhp.vn/upload/channel/96d1dabfb11c66bffbad690f1ac083ae.jpg",Hải Phòng
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
