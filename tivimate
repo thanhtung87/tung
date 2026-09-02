@@ -45,13 +45,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10040
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8Znbz4eb1Dw6wUlxrC--XRC6CRIZ5Mgqhg&s",An Giang
 http://42.1.64.42/490
 
-#EXTINF:-1 tvg-id="angiangradio1" group-title="📻| Radio" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H6.png", An Giang FM 99,4 Mhz
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
-#EXTINF:-1 tvg-id="angiangradio2" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ATVFM93.1%20MHZ.jpg", An Giang FM 93.1 Mhz
-https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8
-#EXTINF:-1 tvg-id="lamdongradio1
-
 #EXTINF:-1 tvg-id="canthoradio2" group-title="📻| Radio" tvg-logo="https://canthoplus.vn/storage/channels/d18742e3-5735-43ea-9001-77678b4ef751.png", Cần Thơ Radio 2
 https://live.canthotv.vn/live/radiocs2/chunklist_w790093430.m3u8
 
