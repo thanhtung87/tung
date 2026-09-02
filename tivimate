@@ -29,7 +29,7 @@ https://stream.zeno.fm/8456uy0bcm0uv
 https://cast4.servcast.net/proxy/longpham2/stream/1/
 #EXTINF:-1 tvg-id="voh999" group-title="📻| Radio" tvg-logo="https://ravimedia.vn/wp-content/uploads/2021/06/ravimedia-voh99.9mhz.jpg", VOH FM 99.9Mhz
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://voh.com.vn/radio/kenh-dong-thap-thdt-fm-984-mhz-02231206000000026.html
+https://freem3u.xyz/api/live/play.m3u8?vid=10037
 #EXTINF:-1 tvg-id="voh956" group-title="📻| Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/voh-fm-95-6.png", VOH FM 95.6Mhz
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=10039
