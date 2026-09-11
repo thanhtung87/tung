@@ -255,10 +255,7 @@ https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv2hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/SCTV2_2017.png/revision/latest?cb=20220223141539&path-prefix=vi",SCTV2 - TODAY TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:-1 tvg-id="sctv3hd"  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv3.png", SCTV3
-https://vmttv.dpdns.org/VTVGo/?sctv3
-#EXTINF:-1 tvg-id="sctv4hd"  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv4.png", SCTV4
-https://vmttv.dpdns.org/VTVGo/?sctv4
+
 #EXTINF:-1 tvg-id="sctv6hd"  tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/SCTV6_logo_12-02-2026_b%E1%BA%A3n_2.png/revision/latest?cb=20260301103750&path-prefix=vi", SCTV6
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
