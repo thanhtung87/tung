@@ -354,9 +354,6 @@ http://hbhyjq.ufyct.com:1088/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv5.png" , CCTV 5
 http://198.204.228.26/live/cctv5hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5PLUS"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv5plus.png" , CCTV 5+
-http://hbhyjq.ufyct.com:1088/hls/19/index.m3u8
-
 #EXTINF:-1 tvg-id="CCTV6"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv6.png" , CCTV 6
 http://198.204.228.26/live/cctv6hd.m3u8
 
