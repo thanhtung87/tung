@@ -234,7 +234,7 @@ https://vmttv.dpdns.org/VTVGo/?sctv21
 https://vmttv.dpdns.org/VTVGo/?sctvphim
 
 
-#EXTINF:-1 tvg-id="tvbvn" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
+#EXTINF:-1 tvg-id="tvbvn" group-title="Quốc Tế" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 
@@ -242,90 +242,90 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 
 
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png",CNBC TV18
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png",CNBC TV18
 https://amg01448-samsungin-nw18cnbc-samsungin-ad-n4.amagi.tv/playlist/amg01448-samsungin-nw18cnbc-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WrmeIco.png",CNN News 18
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/WrmeIco.png",CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png",ABC News
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/BrW7gk8.png",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/Bloomberg%20Television.png",Bloomberg
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://iptv-pro.github.io/logo/Bloomberg%20Television.png",Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMsJYzl.png",CGTN
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/fMsJYzl.png",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",TRT World
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wc5Z3iS.png",WION
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Wc5Z3iS.png",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRagoh6FYilXhoz4yf6u0lWqJNsHKZOzrsHdi-Bb9FOA&s=10",Redbull TV
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRagoh6FYilXhoz4yf6u0lWqJNsHKZOzrsHdi-Bb9FOA&s=10",Redbull TV
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/vn/en/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_plain_55537aef6c.png&w=375&q=100",Bein SportXtra
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_plain_55537aef6c.png&w=375&q=100",Bein SportXtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://swerve.tv/wp-content/uploads/2023/03/Swerve-Combat-Logo_Swerve-Combat_Primary_970x260-1536x412.png",Swerve Combat
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://swerve.tv/wp-content/uploads/2023/03/Swerve-Combat-Logo_Swerve-Combat_Primary_970x260-1536x412.png",Swerve Combat
 #https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TNA_Impact%21_2024.png",TNA Wrestling Channel
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TNA_Impact%21_2024.png",TNA Wrestling Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341
 
 
    
 
-#EXTINF:-1 tvg-id="CCTV1"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv1.png" , CCTV 1
+#EXTINF:-1 tvg-id="CCTV1" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv1.png" , CCTV 1
 http://198.204.228.26/live/cctv1hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV2"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv2.png" , CCTV 2
+#EXTINF:-1 tvg-id="CCTV2" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv2.png" , CCTV 2
 http://198.204.228.26/live/cctv2hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV3"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv3.png" , CCTV 3
+#EXTINF:-1 tvg-id="CCTV3" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv3.png" , CCTV 3
 http://198.204.228.26/live/cctv3hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv4.png" , CCTV 4
+#EXTINF:-1 tvg-id="CCTV4" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv4.png" , CCTV 4
 http://hbhyjq.ufyct.com:1088/hls/4/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv5.png" , CCTV 5
+#EXTINF:-1 tvg-id="CCTV5" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv5.png" , CCTV 5
 http://198.204.228.26/live/cctv5hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV6"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv6.png" , CCTV 6
+#EXTINF:-1 tvg-id="CCTV6" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv6.png" , CCTV 6
 http://198.204.228.26/live/cctv6hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV7"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv7.png" , CCTV 7
+#EXTINF:-1 tvg-id="CCTV7" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv7.png" , CCTV 7
 http://198.204.228.26/live/cctv7hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV8"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv8.png" , CCTV 8
+#EXTINF:-1 tvg-id="CCTV8" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv8.png" , CCTV 8
 http://198.204.228.26/live/cctv8hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV9"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv9.png" , CCTV 9
+#EXTINF:-1 tvg-id="CCTV9" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv9.png" , CCTV 9
 http://198.204.228.26/live/cctv9hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV10"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv10.png" , CCTV 10
+#EXTINF:-1 tvg-id="CCTV10" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv10.png" , CCTV 10
 http://198.204.228.26/live/cctv10hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV11"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv11.png" , CCTV 11
+#EXTINF:-1 tvg-id="CCTV11" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv11.png" , CCTV 11
 http://198.204.228.26/live/cctv11hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV12"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv12.png" , CCTV 12
+#EXTINF:-1 tvg-id="CCTV12" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv12.png" , CCTV 12
 http://198.204.228.26/live/cctv12hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV13"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv13.png" , CCTV 13
+#EXTINF:-1 tvg-id="CCTV13" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv13.png" , CCTV 13
 http://198.204.228.26/live/cctv13hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV14"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv14.png" , CCTV 14
+#EXTINF:-1 tvg-id="CCTV14" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv14.png" , CCTV 14
 http://198.204.228.26/live/cctv14hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV15"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv15.png" , CCTV 15
+#EXTINF:-1 tvg-id="CCTV15" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv15.png" , CCTV 15
 http://198.204.228.26/live/cctv15hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV16"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv16.png" , CCTV 16
+#EXTINF:-1 tvg-id="CCTV16" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv16.png" , CCTV 16
 http://198.204.228.26/live/cctv16hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV17"  tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv17.png" , CCTV 17
+#EXTINF:-1 tvg-id="CCTV17" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv17.png" , CCTV 17
 http://198.204.228.26/live/cctv17hd.m3u8
