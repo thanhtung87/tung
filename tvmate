@@ -22,6 +22,9 @@ https://live.canthotv.vn/cs2/live.stream/chunklist_w1497265452.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.canthotv.vn/cs3/tv/chunklist_w1003748170.m3u8
 
+#EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg", CTV HD - Báo và PTTH Cà Mau
+https://freem3u.xyz/api/live/play.m3u8?vid=46
+
 #EXTINF:-1 tvg-id="angiang1" group-title="Địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H4.png", ATV1 - Báo và PTTH An Giang
 https://freem3u.xyz/api/live/play.m3u8?vid=66
 
@@ -74,14 +77,12 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_640_360.png", NTV - Báo và PTTH Nghệ An
 https://freem3u.xyz/api/live/play.m3u8?vid=74
-#EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg", CTV HD - Báo và PTTH Cà Mau
-https://freem3u.xyz/api/live/play.m3u8?vid=46
+
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/GTVGIALAI.png", GTV - Báo và PTTH Gia Lai
 https://vmttv.dpdns.org/tv360/?id=gia-lai
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV_KhanhHoa.png", KTV HD - Báo và PTTH Khánh Hòa
 https://vmttv.dpdns.org/tv360/?id=khanh-hoa
-#EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế TV - Báo và PTTH Huế
-https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="lamdong2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV2.jpg", LTV2 HD - Báo và PTTH Lâm Đồng
 https://freem3u.xyz/api/live/play.m3u8?vid=45
